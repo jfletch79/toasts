@@ -1,0 +1,4403 @@
+[
+  {
+    "id": 1,
+    "type": "toast",
+    "text": "God invented whiskey so the Irish wouldn't rule the world!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 2,
+    "type": "toast",
+    "text": "I'll have what the man on the floor's having!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 3,
+    "type": "toast",
+    "text": "May we get what we want,\nMay we get what we need,\nBut may we never get what we deserve.",
+    "category": "drinking",
+    "author": "Cedric",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 4,
+    "type": "toast",
+    "text": "Here's to the wine we love to drink, and the food we like to eat.\nHere's to our wives and sweethearts, let's pray they never meet.\nHere's champagne for our real friends and real pain for our sham friends.\nAnd when this life is over, may all of us find peace.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 5,
+    "type": "toast",
+    "text": "In water one sees one's own face;\nBut in wine one beholds the heart of another.",
+    "category": "drinking",
+    "author": "French Proverb",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 6,
+    "type": "toast",
+    "text": "Ye killed me mother;\nYe killed me father;\nAh, sweet revenge!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "From a fine old Scottish gentleman from 'The Black Isle,' who passed away years ago. Traditionally delivered while holding his dram and staring it in the eye."
+  },
+  {
+    "id": 7,
+    "type": "toast",
+    "text": "In all this world, why I do think\nThere are five reasons why we drink:\nGood friends,\ngood wine,\nlest we be dry\nand any other reason why.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 8,
+    "type": "toast",
+    "text": "Work is the curse of the drinking class.",
+    "category": "drinking",
+    "author": "Oscar Wilde",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 9,
+    "type": "toast",
+    "text": "Moderation is a fatal thing— nothing succeeds like excess.",
+    "category": "drinking",
+    "author": "Oscar Wilde",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 10,
+    "type": "toast",
+    "text": "We are all of us in the gutter.\nBut some of us are looking at the stars.",
+    "category": "drinking",
+    "author": "Oscar Wilde",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 11,
+    "type": "toast",
+    "text": "He's a fool who give over the liquor,\nIt softens the skinflint at once,\nIt urges the slow coach on quicker,\nGives spirit and brains to the dunce.\n\nThe man who is dumb as a rule\nDiscovers a great deal to say,\nWhile he who is bashful since Yule\nWill talk in an amorous way.\n\nIt's drink that uplifts the poltroon\nTo give battle in France and in Spain,\nNow here is an end of my turn—\nAnd fill me that bumper again!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 12,
+    "type": "toast",
+    "text": "There are several good reasons for drinking\nand one has just entered my head.\nIf a man can't drink when he's living,\nthen how the heck can he drink\nwhen he's dead?",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 13,
+    "type": "toast",
+    "text": "Here's to a long life and a merry one.\nA quick death and an easy one.\nA pretty girl and an honest one.\nA cold beer and another one!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 14,
+    "type": "toast",
+    "text": "Man, being reasonable, must get drunk;\nThe best of life is but intoxication.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 15,
+    "type": "toast",
+    "text": "May those who love us love us.\nAnd those that don't love us,\nMay God turn their hearts.\nAnd if He doesn't turn their hearts,\nMay he turn their ankles,\nSo we'll know them by their limping!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 16,
+    "type": "toast",
+    "text": "Nary a day goes by that I miss to wonder why\nthe moon shows his face as the day draws nigh.\nIn the firelight I ponder my canine's thought\nas he gazes upon me from his hand-me-down cot.\nI think of God and all his creations,\none being the women with her unbridled temptations.\nI have searched for love with no direction,\nskeletons in the closet... a fine collection.\nThese quandaries of mine, I'm sure to figure out.\nFor I know the answer lies at the bottom of this stout.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 17,
+    "type": "toast",
+    "text": "May the winds of fortune sail you,\nMay you sail a gentle sea.\nMay it always be the other guy\nwho says, \"this drink's on me.\"",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 18,
+    "type": "toast",
+    "text": "May your Guardian Angel be at your side to pick ya up off the floor\nand hand ya another cold stout from the store.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 19,
+    "type": "toast",
+    "text": "May you never lie, steal, cheat or drink.\nBut if you must lie, lie in each other's arms.\nIf you must steal, steal kisses.\nIf you must cheat, cheat death.\nAnd if you must drink, drink with us, your friends.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 20,
+    "type": "toast",
+    "text": "Here's to cheating, stealing, fighting, and drinking.\nIf you cheat, may you cheat death.\nIf you steal, may you steal a woman's heart.\nIf you fight, may you fight for a brother.\nAnd if you drink, may you drink with me.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 21,
+    "type": "toast",
+    "text": "May you taste the sweetest pleasures that fortune ere bestowed,\nand may all your friends remember all the favors you are owed.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 22,
+    "type": "toast",
+    "text": "Drink is the curse of the land.\nIt makes you fight with your neighbor.\nIt makes you shoot at your landlord—\nand it makes you miss him!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 23,
+    "type": "toast",
+    "text": "When we drink, we get drunk.\nWhen we get drunk, we fall asleep.\nWhen we fall asleep, we commit no sin.\nWhen we commit no sin, we go to heaven.\nSo, let's all get drunk, and go to heaven!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 24,
+    "type": "toast",
+    "text": "Of all my favorite things to do,\nthe utmost is to have a brew.\nMy love grows for my foamy friend,\nwith each thirst-quenching elbow bend.\nBeer's so frothy, smooth and cold—\nIt's paradise—pure liquid gold.\nYes, beer means many things to me...\nThat's all for now, I gotta pee!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 25,
+    "type": "toast",
+    "text": "Why, if 'tis dancing you would be,\nThere's brisker pipes than poetry.\nSay, for what were hop-yards meant,\nOr why was Burton built on Trent?\nOh many a peer of England brews\nLivelier liquor than the Muse,\nAnd malt does more than Milton can\nTo justify God's ways to man.\nAle, man, ale's the stuff to drink\nFor fellows whom it hurts to think:\nLook into the pewter pot\nTo see the world as the world's not.",
+    "category": "drinking",
+    "author": "A.E. Housman",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 26,
+    "type": "toast",
+    "text": "Four blessings upon you...\nOlder whiskey\nYounger women\nFaster horses\nMore money",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 27,
+    "type": "toast",
+    "text": "May you...\nWork like you don't need the money,\nlove like you've never been hurt,\ndance like no-one is watching,\nscrew like it's being filmed,\nand drink like a true Irishman.",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 28,
+    "type": "toast",
+    "text": "Best while you have it use your breath\nThere is no drinking after death.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 29,
+    "type": "toast",
+    "text": "Be one who drinks the finest of ales.\nEvery day without fail.\nEven when you have drank enough,\nRemember that ale is wonderful stuff.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 30,
+    "type": "toast",
+    "text": "An Irishman is never drunk as long as\nHe can hold onto one blade of grass and not\nFall off the face of the earth.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 31,
+    "type": "toast",
+    "text": "He that buys land buys many stones.\nHe that buys flesh buys many bones.\nHe that buys eggs buys many shells,\nBut he that buys good beer buys nothing else.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 32,
+    "type": "toast",
+    "text": "You guys came by to have some fun.\nYou'll come and stay all night, I fear.\nBut I know how to make you run.\nI'll serve you all generic beer.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 33,
+    "type": "toast",
+    "text": "Fill with mingled cream and amber,\nI will drain that glass again.\nSuch hilarious visions clamber\nThrough the chamber of my brain.\nQuaintest thoughts, queerest fancies\nCome to life and fade away.\nWhat care I how time advances;\nI am drinking ale today.",
+    "category": "drinking",
+    "author": "Edgar Allen Poe",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 34,
+    "type": "toast",
+    "text": "For every wound, a balm.\nFor every sorrow, cheer.\nFor every storm, a calm.\nFor every thirst, a beer.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 35,
+    "type": "toast",
+    "text": "A statesman is an easy man, he tells his lies by rote.\nA journalist invents his lies, and rams them down your throat.\nSo stay at home and drink your beer and let the neighbors vote.",
+    "category": "drinking",
+    "author": "William Butler Yeats",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 36,
+    "type": "toast",
+    "text": "Wine comes in at the mouth\nAnd love comes in at the eye;\nThat's all that we will know for truth\nBefore we grow old and die.\nI lift the glass to my mouth,\nI look at you and I sigh.",
+    "category": "drinking",
+    "author": "William Butler Yeats",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 37,
+    "type": "toast",
+    "text": "The problem with some people is that\nwhen they aren't drunk they're sober.",
+    "category": "drinking",
+    "author": "William Butler Yeats",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 38,
+    "type": "toast",
+    "text": "In heaven there is no beer...\nThat's why we drink ours here.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 39,
+    "type": "toast",
+    "text": "Without question, the greatest invention in the history of mankind is beer.\nOh, I grant you that the wheel was also a fine invention,\nbut the wheel does not go nearly as well with pizza.",
+    "category": "drinking",
+    "author": "Dave Barry",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 40,
+    "type": "toast",
+    "text": "I like beer. On occasion, I will even drink beer to celebrate a major event such as the fall of communism or the fact that the refrigerator is still working.",
+    "category": "drinking",
+    "author": "Dave Barry",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 41,
+    "type": "toast",
+    "text": "Drunk is feeling sophisticated when you can't say it.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 42,
+    "type": "toast",
+    "text": "Beer makes you feel the way you ought to feel without beer.",
+    "category": "drinking",
+    "author": "Henry Lawson",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 43,
+    "type": "toast",
+    "text": "May the devil make a ladder of your backbone\nWhile he is picking apples in the garden of Hell.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 44,
+    "type": "toast",
+    "text": "Let no man thirst for lack of Real Ale.",
+    "category": "drinking",
+    "author": "Commonwealth Brewing Co., Boston",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 45,
+    "type": "toast",
+    "text": "Here's champagne for our real friends\nAnd real pain for our sham friends.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 46,
+    "type": "toast",
+    "text": "Eat thy bread with joy,\nand drink thy wine with a merry heart.",
+    "category": "drinking",
+    "author": "Ecclesiastes 9:10",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 47,
+    "type": "toast",
+    "text": "No animal ever invented anything as bad as drunkenness\nOr as good as drink.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 48,
+    "type": "toast",
+    "text": "Teaching has ruined more American novelists than drink.",
+    "category": "drinking",
+    "author": "Gore Vidal",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 49,
+    "type": "toast",
+    "text": "I have taken more out of alcohol than alcohol has taken out of me.",
+    "category": "drinking",
+    "author": "Winston Churchill",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 50,
+    "type": "toast",
+    "text": "Champagne costs too much,\nWhiskey's too rough,\nVodka puts big mouths in gear.\nThis little refrain\nShould help to explain\nWhy it's better to order a beer!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 51,
+    "type": "toast",
+    "text": "In Vino Veritas\nIn Cervesio Felicitas\n(In wine there is wisdom, in beer there is joy.)",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 52,
+    "type": "toast",
+    "text": "When money's tight and hard to get\nand your horse is also ran,\nWhen all you have is a heap of debt\na pint of plain is your only man.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 53,
+    "type": "toast",
+    "text": "The health of the salmon and of the trout\nThat swim back and forward near the Bull's Mouth.\nDon't ask for saucepan, jug, or mug,\nDown the hatch—drink it up!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 54,
+    "type": "toast",
+    "text": "Man's way to God is with beer in hand.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 55,
+    "type": "toast",
+    "text": "But if at church they give some ale\nAnd a pleasant fire for our souls to regale\nWe'd sing and we'd pray all the live long day\nNor ever once from the church to stray.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 56,
+    "type": "toast",
+    "text": "Beer drinkin' don't do half the harm of love makin'.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Old New England proverb"
+  },
+  {
+    "id": 57,
+    "type": "toast",
+    "text": "Mother's in the kitchen washing out the jugs,\nSister's in the pantry bottling the suds,\nFather's in the cellar mixing up the hops,\nJohnny's on the front porch watching for the cops.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Prohibition song"
+  },
+  {
+    "id": 58,
+    "type": "toast",
+    "text": "Pure Water is the best gifts a man can bring.\nBut who am I that I should have the best of anything?\nLet princes revel at the pump, let peers with ponds make free,\n...beer is good enough for me.",
+    "category": "drinking",
+    "author": "Lord Neaves",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 59,
+    "type": "toast",
+    "text": "Let us sing our own treasures, Old England's good cheer,\nTo the profits and pleasures of stout British beer;\nYour wine tippling, dram sipping fellows retreat,\nBut your beer drinking Britons can never be beat.\nThe French with their vineyards and meager pale ale,\nThey drink from the squeezing of half ripe fruit;\nBut we, who have hop-yards to mellow our ale,\nAre rosy and plump and have freedom to boot.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "English drinking song, circa 1757"
+  },
+  {
+    "id": 60,
+    "type": "toast",
+    "text": "Why, we'll smoke and drink our beer.\nFor I like a drop of good beer, I does.\nI'ze fond of good beer, I is.\nLet gentlemen fine sit down to their wine.\nBut we'll all of us here stick to our beer.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Old Somersetshire English song"
+  },
+  {
+    "id": 61,
+    "type": "toast",
+    "text": "Drink is the feast of the reason and the flow of soul.",
+    "category": "drinking",
+    "author": "Alexander Pope",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 62,
+    "type": "toast",
+    "text": "I've always believed that paradise will have my favorite beer on tap.",
+    "category": "drinking",
+    "author": "Rudyard Wheatley",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 63,
+    "type": "toast",
+    "text": "Here's a toast to the roast that good fellowship lends,\nWith the sparkle of beer and wine;\nMay its sentiment always be deeper, my friends,\nThan the foam at the top of the stein.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 64,
+    "type": "toast",
+    "text": "Then here's to the heartening wassail,\nWherever good fellows are found;\nBe its master instead of its vassal, and order the glasses around.",
+    "category": "drinking",
+    "author": "Ogden Nash",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 65,
+    "type": "toast",
+    "text": "For [insert city of your choosing] hath no sober man,\nOr none of milk sop thinkers,\nAnd no philosophical fools,\nBut great and glorious drinkers!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 66,
+    "type": "toast",
+    "text": "A mouth of a perfectly happy man is filled with beer.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Ancient Egyptian Wisdom, 2200 B.C."
+  },
+  {
+    "id": 67,
+    "type": "toast",
+    "text": "The best beer is where priests go to drink.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 68,
+    "type": "toast",
+    "text": "For a quart of Ale is a dish for a King.",
+    "category": "drinking",
+    "author": "Shakespeare",
+    "adult": false,
+    "notes": "From 'A Winter's Tale'"
+  },
+  {
+    "id": 69,
+    "type": "toast",
+    "text": "History flows forward on rivers of beer.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 70,
+    "type": "toast",
+    "text": "For we could not now take time for further search (to land our ship) our victuals being much spent, especially our Beere.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Ship's log of the Mayflower"
+  },
+  {
+    "id": 71,
+    "type": "toast",
+    "text": "But the greatest love—the love above all loves,\nEven greater than that of a mother...\nIs the tender, passionate, undying love,\nOf one beer drunken slob for another.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Irish love ballad"
+  },
+  {
+    "id": 72,
+    "type": "toast",
+    "text": "When the hour is nigh me,\nLet me in a tavern die,\nWith a tankard by me.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Archpoet, 'Confesio,' 12th century"
+  },
+  {
+    "id": 73,
+    "type": "toast",
+    "text": "Payday came and with it beer.",
+    "category": "drinking",
+    "author": "Kipling",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 74,
+    "type": "toast",
+    "text": "You foam within our glasses, you lusty golden brew,\nWhoever imbibes takes fire from you.\nThe young and the old sing your praises,\nHere's to beer,\nHere's to cheer,\nHere's to beer!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "From the opera 'The Bartered Bride' by Bedrich Smetana, 1866"
+  },
+  {
+    "id": 75,
+    "type": "toast",
+    "text": "Life, alas,\nIs very drear.\nUp with the glass,\nDown with the beer!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 76,
+    "type": "toast",
+    "text": "Here's to living single and drinking double!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 77,
+    "type": "toast",
+    "text": "I won't drink beer with any man\nthat won't drink beer with a Buckeyes fan.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 78,
+    "type": "toast",
+    "text": "Here's to being single...\ndrinking doubles...\nand seeing triple!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 79,
+    "type": "toast",
+    "text": "The horse and mule live thirty years\nAnd never knows of wines and beers.\nThe goat and sheep at twenty die\nWithout a taste of scotch or rye.\nThe cow drinks water by the ton\nAnd at eighteen is mostly done.\nThe dog at fifteen cashes in\nWithout the aid of rum or gin.\nThe modest, sober, bone-dry hen\nLays eggs for noggs and dies at ten.\nBut sinful, ginful, rum-soaked men\nSurvive three-score years and ten.\nAnd some of us...though mighty few\nStay pickled 'til we're ninety-two.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 80,
+    "type": "toast",
+    "text": "I drink to your health in public,\nI drink to your health alone,\nI've drunk to your health so many times,\nI'm now worried about my own.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 81,
+    "type": "toast",
+    "text": "It's better to have a bottle in front of you,\nThan a frontal lobotomy.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 82,
+    "type": "toast",
+    "text": "Here's to the men of all classes,\nWho through lasses and glasses,\nWill make themselves asses.",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 83,
+    "type": "toast",
+    "text": "A toast to the Cocktail Party,\nWhere olives are speared,\nAnd friends are stabbed.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 84,
+    "type": "toast",
+    "text": "I used to know a clever toast,\nBut now I can't think of it.\nSo fill your glass to anything,\nAnd I'll drink it!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 85,
+    "type": "toast",
+    "text": "May your liquor be cold,\nMay your women be hot,\nAnd may your troubles slide off of you,\nSlicker than snot.",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 86,
+    "type": "toast",
+    "text": "Here's to you as good as you are,\nHere's to me as bad as I am,\nBut as good as you are,\nAnd as bad as I am,\nI'm just as good as you are,\nAs bad as I am!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 87,
+    "type": "toast",
+    "text": "Here's head first in a foaming glass,\nHere's head first to a lovely lass,\nHere's head first for a bit of kissing,\nHere's to all others that don't know\nThe fun that they are missing!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 88,
+    "type": "toast",
+    "text": "When I die don't bury me at all,\nJust pickle my bones in alcohol,\nPut a bottle of booze at my head and feet,\nAnd then I'll know my bones will keep.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 89,
+    "type": "toast",
+    "text": "Drink to the girls and drink to their mothers,\nDrink to their fathers and drink to their brothers,\nToast their health as long as you are able,\nAnd dream of their charms while you're under the table!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 90,
+    "type": "toast",
+    "text": "Here's to us,\nMay we never drink worse.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 91,
+    "type": "toast",
+    "text": "Here's to the girl dressed in black,\nWhen you whistle she never turns back,\nAnd if she turns back,\nShe's such a treat,\nShe makes things stand,\nThat have no feet.",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 92,
+    "type": "toast",
+    "text": "One bottle for four of us,\nThank God there's no more of us!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 93,
+    "type": "toast",
+    "text": "Here's to steak when you're hungry,\nWhiskey when you're dry,\nAll the girls you ever want,\nAnd heaven when you die.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 94,
+    "type": "toast",
+    "text": "Here's to good food, good fortune, and good whiskey!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 95,
+    "type": "toast",
+    "text": "The German likes his beer,\nThe Frenchman likes his wine,\nThe Scotsman likes his whisky,\nAnd the Irishman likes his hot,\nThe Aussie has no national drink,\nSo he drinks the bloody lot!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 96,
+    "type": "toast",
+    "text": "Here's to the perfect girl,\nI couldn't ask for more,\nShe's deaf, dumb, and oversexed,\nAnd owns a liquor store.",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 97,
+    "type": "toast",
+    "text": "Who'd care to be a bee and sip,\nSweet honey from the flower's lip,\nWhen he might be a fly and steer,\nHead first into a can of beer?",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 98,
+    "type": "toast",
+    "text": "See that big white cloud up there,\nAll white and fluffy at the top,\nJust like a jug of beer,\nIt's time to have a drink boys,\nFor if that cloud should burst,\nThe beer would all run out,\nFor it's just a cloud of thirst.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 99,
+    "type": "toast",
+    "text": "Old Mother Hubbard,\nWent to the cupboard,\nTo get a big drink of gin,\nWhen she got there,\nThe cupboard was bare,\nAnd the old man was wiping his chin.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 100,
+    "type": "toast",
+    "text": "Let's drink to California way out by the sea,\nWhere a woman's ass,\nAnd a whiskey glass,\nMade a horse's ass of me.",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 101,
+    "type": "toast",
+    "text": "May all your joys be pure joys,\nAnd all your pain Champagne.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 102,
+    "type": "toast",
+    "text": "I'll drink to the girls that will,\nI'll drink to the girls that won't,\nBut I won't drink to the girls that say they will,\nAnd then I find out they don't.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 103,
+    "type": "toast",
+    "text": "Here's to the girl on the hill\nShe won't,\nBut her sister will,\nHere's to her sister!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 104,
+    "type": "toast",
+    "text": "Here's to when I want it,\nAnd if I don't get it,\nIt makes me mad,\nAnd if I do get it,\nIt makes me frisky,\nNow don't get me wrong,\n'Cause I mean whiskey.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 105,
+    "type": "toast",
+    "text": "Here's to women's kisses,\nAnd to whiskey, amber clear;\nNot as sweet as a woman's kiss,\nbut a darn sight more sincere!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 106,
+    "type": "toast",
+    "text": "Here's to the women in the high-heeled shoes,\nWho smoke men's fags and drink men's booze,\nAnd when they kiss, they kiss so sweet,\nThey make things stand that have no feet!",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 107,
+    "type": "toast",
+    "text": "A bird with one wing can't fly.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Traditionally said to encourage someone to take a second drink."
+  },
+  {
+    "id": 108,
+    "type": "toast",
+    "text": "It is better to spend money like there's no tomorrow\nthan to spend tonight like there's no money!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 109,
+    "type": "toast",
+    "text": "That the tap may be open when it rusts!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 110,
+    "type": "toast",
+    "text": "My friends are the best friends\nLoyal, willing and able.\nNow let's get to drinking!\nAll glasses off the table!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 111,
+    "type": "toast",
+    "text": "Here's to a temperance supper,\nWith water in glasses tall,\nAnd coffee and tea to end with—\nAnd me not there at all!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 112,
+    "type": "toast",
+    "text": "May you have nicer legs than yours under the table before the new spuds are up.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Irish toast for a bachelor"
+  },
+  {
+    "id": 113,
+    "type": "toast",
+    "text": "Down the hatch!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "When stocking a ship with supplies—barrels of rum, wine, ale and water—you'd load them through and down the hatch. 'Hatch' is a naval word for door."
+  },
+  {
+    "id": 114,
+    "type": "toast",
+    "text": "Bottoms Up!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Simply means that the bottom of the glass is up."
+  },
+  {
+    "id": 115,
+    "type": "toast",
+    "text": "Cheers!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "It's said this was a lower class toast in England. The upper class would say 'To your health' or 'Good luck!'"
+  },
+  {
+    "id": 116,
+    "type": "toast",
+    "text": "I drink Martinis.\nTwo at the very most.\nThree I'm under the table.\nFour I'm under the host",
+    "category": "celebrity",
+    "author": "Dorothy Parker",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 117,
+    "type": "toast",
+    "text": "I drink to your charm,\nYour beauty and your brains,\nWhich gives you a rough idea\nof how hard up I am for a drink.",
+    "category": "celebrity",
+    "author": "Groucho Marx",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 118,
+    "type": "toast",
+    "text": "Everybody has to believe in something, I believe I'll have another drink.",
+    "category": "celebrity",
+    "author": "W.C. Fields",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 119,
+    "type": "toast",
+    "text": "May you have all the happiness\nand luck that life can hold—\nAnd at the end of all your rainbows\nmay you find a pot of gold.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 120,
+    "type": "toast",
+    "text": "If you're enough lucky to be Irish...\nYou're lucky enough!",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 121,
+    "type": "toast",
+    "text": "May the luck of the Irish\nLead to happiest heights\nAnd the highway you travel\nBe lined with green lights.\nWherever you go and whatever you do,\nMay the luck of the Irish be there with you.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 122,
+    "type": "toast",
+    "text": "May your pockets be heavy—\nYour heart be light,\nAnd may good luck pursue you\nEach morning and night.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 123,
+    "type": "toast",
+    "text": "Here's mud in your eye",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "It's said this toast came from World War II as a wish of good fortune to farmers. Another story has it from the mud kicked in a winner's face at the racetrack."
+  },
+  {
+    "id": 124,
+    "type": "toast",
+    "text": "Saint Patrick was a gentleman,\nWho through strategy and stealth,\nDrove all the snakes from Ireland,\nHere's a toasting to his health.\nBut not too many toastings\nLest you lose yourself and then\nForget the good Saint Patrick\nAnd see all those snakes again.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 125,
+    "type": "toast",
+    "text": "Here's to the land of the shamrock so green,\nHere's to each lad and his darlin colleen,\nHere's to the ones we love dearest and most.\nMay God bless old Ireland, that's this Irishman's toast!",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 126,
+    "type": "toast",
+    "text": "A Merry Christmas this December\nTo a lot of folks I don't remember.",
+    "category": "holidays",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 127,
+    "type": "toast",
+    "text": "Now, thrice welcome, Christmas!\nWhich brings us good cheer,\nMince pies and plum pudding—\nStrong ale and strong beer!",
+    "category": "holidays",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 128,
+    "type": "toast",
+    "text": "Here's to holly and ivy hanging up,\nAnd to something wet in every cup.",
+    "category": "holidays",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 129,
+    "type": "toast",
+    "text": "May peace and plenty be the first to lift the latch on your door, and happiness be guided to your home by the candle of Christmas.",
+    "category": "holidays",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 130,
+    "type": "toast",
+    "text": "'Nollaig shona duit!'",
+    "category": "foreign-language",
+    "tags": [
+      "irish"
+    ],
+    "author": null,
+    "adult": false,
+    "notes": "Irish. Meaning: Happy Christmas!"
+  },
+  {
+    "id": 131,
+    "type": "toast",
+    "text": "'Nollaig faoi shéan is faoi shonas duit.'",
+    "category": "foreign-language",
+    "tags": [
+      "irish"
+    ],
+    "author": null,
+    "adult": false,
+    "notes": "Irish. Meaning: A prosperous and happy Christmas to you."
+  },
+  {
+    "id": 132,
+    "type": "toast",
+    "text": "'Go mbeire muid beo ar an am seo arís.'",
+    "category": "foreign-language",
+    "tags": [
+      "irish"
+    ],
+    "author": null,
+    "adult": false,
+    "notes": "Irish. Meaning: May we be alive at this time next year."
+  },
+  {
+    "id": 133,
+    "type": "toast",
+    "text": "'Athbhliain faoi mhaise duit!'",
+    "category": "foreign-language",
+    "tags": [
+      "irish"
+    ],
+    "author": null,
+    "adult": false,
+    "notes": "Irish. Meaning: A prosperous New Year!"
+  },
+  {
+    "id": 134,
+    "type": "toast",
+    "text": "'Beannachtam na Feile Padraig!'",
+    "category": "foreign-language",
+    "tags": [
+      "irish"
+    ],
+    "author": null,
+    "adult": false,
+    "notes": "Irish. Meaning: Happy St. Patrick's Day!"
+  },
+  {
+    "id": 135,
+    "type": "toast",
+    "text": "'Sláinte go saol agat, Bean ar do mhian agat. Leanbh gach blian agat, is solas na bhflaitheas tareis antsail seo agat.'",
+    "category": "foreign-language",
+    "tags": [
+      "irish"
+    ],
+    "author": null,
+    "adult": false,
+    "notes": "Irish wedding toast. Meaning: Health for life to you, a wife of your choice to you, land without rent to you, a child every year to you, and the light of heaven after this world for you."
+  },
+  {
+    "id": 136,
+    "type": "toast",
+    "text": "'Sláinte!'",
+    "category": "foreign-language",
+    "tags": [
+      "irish"
+    ],
+    "author": null,
+    "adult": false,
+    "notes": "Irish. Pronounced 'slawn-cha'. Meaning: Health! A common toast in Ireland, the equivalent of 'Cheers'."
+  },
+  {
+    "id": 137,
+    "type": "toast",
+    "text": "'Sláinte chuig na fir, agus go mairfidh na mná go deo.'",
+    "category": "foreign-language",
+    "tags": [
+      "irish"
+    ],
+    "author": null,
+    "adult": false,
+    "notes": "Irish. Meaning: Health to the men, and may the women live forever!"
+  },
+  {
+    "id": 138,
+    "type": "toast",
+    "text": "'Faol saol agat, gob fliuch, agus bás in Éirinn.'",
+    "category": "foreign-language",
+    "tags": [
+      "irish"
+    ],
+    "author": null,
+    "adult": false,
+    "notes": "Irish. Meaning: Long life to you, a wet mouth, and death in Ireland."
+  },
+  {
+    "id": 139,
+    "type": "toast",
+    "text": "'Sliocht sleachta ar shliocht bhur sleachta.'",
+    "category": "foreign-language",
+    "tags": [
+      "irish"
+    ],
+    "author": null,
+    "adult": false,
+    "notes": "Irish wedding toast. Meaning: May there be a generation of children on the children of your children."
+  },
+  {
+    "id": 140,
+    "type": "toast",
+    "text": "Health and a long life to you.\nLand without rent to you.\nA child every year to you.\nAnd if you can't go to heaven,\nMay you at least die in Ireland.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 141,
+    "type": "toast",
+    "text": "May there always be work for your hands to do.\nMay your purse always hold a coin or two.\nMay the sun always shine warm on your windowpane.\nMay a rainbow be certain to follow each rain.\nMay the hand of a friend always be near you.\nAnd may God fill your heart with gladness to cheer you.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 142,
+    "type": "toast",
+    "text": "May you both live as long as you want,\nAnd never want as long as you live.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 143,
+    "type": "toast",
+    "text": "May your glasses be ever full.\nMay the roof over your heads be always strong.\nAnd may you be in heaven half an hour\nbefore the devil knows you're dead.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 144,
+    "type": "toast",
+    "text": "May you be poor in misfortune,\nRich in blessings,\nSlow to make enemies,\nAnd quick to make friends.\nBut rich or poor, quick or slow,\nMay you know nothing but happiness\nFrom this day forward.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 145,
+    "type": "toast",
+    "text": "As you slide down the bannister of life,\nMay the splinters never point the wrong way.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 146,
+    "type": "toast",
+    "text": "May the joys of today\nBe those of tomorrow.\nThe goblets of life\nHold no dregs of sorrow.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 147,
+    "type": "toast",
+    "text": "May you have:\nNo frost on your spuds,\nNo worms on your cabbage.\nMay your goat give plenty of milk.\nAnd if you inherit a donkey,\nMay she be in foal.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 148,
+    "type": "toast",
+    "text": "May the luck of the Irish possess you.\nMay the devil fly off with your worries.\nMay God bless you forever and ever.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 149,
+    "type": "toast",
+    "text": "May your troubles be less\nAnd your blessings be more.\nAnd nothing but happiness\nCome through your door.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 150,
+    "type": "toast",
+    "text": "May your thoughts be as glad as the shamrocks.\nMay your hearts be as light as a song.\nMay each day bring you bright happy hours,\nThat stay with you all year long.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 151,
+    "type": "toast",
+    "text": "For each petal on the shamrock\nThis brings a wish your way\nGood health, good luck, and happiness\nFor today and every day.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 152,
+    "type": "toast",
+    "text": "May your heart be warm and happy\nWith the lilt of Irish laughter\nEvery day in every way\nAnd forever and ever after.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 153,
+    "type": "toast",
+    "text": "May the blessings of light be upon you,\nLight without and light within.\nAnd in all your comings and goings,\nMay you ever have a kindly greeting\nFrom them you meet along the road.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 154,
+    "type": "toast",
+    "text": "May brooks and trees and singing hills\nJoin in the chorus, too.\nAnd every gentle wind that blows\nSend happiness to you.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 155,
+    "type": "toast",
+    "text": "Like the goodness of the five loaves and two fishes,\nWhich God divided among the five thousand men,\nMay the blessing of the King who so divided\nBe upon our share of this common meal.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 156,
+    "type": "toast",
+    "text": "May you have food and raiment,\nA soft pillow for your head.\nMay you be forty years in heaven\nBefore the devil knows you're dead.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 157,
+    "type": "toast",
+    "text": "May the strength of three be in your journey.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 158,
+    "type": "toast",
+    "text": "May your right hand always\nBe stretched out in friendship\nAnd never in want.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 159,
+    "type": "toast",
+    "text": "May the roof above us never fall in.\nAnd may the friends gathered below it never fall out.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 160,
+    "type": "toast",
+    "text": "Here's to a sweetheart,\na bottle, and a friend.\nThe first beautiful,\nthe second full,\nthe last ever faithful.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 161,
+    "type": "toast",
+    "text": "May the grass grow long on the road to hell for want of use.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 162,
+    "type": "toast",
+    "text": "May I see you grey\nAnd combing your grandchildren's hair.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 163,
+    "type": "toast",
+    "text": "May your neighbors respect you,\nTrouble neglect you,\nThe angels protect you,\nAnd heaven accept you.\nMay the Irish hills caress you.\nMay her lakes and rivers bless you.\nMay the luck of the Irish enfold you.\nMay the blessings of Saint Patrick behold you.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 164,
+    "type": "toast",
+    "text": "May you see each other through many dark days,\nand make all the rest a little brighter.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 165,
+    "type": "toast",
+    "text": "May all your ups and downs\ncome only in the bedroom.",
+    "category": "wedding",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 166,
+    "type": "toast",
+    "text": "Here's to health and prosperity,\nTo you and all your posterity.\nAnd them that doesn't drink with sincerity,\nThat they may be damned for all eternity!",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 167,
+    "type": "toast",
+    "text": "Here's to the bride and mother-in-law,\nHere's to the groom and father-in-law,\nHere's to the sister and brother-in-law,\nHere's to the friends and friends-in-law,\nMay none of them need an attorney-at-law.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 168,
+    "type": "toast",
+    "text": "Here's to health, peace and prosperity.\nMay the flower of love never be nipped by the frost of disappointment,\nnor shadow of grief fall among your family and friends.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 169,
+    "type": "toast",
+    "text": "May your home always be too small to hold all your friends.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 170,
+    "type": "toast",
+    "text": "May the roof over your heads be as well thatched\nAs those inside are well matched.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Irish wedding toast"
+  },
+  {
+    "id": 171,
+    "type": "toast",
+    "text": "May you live to be a hundred years,\nwith one extra year to repent.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 172,
+    "type": "toast",
+    "text": "We drink to your coffin.\nMay it be built from the wood of a hundred year old oak tree that I shall plant tomorrow.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 173,
+    "type": "toast",
+    "text": "May God grant you many years to live, for sure he must be knowing, the earth has angels all too few and heaven is overflowing...",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 174,
+    "type": "toast",
+    "text": "May the doctor never earn a pound out of you.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 175,
+    "type": "toast",
+    "text": "May the good Lord take a liking to you...\nBut not too soon!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 176,
+    "type": "toast",
+    "text": "May you die in bed at 95, shot by a jealous spouse.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 177,
+    "type": "toast",
+    "text": "Another candle on your cake?\nWell, that's no cause to pout.\nBe glad that you have strength enough,\nTo blow the darn things out!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 178,
+    "type": "toast",
+    "text": "Another year older?\nThink this way:\nJust one day older than yesterday.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 179,
+    "type": "toast",
+    "text": "To your birthday,\nglass held high,\nGlad it's you that's older,\nand not I.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 180,
+    "type": "toast",
+    "text": "To a healthy year and many of them.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 181,
+    "type": "toast",
+    "text": "Happy birthday to you,\nand many to be,\nWith friends that are true,\nAs you are to me!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 182,
+    "type": "toast",
+    "text": "A baby will make: love stronger, days shorter, nights longer, bankroll smaller, home happier, clothes shabbier, the past forgotten, and the future worth living!",
+    "category": "babies",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 183,
+    "type": "toast",
+    "text": "A new life begun,\nlike father, like son.",
+    "category": "babies",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 184,
+    "type": "toast",
+    "text": "Like one,\nlike the other.\nLike daughter,\nlike mother.",
+    "category": "babies",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 185,
+    "type": "toast",
+    "text": "Grow old with me!\nThe best is yet to be.\nMay virtue and truth\nguide you in youth.\nWith catnip and sage to\ncheer your old age.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 186,
+    "type": "toast",
+    "text": "Here's to loving, to romance, to us,\nMay we travel together through time.\nWe alone count as none, but together we're one,\nFor our partnership puts love to rhyme.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 187,
+    "type": "toast",
+    "text": "Here's to you both,\na beautiful pair,\nOn the birthday,\nOf your love affair.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 188,
+    "type": "toast",
+    "text": "Here's a health to all those that we love,\nHere's a health to all those that love us,\nHere's a health to all those that love them\nthat love those\nthat love them\nthat love those\nthat love us.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 189,
+    "type": "toast",
+    "text": "There are good ships\nand there are wood ships,\nThe ships that sail the sea.\nBut the best ships, are friendships,\nAnd may they always be.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 190,
+    "type": "toast",
+    "text": "May the hinges of our friendship never grow rusty.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 191,
+    "type": "toast",
+    "text": "Here's to you and yours\nAnd to mine and ours.\nAnd if mine and ours ever come\nAcross you and yours,\nI hope you and yours will do\nAs much for mine and ours,\nAs mine and ours have done\nFor you and yours!",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 192,
+    "type": "toast",
+    "text": "To live above with the Saints we love,\nAh, that is the purest glory.\nTo live below with the Saints we know,\nAh, that is another story!",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 193,
+    "type": "toast",
+    "text": "May the lilt of Irish laughter\nlighten every load.\nMay the mist of Irish magic\nshorten every road...\nAnd may all your friends remember\nall the favours you are owed!",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 194,
+    "type": "toast",
+    "text": "May you have warm words on a cold evening,\nA full moon on a dark night,\nAnd the road downhill all the way to your door.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 195,
+    "type": "toast",
+    "text": "Health to you,\nWealth to you,\nAnd the best that life\ncan give to you.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 196,
+    "type": "toast",
+    "text": "Here's to my friend.\nHe knows you well\nand likes you just the same.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 197,
+    "type": "toast",
+    "text": "Here's to Eternity.\nMay we spend it in\nas good of company\nas this night finds us.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 198,
+    "type": "toast",
+    "text": "Here's to love,\nThe only fire against which there is no insurance.",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 199,
+    "type": "toast",
+    "text": "May we kiss whom we please,\nAnd please whom we kiss.",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 200,
+    "type": "toast",
+    "text": "I have known many,\nLiked a few,\nLoved one,\nHere's to you!",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 201,
+    "type": "toast",
+    "text": "Because I love you truly,\nBecause you love me, too,\nMy very greatest happiness,\nIs sharing life with you.",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 202,
+    "type": "toast",
+    "text": "Here's to you who halves my sorrows,\nand doubles my joys.",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 203,
+    "type": "toast",
+    "text": "Love doesn't make the world go around.\nLove is what makes the ride worthwhile.",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 204,
+    "type": "toast",
+    "text": "Happy to share with you,\nsuch as we got,\nThe leaks in the roof,\nthe soup's in the pot.\nYou don't have to thank us,\nor laugh at our jokes.\nSit deep and come often,\nyou're one of the folks.",
+    "category": "overnight-guests",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 205,
+    "type": "toast",
+    "text": "You are welcome here,\nbe at your ease.\nGet up when you're ready,\ngo to bed when you please.",
+    "category": "overnight-guests",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 206,
+    "type": "toast",
+    "text": "The ornament of a house is the guest who frequents it.",
+    "category": "overnight-guests",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 207,
+    "type": "toast",
+    "text": "Dance as if no one were watching,\nSing as if no one were listening,\nAnd live every day as if it were your last.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 208,
+    "type": "toast",
+    "text": "May you always have a clean shirt, a clear conscience, and enough coins in your pocket to buy a pint!",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 209,
+    "type": "toast",
+    "text": "May the most you wish for\nBe the least you get.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 210,
+    "type": "toast",
+    "text": "Merry met, and merry part,\nI drink to thee with all my heart.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 211,
+    "type": "toast",
+    "text": "Here's to those who wish us well\nand those that don't may go to hell.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 212,
+    "type": "toast",
+    "text": "May your heart be light and happy,\nMay your smile be big and wide,\nAnd may your pockets always have\na coin or two inside!",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 213,
+    "type": "toast",
+    "text": "Always remember to forget\nThe troubles that passed away.\nBut never forget to remember\nThe blessings that come each day.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 214,
+    "type": "toast",
+    "text": "May the face of every good news and the back of every bad news be towards us.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 215,
+    "type": "toast",
+    "text": "May you have the hindsight to know where you've been,\nThe foresight to know where you are going,\nAnd the insight to know when you have gone too far.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 216,
+    "type": "toast",
+    "text": "May misfortune follow you the rest of your life, and never catch up.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 217,
+    "type": "toast",
+    "text": "May your mornings bring joy\nand your evenings bring peace...\nMay your troubles grow less\nas your blessings increase!",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 218,
+    "type": "toast",
+    "text": "May you get all your wishes but one,\nso that you will always have something to strive for!",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 219,
+    "type": "toast",
+    "text": "May our faults\nbe written on the seashore,\nand every good action prove a\nwave to wash them out.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 220,
+    "type": "toast",
+    "text": "Here's a toast to all who are here,\nno matter where you're from.\nMay the best day you have seen,\nbe worse than your worse to come.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 221,
+    "type": "toast",
+    "text": "To the days that are,\nand all that gives you pleasure!",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 222,
+    "type": "toast",
+    "text": "Here is to the fools of the world\nfor without them the rest of us could not succeed.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 223,
+    "type": "toast",
+    "text": "Here's looking at you kid",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": "Humphrey Bogart made this toast famous in Casablanca, but it was first said in Old World pubs—where glass-bottomed steins were made so nobody could sneak up on you while you drank."
+  },
+  {
+    "id": 224,
+    "type": "toast",
+    "text": "May the saddest day of your future be no worse\nthan the happiest day of your past.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 225,
+    "type": "phrase",
+    "text": "geh-ZOO-ahr",
+    "category": "global",
+    "native": "Gëzuar",
+    "author": null,
+    "adult": false,
+    "notes": "Albania"
+  },
+  {
+    "id": 226,
+    "type": "phrase",
+    "text": "bee-sa-LAH-mah",
+    "category": "global",
+    "native": "بالسلامة",
+    "author": null,
+    "adult": false,
+    "notes": "Arabic (verify)"
+  },
+  {
+    "id": 227,
+    "type": "phrase",
+    "text": "gen-AHTST",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Armenia"
+  },
+  {
+    "id": 228,
+    "type": "phrase",
+    "text": "PROH-zit",
+    "category": "global",
+    "native": "Prosit",
+    "author": null,
+    "adult": false,
+    "notes": "Austria"
+  },
+  {
+    "id": 229,
+    "type": "phrase",
+    "text": "NOOSH ol-sum",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Azerbaijan"
+  },
+  {
+    "id": 230,
+    "type": "phrase",
+    "text": "seh-LAH-mat",
+    "category": "global",
+    "native": "Selamat",
+    "author": null,
+    "adult": false,
+    "notes": "Bali"
+  },
+  {
+    "id": 231,
+    "type": "phrase",
+    "text": "op uw geh-ZON-hayt",
+    "category": "global",
+    "native": "Op uw gezondheid",
+    "author": null,
+    "adult": false,
+    "notes": "Belgium"
+  },
+  {
+    "id": 232,
+    "type": "phrase",
+    "text": "SOOH-doh",
+    "category": "global",
+    "native": "Saúde",
+    "author": null,
+    "adult": false,
+    "notes": "Brazil"
+  },
+  {
+    "id": 233,
+    "type": "phrase",
+    "text": "OO-bar-SEE",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Burma"
+  },
+  {
+    "id": 234,
+    "type": "phrase",
+    "text": "kun-bye",
+    "category": "global",
+    "native": "干杯",
+    "author": null,
+    "adult": false,
+    "notes": "China (source phrase unclear — verify)"
+  },
+  {
+    "id": 235,
+    "type": "phrase",
+    "text": "nah-zdrah-VLYEH",
+    "category": "global",
+    "native": "Na zdravlje",
+    "author": null,
+    "adult": false,
+    "notes": "Croatia"
+  },
+  {
+    "id": 236,
+    "type": "phrase",
+    "text": "nah-zdra-VYEH",
+    "category": "global",
+    "native": "Na zdraví",
+    "author": null,
+    "adult": false,
+    "notes": "Czechoslovakia"
+  },
+  {
+    "id": 237,
+    "type": "phrase",
+    "text": "SKAWL",
+    "category": "global",
+    "native": "Skål",
+    "author": null,
+    "adult": false,
+    "notes": "Denmark"
+  },
+  {
+    "id": 238,
+    "type": "phrase",
+    "text": "AH-lah sih-TEHK",
+    "category": "global",
+    "native": "على صحتك",
+    "author": null,
+    "adult": false,
+    "notes": "Egypt (verify)"
+  },
+  {
+    "id": 239,
+    "type": "phrase",
+    "text": "CHEERS",
+    "category": "global",
+    "native": "Cheers",
+    "author": null,
+    "adult": false,
+    "notes": "England"
+  },
+  {
+    "id": 240,
+    "type": "phrase",
+    "text": "yah ZEE-ah SAH-no",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Esperanto"
+  },
+  {
+    "id": 241,
+    "type": "phrase",
+    "text": "TEER-vist",
+    "category": "global",
+    "native": "Tervist",
+    "author": null,
+    "adult": false,
+    "notes": "Estonia (verify)"
+  },
+  {
+    "id": 242,
+    "type": "phrase",
+    "text": "leh-ten-AW-chee",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Ethiopia"
+  },
+  {
+    "id": 243,
+    "type": "phrase",
+    "text": "KIP-is",
+    "category": "global",
+    "native": "Kippis",
+    "author": null,
+    "adult": false,
+    "notes": "Finland"
+  },
+  {
+    "id": 244,
+    "type": "phrase",
+    "text": "ah VOTR sahn-TAY",
+    "category": "global",
+    "native": "À votre santé",
+    "author": null,
+    "adult": false,
+    "notes": "France"
+  },
+  {
+    "id": 245,
+    "type": "phrase",
+    "text": "PROH-zit",
+    "category": "global",
+    "native": "Prosit",
+    "author": null,
+    "adult": false,
+    "notes": "Germany"
+  },
+  {
+    "id": 246,
+    "type": "phrase",
+    "text": "ga-oo-mar-JOSS",
+    "category": "global",
+    "native": "გაუმარჯოს",
+    "author": null,
+    "adult": false,
+    "notes": "Georgia"
+  },
+  {
+    "id": 247,
+    "type": "phrase",
+    "text": "iss ih-GY-ahn",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Greece"
+  },
+  {
+    "id": 248,
+    "type": "phrase",
+    "text": "kah-SOO-gtah",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Greenland"
+  },
+  {
+    "id": 249,
+    "type": "phrase",
+    "text": "oh-KEH-lee mah-LOO-nah & HOW-oh-lee MAH-oh-lee oh-eh",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Hawaii"
+  },
+  {
+    "id": 250,
+    "type": "phrase",
+    "text": "PROOST",
+    "category": "global",
+    "native": "Proost",
+    "author": null,
+    "adult": false,
+    "notes": "Holland"
+  },
+  {
+    "id": 251,
+    "type": "phrase",
+    "text": "KED-veh eh-GEHS-zeh-geh-rah",
+    "category": "global",
+    "native": "Kedves egészségére",
+    "author": null,
+    "adult": false,
+    "notes": "Hungary (verify)"
+  },
+  {
+    "id": 252,
+    "type": "phrase",
+    "text": "SAHM-tah-kah noo",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Iceland"
+  },
+  {
+    "id": 253,
+    "type": "phrase",
+    "text": "pi-ya-JYE",
+    "category": "global",
+    "native": "पियाजिए",
+    "author": null,
+    "adult": false,
+    "notes": "India (source spelling was garbled — verify)"
+  },
+  {
+    "id": 254,
+    "type": "phrase",
+    "text": "seh-LAH-mat",
+    "category": "global",
+    "native": "Selamat",
+    "author": null,
+    "adult": false,
+    "notes": "Indonesia"
+  },
+  {
+    "id": 255,
+    "type": "phrase",
+    "text": "SLAWN-cheh",
+    "category": "global",
+    "native": "Sláinte",
+    "author": null,
+    "adult": false,
+    "notes": "Ireland"
+  },
+  {
+    "id": 256,
+    "type": "phrase",
+    "text": "leh-CHEE",
+    "category": "global",
+    "native": "לחיים",
+    "author": null,
+    "adult": false,
+    "notes": "Israel"
+  },
+  {
+    "id": 257,
+    "type": "phrase",
+    "text": "AH-lla TOO-ah sa-LOO-teh",
+    "category": "global",
+    "native": "Alla tua salute",
+    "author": null,
+    "adult": false,
+    "notes": "Italy"
+  },
+  {
+    "id": 258,
+    "type": "phrase",
+    "text": "KUN-bye",
+    "category": "global",
+    "native": "乾杯",
+    "author": null,
+    "adult": false,
+    "notes": "Japan"
+  },
+  {
+    "id": 259,
+    "type": "phrase",
+    "text": "ool WEE-hah yoh",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Korea (source phrase unclear; common toast is '건배' kun-bye — verify)"
+  },
+  {
+    "id": 260,
+    "type": "phrase",
+    "text": "den SOO-luk oo-CHUN",
+    "category": "global",
+    "native": "Ден соолук үчүн",
+    "author": null,
+    "adult": false,
+    "notes": "Kyrgyzstan (verify)"
+  },
+  {
+    "id": 261,
+    "type": "phrase",
+    "text": "LYE-tah BOO-dah rook & PREE-keh",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Latvia"
+  },
+  {
+    "id": 262,
+    "type": "phrase",
+    "text": "VEH-sar",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Lebanon"
+  },
+  {
+    "id": 263,
+    "type": "phrase",
+    "text": "SVEY-ka-tah",
+    "category": "global",
+    "native": "Sveikata",
+    "author": null,
+    "adult": false,
+    "notes": "Lithuania"
+  },
+  {
+    "id": 264,
+    "type": "phrase",
+    "text": "yam SENG",
+    "category": "global",
+    "native": "Yam seng",
+    "author": null,
+    "adult": false,
+    "notes": "Malaysia"
+  },
+  {
+    "id": 265,
+    "type": "phrase",
+    "text": "slah-mat MEE-num",
+    "category": "global",
+    "native": "Slamat minum",
+    "author": null,
+    "adult": false,
+    "notes": "Malaya"
+  },
+  {
+    "id": 266,
+    "type": "phrase",
+    "text": "SAH-lood",
+    "category": "global",
+    "native": "Salud",
+    "author": null,
+    "adult": false,
+    "notes": "Mexico"
+  },
+  {
+    "id": 267,
+    "type": "phrase",
+    "text": "SAH-wah ah-FEE-ab",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Morocco"
+  },
+  {
+    "id": 268,
+    "type": "phrase",
+    "text": "KEE-ah-OR-ah",
+    "category": "global",
+    "native": "Kia ora",
+    "author": null,
+    "adult": false,
+    "notes": "New Zealand"
+  },
+  {
+    "id": 269,
+    "type": "phrase",
+    "text": "SKAWL",
+    "category": "global",
+    "native": "Skål",
+    "author": null,
+    "adult": false,
+    "notes": "Norway"
+  },
+  {
+    "id": 270,
+    "type": "phrase",
+    "text": "wess THOO hahl",
+    "category": "global",
+    "native": "Wes þu hāl",
+    "author": null,
+    "adult": false,
+    "notes": "Old English"
+  },
+  {
+    "id": 271,
+    "type": "phrase",
+    "text": "ZAHND-ah BAH-shee",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Pakistan"
+  },
+  {
+    "id": 272,
+    "type": "phrase",
+    "text": "sahl-MAH-tee",
+    "category": "global",
+    "native": "سلامتی",
+    "author": null,
+    "adult": false,
+    "notes": "Iran (Persia)"
+  },
+  {
+    "id": 273,
+    "type": "phrase",
+    "text": "mah-boo-HY",
+    "category": "global",
+    "native": "Mabuhay",
+    "author": null,
+    "adult": false,
+    "notes": "Philippines"
+  },
+  {
+    "id": 274,
+    "type": "phrase",
+    "text": "nah-ZHROH-vyeh",
+    "category": "global",
+    "native": "Na zdrowie",
+    "author": null,
+    "adult": false,
+    "notes": "Poland"
+  },
+  {
+    "id": 275,
+    "type": "phrase",
+    "text": "ah SOOH-doh",
+    "category": "global",
+    "native": "A sua saúde",
+    "author": null,
+    "adult": false,
+    "notes": "Portugal"
+  },
+  {
+    "id": 276,
+    "type": "phrase",
+    "text": "NOH-rok & sahn-tah-TEH",
+    "category": "global",
+    "native": "Noroc! Sănătate!",
+    "author": null,
+    "adult": false,
+    "notes": "Romania"
+  },
+  {
+    "id": 277,
+    "type": "phrase",
+    "text": "zah-VAH-sheh zduh-RAH-vyeh",
+    "category": "global",
+    "native": "За ваше здоровье",
+    "author": null,
+    "adult": false,
+    "notes": "Russia"
+  },
+  {
+    "id": 278,
+    "type": "phrase",
+    "text": "SLAWN-chah",
+    "category": "global",
+    "native": "Slàinte",
+    "author": null,
+    "adult": false,
+    "notes": "Scotland"
+  },
+  {
+    "id": 279,
+    "type": "phrase",
+    "text": "kwahm SOOK",
+    "category": "global",
+    "native": "ความสุข",
+    "author": null,
+    "adult": false,
+    "notes": "Siam"
+  },
+  {
+    "id": 280,
+    "type": "phrase",
+    "text": "nah-zdRAH-vyeh",
+    "category": "global",
+    "native": "Na zdravie",
+    "author": null,
+    "adult": false,
+    "notes": "Slovakia"
+  },
+  {
+    "id": 281,
+    "type": "phrase",
+    "text": "geh-SON-oyd",
+    "category": "global",
+    "native": "Gesondheid",
+    "author": null,
+    "adult": false,
+    "notes": "South Africa (verify)"
+  },
+  {
+    "id": 282,
+    "type": "phrase",
+    "text": "SAH-lood",
+    "category": "global",
+    "native": "Salud",
+    "author": null,
+    "adult": false,
+    "notes": "Spain"
+  },
+  {
+    "id": 283,
+    "type": "phrase",
+    "text": "SAH-bah-took fy",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Sudan"
+  },
+  {
+    "id": 284,
+    "type": "phrase",
+    "text": "AH-fyah",
+    "category": "global",
+    "native": "Afya",
+    "author": null,
+    "adult": false,
+    "notes": "Swahili"
+  },
+  {
+    "id": 285,
+    "type": "phrase",
+    "text": "SKAWL",
+    "category": "global",
+    "native": "Skål",
+    "author": null,
+    "adult": false,
+    "notes": "Sweden"
+  },
+  {
+    "id": 286,
+    "type": "phrase",
+    "text": "kool SAH-nah waw EN-tah SAH-lehm",
+    "category": "global",
+    "native": "كُل سنة وأنت سالم",
+    "author": null,
+    "adult": false,
+    "notes": "Syria (verify)"
+  },
+  {
+    "id": 287,
+    "type": "phrase",
+    "text": "mah-boo-HY",
+    "category": "global",
+    "native": "Mabuhay",
+    "author": null,
+    "adult": false,
+    "notes": "Tagalog (source spelling was garbled — verify)"
+  },
+  {
+    "id": 288,
+    "type": "phrase",
+    "text": "KWAH ah-FYAH YAH-koh",
+    "category": "global",
+    "native": "Kwa afya yako",
+    "author": null,
+    "adult": false,
+    "notes": "Tanzania"
+  },
+  {
+    "id": 289,
+    "type": "phrase",
+    "text": "SAW-ah-sdee & CHYE-oh",
+    "category": "global",
+    "native": "สวัสดี & ไชโย",
+    "author": null,
+    "adult": false,
+    "notes": "Thailand (verify)"
+  },
+  {
+    "id": 290,
+    "type": "phrase",
+    "text": "tah-SHEH-deh-lek & Foon tsoon tsok",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Tibet"
+  },
+  {
+    "id": 291,
+    "type": "phrase",
+    "text": "sheh-REF-eh",
+    "category": "global",
+    "native": "Şerefe",
+    "author": null,
+    "adult": false,
+    "notes": "Turkey"
+  },
+  {
+    "id": 292,
+    "type": "phrase",
+    "text": "BOOD-yah-mo nah-zdah-ROH-vyah",
+    "category": "global",
+    "native": "Будьмо! На здоровʼя!",
+    "author": null,
+    "adult": false,
+    "notes": "Ukraine"
+  },
+  {
+    "id": 293,
+    "type": "phrase",
+    "text": "EE-uhid DAH",
+    "category": "global",
+    "native": "Iechyd da",
+    "author": null,
+    "adult": false,
+    "notes": "Wales"
+  },
+  {
+    "id": 294,
+    "type": "phrase",
+    "text": "nah-ZDRAH-vyeh",
+    "category": "global",
+    "native": "На здравие",
+    "author": null,
+    "adult": false,
+    "notes": "Yugoslavia"
+  },
+  {
+    "id": 295,
+    "type": "phrase",
+    "text": "OO-gee WAA-wah & POO-zim-pee",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Zulu"
+  },
+  {
+    "id": 296,
+    "type": "toast",
+    "text": "Alcohol, you noble spirit, no matter how many times you knock me down, knock me down ten more times – I'll get up and drink again!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 297,
+    "type": "toast",
+    "text": "Everything is transient, only thirst lasts a lifetime.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 298,
+    "type": "toast",
+    "text": "Once your reputation is ruined, you can drink without any shame.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 299,
+    "type": "toast",
+    "text": "From the middle to the tits to the balls – zap, zap!",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 300,
+    "type": "toast",
+    "text": "A girl and a glass of wine cure all ailments. And whoever doesn't drink and whoever doesn't kiss is as good as dead.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 301,
+    "type": "toast",
+    "text": "Water makes you wise, wine makes you happy – so we drink both, to be both.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 302,
+    "type": "toast",
+    "text": "Even if your birthday hands are shaking, a shot of schnapps will calm them down immensely. You only have ten ngers, so drink – and then sink into a blissful intoxication.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('ngers') — verify"
+  },
+  {
+    "id": 303,
+    "type": "toast",
+    "text": "Don't waste any time talking – get your head in the neck!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 304,
+    "type": "toast",
+    "text": "Hops and malt – straight down your throat!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 305,
+    "type": "toast",
+    "text": "Alcohol may make your head hollow, but then there's more room for alcohol.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 306,
+    "type": "toast",
+    "text": "If you like love and unity, you'll also enjoy a little drink.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 307,
+    "type": "toast",
+    "text": "Let's stop drinking and start boozing.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 308,
+    "type": "toast",
+    "text": "A dog and a pig got married. The result of their merrymaking is us drunken bastards.",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 309,
+    "type": "toast",
+    "text": "Mankind's greatest enemy is and remains alcohol. But the Bible says: \"You shall also love your friends.\"",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 310,
+    "type": "toast",
+    "text": "Delirium, delarium, full as an aquarium.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source — verify"
+  },
+  {
+    "id": 311,
+    "type": "toast",
+    "text": "Dear moon, you have it tough, you have every reason to complain. You are only full twelve times a year – I am full every day.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 312,
+    "type": "toast",
+    "text": "It hurts my heart so much when I see the bottom of the glass.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 313,
+    "type": "toast",
+    "text": "From the middle to the tits to the balls, zack, zack!",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 314,
+    "type": "toast",
+    "text": "Sport is murder – only fuel keeps you t.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('t.' = fit) — verify"
+  },
+  {
+    "id": 315,
+    "type": "toast",
+    "text": "Caipi Beck's and Jägermeister, these are our spirits.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 316,
+    "type": "toast",
+    "text": "Our last wish – more and more alcohol!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 317,
+    "type": "toast",
+    "text": "Some days life can only be endured when you're completely drunk.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 318,
+    "type": "toast",
+    "text": "My greatest enemy is alcohol. But the Bible says, \"Love your enemies too.\"",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 319,
+    "type": "toast",
+    "text": "Better a belly from drinking than a hump from working.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 320,
+    "type": "toast",
+    "text": "Alcohol isn't the answer, but at least you forget the question.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 321,
+    "type": "toast",
+    "text": "From the cradle to the grave, booze is the only thing that matters.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 322,
+    "type": "toast",
+    "text": "We're sitting here at the round table – and drinking until it's square.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 323,
+    "type": "toast",
+    "text": "The little man's sunshine: fucking and getting drunk.",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 324,
+    "type": "toast",
+    "text": "Better in the darkest bar than at the brightest job.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Meaning unclear in source — verify"
+  },
+  {
+    "id": 325,
+    "type": "toast",
+    "text": "Yesterday I quit drinking – today I'm celebrating my comeback!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 326,
+    "type": "toast",
+    "text": "Re ll instead of thinking.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source — verify"
+  },
+  {
+    "id": 327,
+    "type": "toast",
+    "text": "Alcohol shortens your life by half – but you see everything twice.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 328,
+    "type": "toast",
+    "text": "Man drinks, horse drinks – but today it is the other way around.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 329,
+    "type": "toast",
+    "text": "As a child, I blushed at every opportunity – today I blush at every opportunity.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 330,
+    "type": "toast",
+    "text": "You can never drink too much—but you can never drink enough!",
+    "category": "drinking",
+    "author": "Gotthold Ephraim Lessing",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 331,
+    "type": "toast",
+    "text": "“Eating is a need of the stomach, drinking is a need of the soul.”",
+    "category": "drinking",
+    "author": "Claude Tillier",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 332,
+    "type": "toast",
+    "text": "Better to sit on one than miss one.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 333,
+    "type": "toast",
+    "text": "Beer is proof that God loves us and wants us to be happy.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 334,
+    "type": "toast",
+    "text": "The level is stable – the rest is wobbly.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Meaning unclear in source — verify"
+  },
+  {
+    "id": 335,
+    "type": "toast",
+    "text": "I'll never drink again... without you!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 336,
+    "type": "toast",
+    "text": "If the farmer milks his bull, the idiot drank too much beer.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 337,
+    "type": "toast",
+    "text": "Drinking is a vice – but a beautiful one.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 338,
+    "type": "toast",
+    "text": "If you are blind after throwing up, the headwind was too strong!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 339,
+    "type": "toast",
+    "text": "I'm not drunk! I'm naturally loud, funny, and clumsy!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 340,
+    "type": "toast",
+    "text": "A man without a belly is a cripple!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 341,
+    "type": "toast",
+    "text": "No one can refuse a glass of wine.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 342,
+    "type": "toast",
+    "text": "Where drinking is an honor, vomiting can be no disgrace!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 343,
+    "type": "toast",
+    "text": "Everyone has to believe in something – I think I'll have another drink!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 344,
+    "type": "toast",
+    "text": "What used to be my liver is now a minibar.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 345,
+    "type": "toast",
+    "text": "Sober I'm shy-but drunk I'm great!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source typo 'shy-but' — verify"
+  },
+  {
+    "id": 346,
+    "type": "toast",
+    "text": "Come on – never give up!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 347,
+    "type": "toast",
+    "text": "An empty stomach is a bad advisor – so cheers and dig in!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 348,
+    "type": "toast",
+    "text": "Get rid of that shit!",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 349,
+    "type": "toast",
+    "text": "Always be happy and never angry – this will prolong your lifespan.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 350,
+    "type": "toast",
+    "text": "I drink ouzo – what do you drink?",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 351,
+    "type": "toast",
+    "text": "Better grain in the blood than straw in the head!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 352,
+    "type": "toast",
+    "text": "Those who waver get more out of the journey.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 353,
+    "type": "toast",
+    "text": "Don't praise your beer before you have a hangover!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 354,
+    "type": "toast",
+    "text": "Memory gaps are the jackpot at the bottom of a vodka bottle.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 355,
+    "type": "toast",
+    "text": "Everyone has to believe in something. I think I'll have another beer!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 356,
+    "type": "toast",
+    "text": "Water is also a noble drink when mixed with malt and hops.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 357,
+    "type": "toast",
+    "text": "Hops and malt, God bless them!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 358,
+    "type": "toast",
+    "text": "Moses knocked on a stone, and water immediately turned into wine. But you're much more comfortable here; all you have to do is call out: Innkeeper, a beer!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 359,
+    "type": "toast",
+    "text": "Two beers are better than one – that's math you can understand.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 360,
+    "type": "toast",
+    "text": "The rst beer quenches my thirst. The second cheers me up. After three, I don't care about anything else—so I just keep drinking.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('rst' = first) — verify"
+  },
+  {
+    "id": 361,
+    "type": "toast",
+    "text": "A mug of beer is the best psychologist.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 362,
+    "type": "toast",
+    "text": "Beer makes you smart – too much makes you blue.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 363,
+    "type": "toast",
+    "text": "The biggest advantage of beer: no red wine stains!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 364,
+    "type": "toast",
+    "text": "The smart person, I tell you, doesn't talk – he drinks his beer.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 365,
+    "type": "toast",
+    "text": "A beer in the morning and the day is yours.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 366,
+    "type": "toast",
+    "text": "There's always room for a pilsner between the liver and the spleen.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 367,
+    "type": "toast",
+    "text": "Liquid bread makes cheeks red!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 368,
+    "type": "toast",
+    "text": "Instead of heating, I'd rather have a wheat beer!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 369,
+    "type": "toast",
+    "text": "My head hurts, my feet stink – it's high time to have a beer!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 370,
+    "type": "toast",
+    "text": "Beer is delicious, beer is great – I prefer to be drunk!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 371,
+    "type": "toast",
+    "text": "Anyone who gives away beer will be hanged!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 372,
+    "type": "toast",
+    "text": "I'm tired, I'm going to rest, cover my beer belly. Father, let the hangover go, don't be so cruel tomorrow!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 373,
+    "type": "toast",
+    "text": "He who sows hops will reap beer.",
+    "category": "drinking",
+    "author": "Wolf Dietrich",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 374,
+    "type": "toast",
+    "text": "Ex and hopp – in the head!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source fragment, meaning unclear — verify"
+  },
+  {
+    "id": 375,
+    "type": "toast",
+    "text": "It's all lost!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source fragment, meaning unclear — verify"
+  },
+  {
+    "id": 376,
+    "type": "toast",
+    "text": "Get me a bottle of beer, or I'll strike out!",
+    "category": "drinking",
+    "author": "Gerhard Schröder",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 377,
+    "type": "toast",
+    "text": "When I touch your neck, when I bring your mouth to mine – oh, how I long for you, beloved bottle of beer!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 378,
+    "type": "toast",
+    "text": "Don't be shabby – raise your mug!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 379,
+    "type": "toast",
+    "text": "Beer belly? I can do that too!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 380,
+    "type": "toast",
+    "text": "A beer always goes well with liver and kidneys!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 381,
+    "type": "toast",
+    "text": "A beer in the morning drives away sorrow and worries.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 382,
+    "type": "toast",
+    "text": "The rst beer of the day is like the sun – it rises and makes everything better.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('rst' = first) — verify"
+  },
+  {
+    "id": 383,
+    "type": "toast",
+    "text": "No beer before four? Come on, it's always four somewhere!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 384,
+    "type": "toast",
+    "text": "Let's raise a glass in joy, and may our celebrant live. Free from worries and full of enjoyment—that's possible, no, it's a must!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 385,
+    "type": "toast",
+    "text": "Let the full glasses ring out, toast your friend. Fill your glasses again – drink to your friend's health!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 386,
+    "type": "toast",
+    "text": "When birthday joys beckon, it's okay to have a drink. There's truth in wine, as tradition says—so stick to it and do it!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 387,
+    "type": "toast",
+    "text": "You shall live 100 years, to that we raise a glass. Farewell, live it well – and it's best to stay drunk!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 388,
+    "type": "toast",
+    "text": "Cheers! May everyone now reach for a beer and our anniversary celebration matures for another year.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 389,
+    "type": "toast",
+    "text": "To the birthday child, raise a glass. A big toast – cheers to everyone!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 390,
+    "type": "toast",
+    "text": "We raise our glasses and drink to you – and do good, certainly.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source — verify"
+  },
+  {
+    "id": 391,
+    "type": "toast",
+    "text": "I'm giving you the greatest gift by thinking of you with every sip. Cheers and all the best!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 392,
+    "type": "toast",
+    "text": "The years pass, the wine matures – oh, if only every day could be my birthday!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 393,
+    "type": "toast",
+    "text": "Fully drunk, we raise a glass to you, another year gone by – and you're less fresh.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 394,
+    "type": "toast",
+    "text": "Instead of many words and big speeches – let's raise a glass!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 395,
+    "type": "toast",
+    "text": "To your health, to your life, may you give us many more rounds!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 396,
+    "type": "toast",
+    "text": "Here's to life, love, and a year full of happiness—and, of course, a cold beer!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 397,
+    "type": "toast",
+    "text": "A toast for every year, and a beer for every toast!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 398,
+    "type": "toast",
+    "text": "On your special day, we drink whatever the barrel can hold.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 399,
+    "type": "toast",
+    "text": "Birthdays are good for you. Statistics show: those who have more of them live longer – cheers to that!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 400,
+    "type": "toast",
+    "text": "Let's raise your glasses to cheers for the birthday child!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 401,
+    "type": "toast",
+    "text": "Whether I'll live tomorrow, I don't know. But if I live tomorrow, I know for sure that I'll drink tomorrow.",
+    "category": "birthday",
+    "author": "Gotthold Ephraim Lessing",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 402,
+    "type": "toast",
+    "text": "Cheers everyone!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 403,
+    "type": "toast",
+    "text": "Raise your glasses!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 404,
+    "type": "toast",
+    "text": "Cheers, you idiot!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 405,
+    "type": "toast",
+    "text": "Prostate!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source garbled (German 'Prosit'?) — verify"
+  },
+  {
+    "id": 406,
+    "type": "toast",
+    "text": "Ex and hopp, into the head.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source fragment, meaning unclear — verify"
+  },
+  {
+    "id": 407,
+    "type": "toast",
+    "text": "One, two, three – Gsu a!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source garbled (German 'G's auf!') — verify"
+  },
+  {
+    "id": 408,
+    "type": "toast",
+    "text": "With that in mind – o into the gutter!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source — verify"
+  },
+  {
+    "id": 409,
+    "type": "toast",
+    "text": "Thirst comes with drinking.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 410,
+    "type": "toast",
+    "text": "We'll never be together again when we're that young.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 411,
+    "type": "toast",
+    "text": "Adam, I'd love a Bavarian beer right now, otherwise dying will be di cult for me.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('di cult' = difficult) — verify"
+  },
+  {
+    "id": 412,
+    "type": "toast",
+    "text": "A toast, a toast – a bottle of beer, and we'll be in a good mood here!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 413,
+    "type": "toast",
+    "text": "To the women! Zack! Zack! Zack!",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": null
+  },
+  {
+    "id": 414,
+    "type": "toast",
+    "text": "No more chatting, just get your head back!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 415,
+    "type": "toast",
+    "text": "This glass to the good spirit.",
+    "category": "drinking",
+    "author": "Friedrich Schiller",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 416,
+    "type": "toast",
+    "text": "Eating takes, drinking gives enthusiasm.",
+    "category": "drinking",
+    "author": "Jean Paul",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 417,
+    "type": "toast",
+    "text": "The drink takes away our worries – but only until tomorrow.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 418,
+    "type": "toast",
+    "text": "Let's not die, we have a Bavarian beer! Here's to fun, to joy, to life and to death!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 419,
+    "type": "toast",
+    "text": "If you take your drop every day, your heart will always beat cheerfully, and in old age you will be like wine, always desirable and cheerful.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 420,
+    "type": "toast",
+    "text": "Water is the ox's strength, man drinks wine and barley juice. So I toast with beer and wine—who would want to be an ox?",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 421,
+    "type": "toast",
+    "text": "The good Lord did not want ne wine to spoil. Therefore, he added the necessary thirst to the juice of the vines.",
+    "category": "drinking",
+    "author": "Johann Wolfgang von Goethe",
+    "adult": false,
+    "notes": "Text garbled in source ('ne' = fine) — verify"
+  },
+  {
+    "id": 422,
+    "type": "toast",
+    "text": "Where vines entwine with ardent growth – so my thoughts are: love everything here.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source — verify"
+  },
+  {
+    "id": 423,
+    "type": "toast",
+    "text": "We can do without many things – but hardly wine and handsome men (or ladies).",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 424,
+    "type": "toast",
+    "text": "The world is re ected in wine – but those who philosophize too much quickly forget it.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('re ected' = reflected) — verify"
+  },
+  {
+    "id": 425,
+    "type": "toast",
+    "text": "He who made the vines grow also knows that one must enjoy.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 426,
+    "type": "toast",
+    "text": "Life is too short to drink bad wine.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 427,
+    "type": "toast",
+    "text": "Vinum bonum deorum donum.",
+    "category": "foreign-language",
+    "native": "Vinum bonum deorum donum",
+    "author": null,
+    "adult": false,
+    "notes": "Latin. Meaning: A good wine is a gift from the gods."
+  },
+  {
+    "id": 428,
+    "type": "toast",
+    "text": "Whoever rejects you, O noble wine, is not worthy to be called a man.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 429,
+    "type": "toast",
+    "text": "He who drinks should have a pure heart – wine is not to be tri ed with.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('tri ed' = tried) — verify"
+  },
+  {
+    "id": 430,
+    "type": "toast",
+    "text": "He who drinks wine sleeps well. He who sleeps well does not sin. He who does not sin will be blessed. He who drinks wine will therefore be blessed.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Loosely adapted from Shakespeare, per source"
+  },
+  {
+    "id": 431,
+    "type": "toast",
+    "text": "If you want to nd the truth in wine, you must not give up after the rst glass.",
+    "category": "drinking",
+    "author": "Werner Mitsch",
+    "adult": false,
+    "notes": "Text garbled in source ('nd' = find, 'rst' = first) — verify"
+  },
+  {
+    "id": 432,
+    "type": "toast",
+    "text": "Happy holidays and beautiful days – a wine from the best location.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 433,
+    "type": "toast",
+    "text": "In wine lies truth, joy and comfort – so ll your glasses and let's say: Cheers!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('ll' = fill) — verify"
+  },
+  {
+    "id": 434,
+    "type": "toast",
+    "text": "We must all be drunk! Youth is drunkenness without wine. If age drinks itself back to youth, it is a wonderful virtue.",
+    "category": "drinking",
+    "author": "Johann Wolfgang von Goethe",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 435,
+    "type": "toast",
+    "text": "Rain makes the grass grow, wine makes the conversation.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 436,
+    "type": "toast",
+    "text": "Let's raise a glass – long may the bride and groom live!",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 437,
+    "type": "toast",
+    "text": "Because my opinion is not exaggerated: He who cannot drink should not love. But you drinkers should not think yourselves better – If you can't love, you shouldn't drink!",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 438,
+    "type": "toast",
+    "text": "You are now one, both of you – and we are one with you. Drink a glass of good wine to celebrate your joy!",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 439,
+    "type": "toast",
+    "text": "Be happy here and there, be blessed because you are praised – you who are called bride and groom today. Be husband and wife tomorrow, be parents throughout the year – So you have attained what was to be attained.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 440,
+    "type": "toast",
+    "text": "I ll my glass with alcohol at home – I congratulate the newlyweds and drink to their health!",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('I ll' = I fill) — verify"
+  },
+  {
+    "id": 441,
+    "type": "toast",
+    "text": "Do not ask what fate will decide tomorrow – The moment is ours, let's enjoy it!",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 442,
+    "type": "toast",
+    "text": "Great love stories start with champagne – and end with herbal tea.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 443,
+    "type": "toast",
+    "text": "A good bite deserves a good drink. If you eat well, you should also drink well.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 444,
+    "type": "toast",
+    "text": "Love, when it is new, e ervesces like a young wine – The older she gets, the clearer and quieter she will be.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('e ervesces' = effervesces) — verify"
+  },
+  {
+    "id": 445,
+    "type": "toast",
+    "text": "And remain turned towards one another at all times – May strife and discord never disturb your union.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 446,
+    "type": "toast",
+    "text": "Cheers to the couple getting married today – May love and wine never spoil you.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 447,
+    "type": "toast",
+    "text": "Love and wine – the two best reasons to never get married sober.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 448,
+    "type": "toast",
+    "text": "Two glasses in hand – better than cold feet at the altar!",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 449,
+    "type": "toast",
+    "text": "Connected in love, united in ecstasy – to what life still has to o er you!",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('o er' = offer) — verify"
+  },
+  {
+    "id": 450,
+    "type": "toast",
+    "text": "Jámas",
+    "category": "global",
+    "native": "Jámas",
+    "author": null,
+    "adult": false,
+    "notes": "Greece (from source list; overlaps existing Greek entry — verify)"
+  },
+  {
+    "id": 451,
+    "type": "toast",
+    "text": "Well Zdrowie",
+    "category": "global",
+    "native": "Na Zdrowie",
+    "author": null,
+    "adult": false,
+    "notes": "Poland (from source list; overlaps existing 'Na zdrowie' — verify)"
+  },
+  {
+    "id": 452,
+    "type": "toast",
+    "text": "Na Zdorov'ye",
+    "category": "global",
+    "native": "За ваше здоровье",
+    "author": null,
+    "adult": false,
+    "notes": "Russia (from source list; overlaps existing Russian entry — verify)"
+  },
+  {
+    "id": 453,
+    "type": "toast",
+    "text": "Gānbēi",
+    "category": "global",
+    "native": "干杯",
+    "author": null,
+    "adult": false,
+    "notes": "China (from source list; overlaps existing Chinese entry — verify)"
+  },
+  {
+    "id": 454,
+    "type": "toast",
+    "text": "Kanpai",
+    "category": "global",
+    "native": "乾杯",
+    "author": null,
+    "adult": false,
+    "notes": "Japan (from source list; overlaps existing '乾杯' — verify)"
+  },
+  {
+    "id": 455,
+    "type": "toast",
+    "text": "Make new friends, yes\nBut don't forget the old\nFor the rst are silver\nAnd the second, gold.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Text garbled in source ('rst' = first) — verify"
+  },
+  {
+    "id": 456,
+    "type": "toast",
+    "text": "May we live respected and die regretted.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 457,
+    "type": "toast",
+    "text": "May we live to learn well, and learn to live well.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 458,
+    "type": "toast",
+    "text": "To the men I've loved\nTo the men I've kissed\nMy heartfelt apologies\nTo the men I've missed.",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 459,
+    "type": "toast",
+    "text": "All of our guests make us happy.\nSome by coming,\nOthers by going.",
+    "category": "overnight-guests",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 460,
+    "type": "toast",
+    "text": "May the clouds in your life form only a background for a lovely sunset.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 461,
+    "type": "toast",
+    "text": "To the old, long life and treasure;\nTo the young, all health and pleasure.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 462,
+    "type": "toast",
+    "text": "You're not as young as you used to be\nbut you're not as old as you are going to be.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 463,
+    "type": "toast",
+    "text": "The great secret of a successful marriage is to treat all disasters as incidents\nand none of the incidents as disasters.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 464,
+    "type": "toast",
+    "text": "Politics doesn't make strange bedfellows, marriage does.",
+    "category": "celebrity",
+    "author": "Groucho Marx",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 465,
+    "type": "toast",
+    "text": "A successful marriage requires falling in love many times,\nalways with the same person.",
+    "category": "anniversary",
+    "author": "Mignon McLaughlin",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 466,
+    "type": "toast",
+    "text": "Happiness is not having what you want, but wanting what you have.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 467,
+    "type": "toast",
+    "text": "A good marriage is like a casserole,\nonly those responsible for it really know what goes in it.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 468,
+    "type": "toast",
+    "text": "Love does not consist in gazing at each other,\nbut in looking outward together in the same direction.",
+    "category": "romance",
+    "author": "Antoine de Saint-Exupéry",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 469,
+    "type": "toast",
+    "text": "To keep your marriage brimming with love in the wedding cup,\nwhenever you're wrong, admit it;\nwhenever you're right, shut up.",
+    "category": "anniversary",
+    "author": "Ogden Nash",
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 470,
+    "type": "toast",
+    "text": "To your coming anniversaries—may they be outnumbered only by your coming pleasures.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 471,
+    "type": "toast",
+    "text": "May the warmth of our affections survive the frosts of age.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 472,
+    "type": "toast",
+    "text": "Some take their gold in minted mold,\nAnd some in harps hereafter,\nBut give me mine\nIn bubbles ne\nAnd keep the change in laughter.",
+    "category": "everyday",
+    "author": "Mignon McLaughlin",
+    "adult": false,
+    "notes": "Text garbled in source ('ne' = fine) — verify"
+  },
+  {
+    "id": 473,
+    "type": "toast",
+    "text": "Call frequently,\nDrink moderately,\nPark friendly,\nPay today, trust tomorrow.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 474,
+    "type": "toast",
+    "text": "Good day, good health, good cheer, good night!",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 475,
+    "type": "toast",
+    "text": "You shall and you shan't, you will and you won't\nYou're condemned if you do,\nAnd you're damned if you don't.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 476,
+    "type": "toast",
+    "text": "May the morning of prosperity shine on the evening of adversity.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 477,
+    "type": "toast",
+    "text": "Better remorse, than regret.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 478,
+    "type": "toast",
+    "text": "Please remember to forget\nAll your worries–and regret\nLive while you have life to live\nLive while you have love to give.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  },
+  {
+    "id": 479,
+    "type": "toast",
+    "text": "Here's to our hostess, considerate and sweet;\nHer wit is endless, but when do we eat?",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": null
+  }
+]

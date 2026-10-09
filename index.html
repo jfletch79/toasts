@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f4ee">
+  <title>Toasts</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <h1>Toasts</h1>
+      <p class="tagline">for parties &amp; other occasions</p>
+    </div>
+    <label class="theme-pick">
+      <span class="field-label" for="theme-select">Theme</span>
+      <select id="theme-select"></select>
+    </label>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="Toast controls">
+      <div class="controls-row">
+        <div class="field">
+          <label class="field-label" for="category-select">Occasion</label>
+          <select id="category-select"></select>
+        </div>
+        <label class="switch" title="Include toasts with adult-themed language">
+          <input type="checkbox" id="adult-toggle">
+          <span class="switch-track"><span class="switch-thumb"></span></span>
+          <span class="switch-label">Adult (18+)</span>
+        </label>
+      </div>
+
+      <div class="tabs" role="tablist" aria-label="View mode">
+        <button id="tab-generate" class="tab active" role="tab" aria-selected="true">Generate</button>
+        <button id="tab-browse" class="tab" role="tab" aria-selected="false">Browse</button>
+      </div>
+    </section>
+
+    <section id="view-generate" class="view" role="tabpanel">
+      <article class="toast-card" id="toast-card" aria-live="polite">
+        <p class="toast-text" id="toast-text"></p>
+        <p class="toast-phonetic" id="toast-phonetic"></p>
+        <p class="toast-author" id="toast-author"></p>
+        <p class="toast-notes" id="toast-notes"></p>
+      </article>
+      <div class="actions">
+        <button id="btn-next" class="btn primary">Raise another glass</button>
+        <button id="btn-copy" class="btn">Copy</button>
+        <button id="btn-share" class="btn">Share</button>
+      </div>
+      <p class="hint" id="pool-hint"></p>
+    </section>
+
+    <section id="view-browse" class="view hidden" role="tabpanel">
+      <input type="search" id="search" placeholder="Search toasts, authors, notes…" autocomplete="off">
+      <p class="count" id="result-count"></p>
+      <div id="toast-list" class="toast-list"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="footer"></footer>
+
+  <div id="load-error" class="load-error hidden" role="alert">
+    <p>Couldn't load <code>data/toasts.json</code>.</p>
+    <p>This app needs to be served over HTTP rather than opened as a file. From this folder run:</p>
+    <pre>python3 -m http.server 8000</pre>
+    <p>Then open <code>http://localhost:8000</code>.</p>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
