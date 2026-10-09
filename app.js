@@ -33,6 +33,7 @@ const els = {
   adult: $('#adult-toggle'),
   tabGenerate: $('#tab-generate'),
   tabBrowse: $('#tab-browse'),
+  tabFavorites: $('#tab-favorites'),
   viewGenerate: $('#view-generate'),
   viewBrowse: $('#view-browse'),
   card: $('#toast-card'),
@@ -42,8 +43,7 @@ const els = {
   toastNotes: $('#toast-notes'),
   btnNext: $('#btn-next'),
   btnCopy: $('#btn-copy'),
-  btnShare: $('#btn-share'),
-  poolHint: $('#pool-hint'),
+  btnFav: $('#btn-fav'),
   search: $('#search'),
   resultCount: $('#result-count'),
   list: $('#toast-list'),
@@ -55,17 +55,11 @@ const els = {
 // ---- State -----------------------------------------------------------------
 const state = { category: 'all', adult: false, mode: 'generate' };
 let allToasts = [];
-let queue = []; // shuffled pool for the generator; refilled when exhausted
 let current = null; // toast currently shown in generate view
+const FAV_KEY = 'toasts-favorites'; // must be declared before the let below runs
+let favorites = loadFavorites(); // Set of favorite toast ids (Phase 8)
 
 // ---- Helpers ---------------------------------------------------------------
-function shuffle(arr) {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
 
 // Toasts visible under the current occasion + 18+ settings.
 function pool() {
@@ -85,10 +79,43 @@ function toastToShareText(t) {
 }
 
 // ---- Generate mode ---------------------------------------------------------
+// Purely random — toasts may repeat.
 function nextToast() {
-  if (queue.length === 0) queue = shuffle(pool().slice());
-  current = queue.pop() || null;
+  const p = pool();
+  current = p.length ? p[Math.floor(Math.random() * p.length)] : null;
   renderCard();
+}
+
+// ---- Favorites (Phase 8) ---------------------------------------------------
+function loadFavorites() {
+  try {
+    const raw = JSON.parse(localStorage.getItem(FAV_KEY) || '[]');
+    return new Set(Array.isArray(raw) ? raw : []);
+  } catch (_) {
+    return new Set();
+  }
+}
+
+function saveFavorites() {
+  try {
+    localStorage.setItem(FAV_KEY, JSON.stringify([...favorites]));
+  } catch (_) {
+    /* storage unavailable (private mode, file://) — ignore */
+  }
+}
+
+function toggleFavorite(t) {
+  if (favorites.has(t.id)) favorites.delete(t.id);
+  else favorites.add(t.id);
+  saveFavorites();
+}
+
+function updateFavButton() {
+  const on = !!(current && favorites.has(current.id));
+  els.btnFav.textContent = on ? '♥ Favorited' : '♡ Favorite';
+  els.btnFav.classList.toggle('fav-active', on);
+  els.btnFav.setAttribute('aria-pressed', String(on));
+  els.btnFav.disabled = !current;
 }
 
 function renderCard() {
@@ -104,10 +131,9 @@ function renderCard() {
     els.toastAuthor.textContent = '';
     els.toastPhonetic.textContent = '';
     els.toastNotes.textContent = '';
-    els.poolHint.textContent = '';
     els.btnNext.disabled = true;
     els.btnCopy.disabled = true;
-    els.btnShare.disabled = true;
+    updateFavButton();
     return;
   }
 
@@ -118,13 +144,9 @@ function renderCard() {
   els.toastPhonetic.textContent = phraseNative ? t.text : '';
   els.toastAuthor.textContent = t.author ? '— ' + t.author : '';
   els.toastNotes.textContent = t.notes || '';
-  els.poolHint.textContent =
-    queue.length > 0
-      ? `${queue.length} more in the pool before a repeat`
-      : 'Pool exhausted — the next toast reshuffles it';
   els.btnNext.disabled = false;
   els.btnCopy.disabled = false;
-  els.btnShare.disabled = false;
+  updateFavButton();
 }
 
 // ---- Copy & share ----------------------------------------------------------
@@ -169,25 +191,12 @@ async function copyText(text, btn) {
   flashButton(btn, ok ? 'Copied!' : 'Copy failed');
 }
 
-async function shareCurrent() {
-  if (!current) return;
-  const text = toastToShareText(current);
-  if (navigator.share) {
-    try {
-      await navigator.share({ text });
-      return;
-    } catch (err) {
-      if (err && err.name === 'AbortError') return; // user dismissed the sheet
-    }
-  }
-  // No Web Share API — fall back to copying.
-  copyText(text, els.btnShare);
-}
-
 // ---- Browse mode -----------------------------------------------------------
 function renderBrowse() {
   const q = els.search.value.trim().toLowerCase();
+  const favOnly = state.mode === 'favorites';
   const items = pool().filter((t) => {
+    if (favOnly && !favorites.has(t.id)) return false;
     if (!q) return true;
     const hay = [t.text, t.author, t.notes, CATEGORY_NAMES[t.category]]
       .filter(Boolean)
@@ -197,7 +206,8 @@ function renderBrowse() {
   });
 
   const scope = state.category === 'all' ? '' : ` · ${CATEGORY_NAMES[state.category]}`;
-  els.resultCount.textContent = `${items.length} ${items.length === 1 ? 'toast' : 'toasts'}${scope}`;
+  const word = favOnly ? 'favorite' : 'toast';
+  els.resultCount.textContent = `${items.length} ${items.length === 1 ? word : word + 's'}${scope}`;
 
   els.list.innerHTML = '';
   for (const t of items) {
@@ -221,6 +231,17 @@ function renderBrowse() {
       meta.textContent = metaBits.join('  ·  ');
       card.appendChild(meta);
     }
+
+    const favBtn = document.createElement('button');
+    favBtn.className = 'btn small' + (favorites.has(t.id) ? ' fav-active' : '');
+    favBtn.textContent = favorites.has(t.id) ? '♥' : '♡';
+    favBtn.title = 'Toggle favorite';
+    favBtn.setAttribute('aria-pressed', String(favorites.has(t.id)));
+    favBtn.addEventListener('click', () => {
+      toggleFavorite(t);
+      renderBrowse();
+    });
+    card.appendChild(favBtn);
 
     const btn = document.createElement('button');
     btn.className = 'btn small';
@@ -304,9 +325,11 @@ function setMode(mode) {
   state.mode = mode;
   const isGen = mode === 'generate';
   els.tabGenerate.classList.toggle('active', isGen);
-  els.tabBrowse.classList.toggle('active', !isGen);
+  els.tabBrowse.classList.toggle('active', mode === 'browse');
+  els.tabFavorites.classList.toggle('active', mode === 'favorites');
   els.tabGenerate.setAttribute('aria-selected', String(isGen));
-  els.tabBrowse.setAttribute('aria-selected', String(!isGen));
+  els.tabBrowse.setAttribute('aria-selected', String(mode === 'browse'));
+  els.tabFavorites.setAttribute('aria-selected', String(mode === 'favorites'));
   els.viewGenerate.classList.toggle('hidden', !isGen);
   els.viewBrowse.classList.toggle('hidden', isGen);
   if (!isGen) renderBrowse();
@@ -325,7 +348,6 @@ function populateCategories() {
 function onPoolChange() {
   state.category = els.category.value;
   state.adult = els.adult.checked;
-  queue = []; // force a fresh shuffle for the new pool
   applyTheme(); // occasion themes follow the selected category
   if (state.mode === 'generate') nextToast();
   else renderBrowse();
@@ -336,6 +358,7 @@ async function init() {
 
   els.tabGenerate.addEventListener('click', () => setMode('generate'));
   els.tabBrowse.addEventListener('click', () => setMode('browse'));
+  els.tabFavorites.addEventListener('click', () => setMode('favorites'));
   els.category.addEventListener('change', onPoolChange);
   els.adult.addEventListener('change', onPoolChange);
   els.search.addEventListener('input', renderBrowse);
@@ -343,7 +366,11 @@ async function init() {
   els.btnCopy.addEventListener('click', () => {
     if (current) copyText(toastToShareText(current), els.btnCopy);
   });
-  els.btnShare.addEventListener('click', shareCurrent);
+  els.btnFav.addEventListener('click', () => {
+    if (!current) return;
+    toggleFavorite(current);
+    updateFavButton();
+  });
   els.themeSelect.addEventListener('change', () => {
     skin = els.themeSelect.value;
     saveSkin();

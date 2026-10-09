@@ -2058,12 +2058,12 @@
   {
     "id": 226,
     "type": "phrase",
-    "text": "bee-sa-LAH-mah",
+    "text": "bee-seh-hah-tek",
     "category": "global",
-    "native": "بالسلامة",
+    "native": "صحتك (B'sahtak)",
     "author": null,
     "adult": false,
-    "notes": "Arabic (verify)"
+    "notes": "Arabic for \"to your health\" — Etiquette: if alcohol isn’t appropriate, toast with a non-alcoholic drink, and hold your glass in your right hand."
   },
   {
     "id": 227,
@@ -2091,7 +2091,8 @@
     "category": "global",
     "author": null,
     "adult": false,
-    "notes": "Azerbaijan"
+    "notes": "Azerbaijan",
+    "native": "Nuş olsun"
   },
   {
     "id": 230,
@@ -2121,7 +2122,7 @@
     "native": "Saúde",
     "author": null,
     "adult": false,
-    "notes": "Brazil"
+    "notes": "Brazil — Etiquette: make eye contact and raise your glass to emphasize camaraderie and sincerity."
   },
   {
     "id": 233,
@@ -2135,12 +2136,12 @@
   {
     "id": 234,
     "type": "phrase",
-    "text": "kun-bye",
+    "text": "gon-bye",
     "category": "global",
-    "native": "干杯",
+    "native": "干杯 (gān bēi)",
     "author": null,
     "adult": false,
-    "notes": "China (source phrase unclear — verify)"
+    "notes": "Chinese for \"dry cup\" — Etiquette: mind hierarchy — position your glass lower than those of higher status when clinking."
   },
   {
     "id": 235,
@@ -2170,17 +2171,17 @@
     "native": "Skål",
     "author": null,
     "adult": false,
-    "notes": "Denmark"
+    "notes": "Denmark — Etiquette: gently touch rims at eye level, and after a sip look back to nod or smile — looking away or being boisterous is impolite."
   },
   {
     "id": 238,
     "type": "phrase",
-    "text": "AH-lah sih-TEHK",
+    "text": "fee-seh-hah-tek",
     "category": "global",
-    "native": "على صحتك",
+    "native": "فى صحتك: (fi sehtak)",
     "author": null,
     "adult": false,
-    "notes": "Egypt (verify)"
+    "notes": "Egyptian for \"good luck\" — Etiquette: if alcohol isn’t appropriate, toast with a non-alcoholic drink, and hold your glass in your right hand."
   },
   {
     "id": 239,
@@ -2190,7 +2191,7 @@
     "native": "Cheers",
     "author": null,
     "adult": false,
-    "notes": "England"
+    "notes": "England — Etiquette: at formal events, wait for the host or senior person to start — respond with eye contact and a smile."
   },
   {
     "id": 240,
@@ -2204,12 +2205,12 @@
   {
     "id": 241,
     "type": "phrase",
-    "text": "TEER-vist",
+    "text": "Ter-vih-sex",
     "category": "global",
-    "native": "Tervist",
+    "native": "Terviseks",
     "author": null,
     "adult": false,
-    "notes": "Estonia (verify)"
+    "notes": "Estonia"
   },
   {
     "id": 242,
@@ -2238,7 +2239,7 @@
     "native": "À votre santé",
     "author": null,
     "adult": false,
-    "notes": "France"
+    "notes": "France — Etiquette: avoid crossing arms when clinking glasses — it’s considered bad luck."
   },
   {
     "id": 245,
@@ -2248,7 +2249,7 @@
     "native": "Prosit",
     "author": null,
     "adult": false,
-    "notes": "Germany"
+    "notes": "Germany — Etiquette: maintain direct eye contact while toasting — it’s a sign of sincerity and respect."
   },
   {
     "id": 246,
@@ -2267,7 +2268,7 @@
     "category": "global",
     "author": null,
     "adult": false,
-    "notes": "Greece"
+    "notes": "Greece — Etiquette: take a sip immediately after toasting to show appreciation."
   },
   {
     "id": 248,
@@ -2281,11 +2282,12 @@
   {
     "id": 249,
     "type": "phrase",
-    "text": "oh-KEH-lee mah-LOO-nah & HOW-oh-lee MAH-oh-lee oh-eh",
+    "text": "oh-KEH-lee mah-LOO-nah OR EH-oh-lah",
     "category": "global",
+    "native": "Å’kålè ma’luna OR E'ola!",
     "author": null,
     "adult": false,
-    "notes": "Hawaii"
+    "notes": "Hawaiian for \"cheers\" and \"To Life\""
   },
   {
     "id": 250,
@@ -2300,12 +2302,12 @@
   {
     "id": 251,
     "type": "phrase",
-    "text": "KED-veh eh-GEHS-zeh-geh-rah",
+    "text": "Egg-esh ay-ged-reh OR Fehn-eh-keg",
     "category": "global",
-    "native": "Kedves egészségére",
+    "native": "Egészségedre OR Fenékig",
     "author": null,
     "adult": false,
-    "notes": "Hungary (verify)"
+    "notes": "Hungarian for \"to your health\" and \"until the bottom of the glass\""
   },
   {
     "id": 252,
@@ -2319,16 +2321,6 @@
   {
     "id": 253,
     "type": "phrase",
-    "text": "pi-ya-JYE",
-    "category": "global",
-    "native": "पियाजिए",
-    "author": null,
-    "adult": false,
-    "notes": "India (source spelling was garbled — verify)"
-  },
-  {
-    "id": 254,
-    "type": "phrase",
     "text": "seh-LAH-mat",
     "category": "global",
     "native": "Selamat",
@@ -2337,7 +2329,7 @@
     "notes": "Indonesia"
   },
   {
-    "id": 255,
+    "id": 254,
     "type": "phrase",
     "text": "SLAWN-cheh",
     "category": "global",
@@ -2347,7 +2339,7 @@
     "notes": "Ireland"
   },
   {
-    "id": 256,
+    "id": 255,
     "type": "phrase",
     "text": "leh-CHEE",
     "category": "global",
@@ -2357,46 +2349,47 @@
     "notes": "Israel"
   },
   {
-    "id": 257,
+    "id": 256,
     "type": "phrase",
     "text": "AH-lla TOO-ah sa-LOO-teh",
     "category": "global",
     "native": "Alla tua salute",
     "author": null,
     "adult": false,
-    "notes": "Italy"
+    "notes": "Italy — Etiquette: never toast with water — it’s considered bad luck."
   },
   {
-    "id": 258,
+    "id": 257,
     "type": "phrase",
     "text": "KUN-bye",
     "category": "global",
     "native": "乾杯",
     "author": null,
     "adult": false,
-    "notes": "Japan"
+    "notes": "Japan — Etiquette: wait for everyone to be ready before raising your glass — “Kanpai” means empty your glass."
+  },
+  {
+    "id": 258,
+    "type": "phrase",
+    "text": "Kun-bye",
+    "category": "global",
+    "author": null,
+    "adult": false,
+    "notes": "Korea — Etiquette: never pour your own drink — always fill others’ glasses, and let them fill yours in return as a sign of mutual respect.",
+    "native": "건배 (ganbai)"
   },
   {
     "id": 259,
     "type": "phrase",
-    "text": "ool WEE-hah yoh",
+    "text": "Den soo-lug-oo-boos oo-chun!",
     "category": "global",
+    "native": "Ден соолугубуз үчүн! (Den Sooluck Yuchun)",
     "author": null,
     "adult": false,
-    "notes": "Korea (source phrase unclear; common toast is '건배' kun-bye — verify)"
+    "notes": "Kyrgyzstan for \"cheers\" or \"good health\""
   },
   {
     "id": 260,
-    "type": "phrase",
-    "text": "den SOO-luk oo-CHUN",
-    "category": "global",
-    "native": "Ден соолук үчүн",
-    "author": null,
-    "adult": false,
-    "notes": "Kyrgyzstan (verify)"
-  },
-  {
-    "id": 261,
     "type": "phrase",
     "text": "LYE-tah BOO-dah rook & PREE-keh",
     "category": "global",
@@ -2405,16 +2398,16 @@
     "notes": "Latvia"
   },
   {
-    "id": 262,
+    "id": 261,
     "type": "phrase",
     "text": "VEH-sar",
     "category": "global",
     "author": null,
     "adult": false,
-    "notes": "Lebanon"
+    "notes": "Lebanon — Etiquette: if alcohol isn’t appropriate, toast with a non-alcoholic drink, and hold your glass in your right hand."
   },
   {
-    "id": 263,
+    "id": 262,
     "type": "phrase",
     "text": "SVEY-ka-tah",
     "category": "global",
@@ -2424,7 +2417,7 @@
     "notes": "Lithuania"
   },
   {
-    "id": 264,
+    "id": 263,
     "type": "phrase",
     "text": "yam SENG",
     "category": "global",
@@ -2434,7 +2427,7 @@
     "notes": "Malaysia"
   },
   {
-    "id": 265,
+    "id": 264,
     "type": "phrase",
     "text": "slah-mat MEE-num",
     "category": "global",
@@ -2444,7 +2437,7 @@
     "notes": "Malaya"
   },
   {
-    "id": 266,
+    "id": 265,
     "type": "phrase",
     "text": "SAH-lood",
     "category": "global",
@@ -2454,46 +2447,46 @@
     "notes": "Mexico"
   },
   {
-    "id": 267,
+    "id": 266,
     "type": "phrase",
     "text": "SAH-wah ah-FEE-ab",
     "category": "global",
     "author": null,
     "adult": false,
-    "notes": "Morocco"
+    "notes": "Morocco — Etiquette: if alcohol isn’t appropriate, toast with a non-alcoholic drink, and hold your glass in your right hand."
   },
   {
-    "id": 268,
+    "id": 267,
     "type": "phrase",
     "text": "KEE-ah-OR-ah",
     "category": "global",
     "native": "Kia ora",
     "author": null,
     "adult": false,
-    "notes": "New Zealand"
+    "notes": "New Zealand (Maori) — Etiquette: sincerity and warmth are key — humor and personal anecdotes are welcomed in the informal atmosphere."
   },
   {
-    "id": 269,
+    "id": 268,
     "type": "phrase",
     "text": "SKAWL",
     "category": "global",
     "native": "Skål",
     "author": null,
     "adult": false,
-    "notes": "Norway"
+    "notes": "Norway — Etiquette: gently touch rims at eye level, and after a sip look back to nod or smile — looking away or being boisterous is impolite."
   },
   {
-    "id": 270,
+    "id": 269,
     "type": "phrase",
     "text": "wess THOO hahl",
     "category": "global",
     "native": "Wes þu hāl",
     "author": null,
     "adult": false,
-    "notes": "Old English"
+    "notes": "Old English for \"be thou healthy\""
   },
   {
-    "id": 271,
+    "id": 270,
     "type": "phrase",
     "text": "ZAHND-ah BAH-shee",
     "category": "global",
@@ -2502,7 +2495,7 @@
     "notes": "Pakistan"
   },
   {
-    "id": 272,
+    "id": 271,
     "type": "phrase",
     "text": "sahl-MAH-tee",
     "category": "global",
@@ -2512,7 +2505,7 @@
     "notes": "Iran (Persia)"
   },
   {
-    "id": 273,
+    "id": 272,
     "type": "phrase",
     "text": "mah-boo-HY",
     "category": "global",
@@ -2522,7 +2515,7 @@
     "notes": "Philippines"
   },
   {
-    "id": 274,
+    "id": 273,
     "type": "phrase",
     "text": "nah-ZHROH-vyeh",
     "category": "global",
@@ -2532,17 +2525,17 @@
     "notes": "Poland"
   },
   {
-    "id": 275,
+    "id": 274,
     "type": "phrase",
     "text": "ah SOOH-doh",
     "category": "global",
     "native": "A sua saúde",
     "author": null,
     "adult": false,
-    "notes": "Portugal"
+    "notes": "Portugal — Etiquette: don’t rush — follow the host’s lead for timing and tone."
   },
   {
-    "id": 276,
+    "id": 275,
     "type": "phrase",
     "text": "NOH-rok & sahn-tah-TEH",
     "category": "global",
@@ -2552,7 +2545,7 @@
     "notes": "Romania"
   },
   {
-    "id": 277,
+    "id": 276,
     "type": "phrase",
     "text": "zah-VAH-sheh zduh-RAH-vyeh",
     "category": "global",
@@ -2562,7 +2555,7 @@
     "notes": "Russia"
   },
   {
-    "id": 278,
+    "id": 277,
     "type": "phrase",
     "text": "SLAWN-chah",
     "category": "global",
@@ -2572,7 +2565,7 @@
     "notes": "Scotland"
   },
   {
-    "id": 279,
+    "id": 278,
     "type": "phrase",
     "text": "kwahm SOOK",
     "category": "global",
@@ -2582,7 +2575,7 @@
     "notes": "Siam"
   },
   {
-    "id": 280,
+    "id": 279,
     "type": "phrase",
     "text": "nah-zdRAH-vyeh",
     "category": "global",
@@ -2592,76 +2585,66 @@
     "notes": "Slovakia"
   },
   {
-    "id": 281,
+    "id": 280,
     "type": "phrase",
-    "text": "geh-SON-oyd",
+    "text": "Khuh-sund-hate",
     "category": "global",
     "native": "Gesondheid",
     "author": null,
     "adult": false,
-    "notes": "South Africa (verify)"
+    "notes": "South Africa (Afrikaans) for \"health\" — Etiquette: make eye contact when clinking glasses to show sincerity, especially in formal settings."
   },
   {
-    "id": 282,
+    "id": 281,
     "type": "phrase",
     "text": "SAH-lood",
     "category": "global",
     "native": "Salud",
     "author": null,
     "adult": false,
-    "notes": "Spain"
+    "notes": "Spain — Etiquette: make sure everyone has a drink before toasting — inclusivity is key."
   },
   {
-    "id": 283,
+    "id": 282,
     "type": "phrase",
     "text": "SAH-bah-took fy",
     "category": "global",
     "author": null,
     "adult": false,
-    "notes": "Sudan"
+    "notes": "Sudan — Etiquette: if alcohol isn’t appropriate, toast with a non-alcoholic drink, and hold your glass in your right hand."
   },
   {
-    "id": 284,
+    "id": 283,
     "type": "phrase",
     "text": "AH-fyah",
     "category": "global",
     "native": "Afya",
     "author": null,
     "adult": false,
-    "notes": "Swahili"
+    "notes": "Swahili — Etiquette: keep it light and inclusive — make sure everyone has a drink before raising your glass."
   },
   {
-    "id": 285,
+    "id": 284,
     "type": "phrase",
     "text": "SKAWL",
     "category": "global",
     "native": "Skål",
     "author": null,
     "adult": false,
-    "notes": "Sweden"
+    "notes": "Sweden — Etiquette: gently touch rims at eye level, and after a sip look back to nod or smile — looking away or being boisterous is impolite."
   },
   {
-    "id": 286,
+    "id": 285,
     "type": "phrase",
-    "text": "kool SAH-nah waw EN-tah SAH-lehm",
-    "category": "global",
-    "native": "كُل سنة وأنت سالم",
-    "author": null,
-    "adult": false,
-    "notes": "Syria (verify)"
-  },
-  {
-    "id": 287,
-    "type": "phrase",
-    "text": "mah-boo-HY",
+    "text": "mah-boo-HI",
     "category": "global",
     "native": "Mabuhay",
     "author": null,
     "adult": false,
-    "notes": "Tagalog (source spelling was garbled — verify)"
+    "notes": "Tagalog for \"long live\""
   },
   {
-    "id": 288,
+    "id": 286,
     "type": "phrase",
     "text": "KWAH ah-FYAH YAH-koh",
     "category": "global",
@@ -2671,17 +2654,17 @@
     "notes": "Tanzania"
   },
   {
-    "id": 289,
+    "id": 287,
     "type": "phrase",
-    "text": "SAW-ah-sdee & CHYE-oh",
+    "text": "chon-GAEW",
     "category": "global",
-    "native": "สวัสดี & ไชโย",
+    "native": "ชนแก้ว!",
     "author": null,
     "adult": false,
-    "notes": "Thailand (verify)"
+    "notes": "Thailand for \"clink glasses\" — Etiquette: keep the atmosphere light — maintain eye contact and a smile during the toast."
   },
   {
-    "id": 290,
+    "id": 288,
     "type": "phrase",
     "text": "tah-SHEH-deh-lek & Foon tsoon tsok",
     "category": "global",
@@ -2690,7 +2673,7 @@
     "notes": "Tibet"
   },
   {
-    "id": 291,
+    "id": 289,
     "type": "phrase",
     "text": "sheh-REF-eh",
     "category": "global",
@@ -2700,7 +2683,7 @@
     "notes": "Turkey"
   },
   {
-    "id": 292,
+    "id": 290,
     "type": "phrase",
     "text": "BOOD-yah-mo nah-zdah-ROH-vyah",
     "category": "global",
@@ -2710,17 +2693,17 @@
     "notes": "Ukraine"
   },
   {
-    "id": 293,
+    "id": 291,
     "type": "phrase",
     "text": "EE-uhid DAH",
     "category": "global",
     "native": "Iechyd da",
     "author": null,
     "adult": false,
-    "notes": "Wales"
+    "notes": "Wales for \"good health\""
   },
   {
-    "id": 294,
+    "id": 292,
     "type": "phrase",
     "text": "nah-ZDRAH-vyeh",
     "category": "global",
@@ -2730,16 +2713,16 @@
     "notes": "Yugoslavia"
   },
   {
-    "id": 295,
+    "id": 293,
     "type": "phrase",
     "text": "OO-gee WAA-wah & POO-zim-pee",
     "category": "global",
     "author": null,
     "adult": false,
-    "notes": "Zulu"
+    "notes": "Zulu — Etiquette: make eye contact when clinking glasses to show sincerity, especially in formal settings."
   },
   {
-    "id": 296,
+    "id": 294,
     "type": "toast",
     "text": "Alcohol, you noble spirit, no matter how many times you knock me down, knock me down ten more times – I'll get up and drink again!",
     "category": "drinking",
@@ -2748,7 +2731,7 @@
     "notes": null
   },
   {
-    "id": 297,
+    "id": 295,
     "type": "toast",
     "text": "Everything is transient, only thirst lasts a lifetime.",
     "category": "drinking",
@@ -2757,7 +2740,7 @@
     "notes": null
   },
   {
-    "id": 298,
+    "id": 296,
     "type": "toast",
     "text": "Once your reputation is ruined, you can drink without any shame.",
     "category": "drinking",
@@ -2766,7 +2749,7 @@
     "notes": null
   },
   {
-    "id": 299,
+    "id": 297,
     "type": "toast",
     "text": "From the middle to the tits to the balls – zap, zap!",
     "category": "drinking",
@@ -2775,7 +2758,7 @@
     "notes": null
   },
   {
-    "id": 300,
+    "id": 298,
     "type": "toast",
     "text": "A girl and a glass of wine cure all ailments. And whoever doesn't drink and whoever doesn't kiss is as good as dead.",
     "category": "drinking",
@@ -2784,7 +2767,7 @@
     "notes": null
   },
   {
-    "id": 301,
+    "id": 299,
     "type": "toast",
     "text": "Water makes you wise, wine makes you happy – so we drink both, to be both.",
     "category": "drinking",
@@ -2793,16 +2776,7 @@
     "notes": null
   },
   {
-    "id": 302,
-    "type": "toast",
-    "text": "Even if your birthday hands are shaking, a shot of schnapps will calm them down immensely. You only have ten ngers, so drink – and then sink into a blissful intoxication.",
-    "category": "birthday",
-    "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('ngers') — verify"
-  },
-  {
-    "id": 303,
+    "id": 300,
     "type": "toast",
     "text": "Don't waste any time talking – get your head in the neck!",
     "category": "drinking",
@@ -2811,7 +2785,7 @@
     "notes": null
   },
   {
-    "id": 304,
+    "id": 301,
     "type": "toast",
     "text": "Hops and malt – straight down your throat!",
     "category": "drinking",
@@ -2820,7 +2794,7 @@
     "notes": null
   },
   {
-    "id": 305,
+    "id": 302,
     "type": "toast",
     "text": "Alcohol may make your head hollow, but then there's more room for alcohol.",
     "category": "drinking",
@@ -2829,7 +2803,7 @@
     "notes": null
   },
   {
-    "id": 306,
+    "id": 303,
     "type": "toast",
     "text": "If you like love and unity, you'll also enjoy a little drink.",
     "category": "drinking",
@@ -2838,7 +2812,7 @@
     "notes": null
   },
   {
-    "id": 307,
+    "id": 304,
     "type": "toast",
     "text": "Let's stop drinking and start boozing.",
     "category": "drinking",
@@ -2847,7 +2821,7 @@
     "notes": null
   },
   {
-    "id": 308,
+    "id": 305,
     "type": "toast",
     "text": "A dog and a pig got married. The result of their merrymaking is us drunken bastards.",
     "category": "drinking",
@@ -2856,7 +2830,7 @@
     "notes": null
   },
   {
-    "id": 309,
+    "id": 306,
     "type": "toast",
     "text": "Mankind's greatest enemy is and remains alcohol. But the Bible says: \"You shall also love your friends.\"",
     "category": "drinking",
@@ -2865,16 +2839,7 @@
     "notes": null
   },
   {
-    "id": 310,
-    "type": "toast",
-    "text": "Delirium, delarium, full as an aquarium.",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Text garbled in source — verify"
-  },
-  {
-    "id": 311,
+    "id": 307,
     "type": "toast",
     "text": "Dear moon, you have it tough, you have every reason to complain. You are only full twelve times a year – I am full every day.",
     "category": "drinking",
@@ -2883,7 +2848,7 @@
     "notes": null
   },
   {
-    "id": 312,
+    "id": 308,
     "type": "toast",
     "text": "It hurts my heart so much when I see the bottom of the glass.",
     "category": "drinking",
@@ -2892,7 +2857,7 @@
     "notes": null
   },
   {
-    "id": 313,
+    "id": 309,
     "type": "toast",
     "text": "From the middle to the tits to the balls, zack, zack!",
     "category": "drinking",
@@ -2901,16 +2866,7 @@
     "notes": null
   },
   {
-    "id": 314,
-    "type": "toast",
-    "text": "Sport is murder – only fuel keeps you t.",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('t.' = fit) — verify"
-  },
-  {
-    "id": 315,
+    "id": 310,
     "type": "toast",
     "text": "Caipi Beck's and Jägermeister, these are our spirits.",
     "category": "drinking",
@@ -2919,7 +2875,7 @@
     "notes": null
   },
   {
-    "id": 316,
+    "id": 311,
     "type": "toast",
     "text": "Our last wish – more and more alcohol!",
     "category": "drinking",
@@ -2928,7 +2884,7 @@
     "notes": null
   },
   {
-    "id": 317,
+    "id": 312,
     "type": "toast",
     "text": "Some days life can only be endured when you're completely drunk.",
     "category": "drinking",
@@ -2937,7 +2893,7 @@
     "notes": null
   },
   {
-    "id": 318,
+    "id": 313,
     "type": "toast",
     "text": "My greatest enemy is alcohol. But the Bible says, \"Love your enemies too.\"",
     "category": "drinking",
@@ -2946,7 +2902,7 @@
     "notes": null
   },
   {
-    "id": 319,
+    "id": 314,
     "type": "toast",
     "text": "Better a belly from drinking than a hump from working.",
     "category": "drinking",
@@ -2955,7 +2911,7 @@
     "notes": null
   },
   {
-    "id": 320,
+    "id": 315,
     "type": "toast",
     "text": "Alcohol isn't the answer, but at least you forget the question.",
     "category": "drinking",
@@ -2964,7 +2920,7 @@
     "notes": null
   },
   {
-    "id": 321,
+    "id": 316,
     "type": "toast",
     "text": "From the cradle to the grave, booze is the only thing that matters.",
     "category": "drinking",
@@ -2973,7 +2929,7 @@
     "notes": null
   },
   {
-    "id": 322,
+    "id": 317,
     "type": "toast",
     "text": "We're sitting here at the round table – and drinking until it's square.",
     "category": "drinking",
@@ -2982,7 +2938,7 @@
     "notes": null
   },
   {
-    "id": 323,
+    "id": 318,
     "type": "toast",
     "text": "The little man's sunshine: fucking and getting drunk.",
     "category": "drinking",
@@ -2991,16 +2947,15 @@
     "notes": null
   },
   {
-    "id": 324,
+    "id": 319,
     "type": "toast",
     "text": "Better in the darkest bar than at the brightest job.",
     "category": "drinking",
     "author": null,
-    "adult": false,
-    "notes": "Meaning unclear in source — verify"
+    "adult": false
   },
   {
-    "id": 325,
+    "id": 320,
     "type": "toast",
     "text": "Yesterday I quit drinking – today I'm celebrating my comeback!",
     "category": "drinking",
@@ -3009,16 +2964,7 @@
     "notes": null
   },
   {
-    "id": 326,
-    "type": "toast",
-    "text": "Re ll instead of thinking.",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Text garbled in source — verify"
-  },
-  {
-    "id": 327,
+    "id": 321,
     "type": "toast",
     "text": "Alcohol shortens your life by half – but you see everything twice.",
     "category": "drinking",
@@ -3027,7 +2973,7 @@
     "notes": null
   },
   {
-    "id": 328,
+    "id": 322,
     "type": "toast",
     "text": "Man drinks, horse drinks – but today it is the other way around.",
     "category": "drinking",
@@ -3036,7 +2982,7 @@
     "notes": null
   },
   {
-    "id": 329,
+    "id": 323,
     "type": "toast",
     "text": "As a child, I blushed at every opportunity – today I blush at every opportunity.",
     "category": "drinking",
@@ -3045,7 +2991,7 @@
     "notes": null
   },
   {
-    "id": 330,
+    "id": 324,
     "type": "toast",
     "text": "You can never drink too much—but you can never drink enough!",
     "category": "drinking",
@@ -3054,7 +3000,7 @@
     "notes": null
   },
   {
-    "id": 331,
+    "id": 325,
     "type": "toast",
     "text": "“Eating is a need of the stomach, drinking is a need of the soul.”",
     "category": "drinking",
@@ -3063,7 +3009,7 @@
     "notes": null
   },
   {
-    "id": 332,
+    "id": 326,
     "type": "toast",
     "text": "Better to sit on one than miss one.",
     "category": "drinking",
@@ -3072,7 +3018,7 @@
     "notes": null
   },
   {
-    "id": 333,
+    "id": 327,
     "type": "toast",
     "text": "Beer is proof that God loves us and wants us to be happy.",
     "category": "drinking",
@@ -3081,16 +3027,7 @@
     "notes": null
   },
   {
-    "id": 334,
-    "type": "toast",
-    "text": "The level is stable – the rest is wobbly.",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Meaning unclear in source — verify"
-  },
-  {
-    "id": 335,
+    "id": 328,
     "type": "toast",
     "text": "I'll never drink again... without you!",
     "category": "drinking",
@@ -3099,7 +3036,7 @@
     "notes": null
   },
   {
-    "id": 336,
+    "id": 329,
     "type": "toast",
     "text": "If the farmer milks his bull, the idiot drank too much beer.",
     "category": "drinking",
@@ -3108,7 +3045,7 @@
     "notes": null
   },
   {
-    "id": 337,
+    "id": 330,
     "type": "toast",
     "text": "Drinking is a vice – but a beautiful one.",
     "category": "drinking",
@@ -3117,7 +3054,7 @@
     "notes": null
   },
   {
-    "id": 338,
+    "id": 331,
     "type": "toast",
     "text": "If you are blind after throwing up, the headwind was too strong!",
     "category": "drinking",
@@ -3126,7 +3063,7 @@
     "notes": null
   },
   {
-    "id": 339,
+    "id": 332,
     "type": "toast",
     "text": "I'm not drunk! I'm naturally loud, funny, and clumsy!",
     "category": "drinking",
@@ -3135,7 +3072,7 @@
     "notes": null
   },
   {
-    "id": 340,
+    "id": 333,
     "type": "toast",
     "text": "A man without a belly is a cripple!",
     "category": "drinking",
@@ -3144,7 +3081,7 @@
     "notes": null
   },
   {
-    "id": 341,
+    "id": 334,
     "type": "toast",
     "text": "No one can refuse a glass of wine.",
     "category": "drinking",
@@ -3153,7 +3090,7 @@
     "notes": null
   },
   {
-    "id": 342,
+    "id": 335,
     "type": "toast",
     "text": "Where drinking is an honor, vomiting can be no disgrace!",
     "category": "drinking",
@@ -3162,7 +3099,7 @@
     "notes": null
   },
   {
-    "id": 343,
+    "id": 336,
     "type": "toast",
     "text": "Everyone has to believe in something – I think I'll have another drink!",
     "category": "drinking",
@@ -3171,7 +3108,7 @@
     "notes": null
   },
   {
-    "id": 344,
+    "id": 337,
     "type": "toast",
     "text": "What used to be my liver is now a minibar.",
     "category": "drinking",
@@ -3180,16 +3117,15 @@
     "notes": null
   },
   {
-    "id": 345,
+    "id": 338,
     "type": "toast",
-    "text": "Sober I'm shy-but drunk I'm great!",
+    "text": "Sober I'm shy, but drunk I'm great!",
     "category": "drinking",
     "author": null,
-    "adult": false,
-    "notes": "Source typo 'shy-but' — verify"
+    "adult": false
   },
   {
-    "id": 346,
+    "id": 339,
     "type": "toast",
     "text": "Come on – never give up!",
     "category": "drinking",
@@ -3198,7 +3134,7 @@
     "notes": null
   },
   {
-    "id": 347,
+    "id": 340,
     "type": "toast",
     "text": "An empty stomach is a bad advisor – so cheers and dig in!",
     "category": "drinking",
@@ -3207,7 +3143,7 @@
     "notes": null
   },
   {
-    "id": 348,
+    "id": 341,
     "type": "toast",
     "text": "Get rid of that shit!",
     "category": "drinking",
@@ -3216,7 +3152,7 @@
     "notes": null
   },
   {
-    "id": 349,
+    "id": 342,
     "type": "toast",
     "text": "Always be happy and never angry – this will prolong your lifespan.",
     "category": "drinking",
@@ -3225,7 +3161,7 @@
     "notes": null
   },
   {
-    "id": 350,
+    "id": 343,
     "type": "toast",
     "text": "I drink ouzo – what do you drink?",
     "category": "drinking",
@@ -3234,7 +3170,7 @@
     "notes": null
   },
   {
-    "id": 351,
+    "id": 344,
     "type": "toast",
     "text": "Better grain in the blood than straw in the head!",
     "category": "drinking",
@@ -3243,7 +3179,7 @@
     "notes": null
   },
   {
-    "id": 352,
+    "id": 345,
     "type": "toast",
     "text": "Those who waver get more out of the journey.",
     "category": "drinking",
@@ -3252,7 +3188,7 @@
     "notes": null
   },
   {
-    "id": 353,
+    "id": 346,
     "type": "toast",
     "text": "Don't praise your beer before you have a hangover!",
     "category": "drinking",
@@ -3261,7 +3197,7 @@
     "notes": null
   },
   {
-    "id": 354,
+    "id": 347,
     "type": "toast",
     "text": "Memory gaps are the jackpot at the bottom of a vodka bottle.",
     "category": "drinking",
@@ -3270,7 +3206,7 @@
     "notes": null
   },
   {
-    "id": 355,
+    "id": 348,
     "type": "toast",
     "text": "Everyone has to believe in something. I think I'll have another beer!",
     "category": "drinking",
@@ -3279,7 +3215,7 @@
     "notes": null
   },
   {
-    "id": 356,
+    "id": 349,
     "type": "toast",
     "text": "Water is also a noble drink when mixed with malt and hops.",
     "category": "drinking",
@@ -3288,7 +3224,7 @@
     "notes": null
   },
   {
-    "id": 357,
+    "id": 350,
     "type": "toast",
     "text": "Hops and malt, God bless them!",
     "category": "drinking",
@@ -3297,7 +3233,7 @@
     "notes": null
   },
   {
-    "id": 358,
+    "id": 351,
     "type": "toast",
     "text": "Moses knocked on a stone, and water immediately turned into wine. But you're much more comfortable here; all you have to do is call out: Innkeeper, a beer!",
     "category": "drinking",
@@ -3306,7 +3242,7 @@
     "notes": null
   },
   {
-    "id": 359,
+    "id": 352,
     "type": "toast",
     "text": "Two beers are better than one – that's math you can understand.",
     "category": "drinking",
@@ -3315,16 +3251,15 @@
     "notes": null
   },
   {
-    "id": 360,
+    "id": 353,
     "type": "toast",
-    "text": "The rst beer quenches my thirst. The second cheers me up. After three, I don't care about anything else—so I just keep drinking.",
+    "text": "The first beer quenches my thirst. The second cheers me up. After three, I don't care about anything else, so I just keep drinking.",
     "category": "drinking",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('rst' = first) — verify"
+    "adult": false
   },
   {
-    "id": 361,
+    "id": 354,
     "type": "toast",
     "text": "A mug of beer is the best psychologist.",
     "category": "drinking",
@@ -3333,7 +3268,7 @@
     "notes": null
   },
   {
-    "id": 362,
+    "id": 355,
     "type": "toast",
     "text": "Beer makes you smart – too much makes you blue.",
     "category": "drinking",
@@ -3342,7 +3277,7 @@
     "notes": null
   },
   {
-    "id": 363,
+    "id": 356,
     "type": "toast",
     "text": "The biggest advantage of beer: no red wine stains!",
     "category": "drinking",
@@ -3351,7 +3286,7 @@
     "notes": null
   },
   {
-    "id": 364,
+    "id": 357,
     "type": "toast",
     "text": "The smart person, I tell you, doesn't talk – he drinks his beer.",
     "category": "drinking",
@@ -3360,7 +3295,7 @@
     "notes": null
   },
   {
-    "id": 365,
+    "id": 358,
     "type": "toast",
     "text": "A beer in the morning and the day is yours.",
     "category": "drinking",
@@ -3369,7 +3304,7 @@
     "notes": null
   },
   {
-    "id": 366,
+    "id": 359,
     "type": "toast",
     "text": "There's always room for a pilsner between the liver and the spleen.",
     "category": "drinking",
@@ -3378,7 +3313,7 @@
     "notes": null
   },
   {
-    "id": 367,
+    "id": 360,
     "type": "toast",
     "text": "Liquid bread makes cheeks red!",
     "category": "drinking",
@@ -3387,7 +3322,7 @@
     "notes": null
   },
   {
-    "id": 368,
+    "id": 361,
     "type": "toast",
     "text": "Instead of heating, I'd rather have a wheat beer!",
     "category": "drinking",
@@ -3396,7 +3331,7 @@
     "notes": null
   },
   {
-    "id": 369,
+    "id": 362,
     "type": "toast",
     "text": "My head hurts, my feet stink – it's high time to have a beer!",
     "category": "drinking",
@@ -3405,7 +3340,7 @@
     "notes": null
   },
   {
-    "id": 370,
+    "id": 363,
     "type": "toast",
     "text": "Beer is delicious, beer is great – I prefer to be drunk!",
     "category": "drinking",
@@ -3414,7 +3349,7 @@
     "notes": null
   },
   {
-    "id": 371,
+    "id": 364,
     "type": "toast",
     "text": "Anyone who gives away beer will be hanged!",
     "category": "drinking",
@@ -3423,7 +3358,7 @@
     "notes": null
   },
   {
-    "id": 372,
+    "id": 365,
     "type": "toast",
     "text": "I'm tired, I'm going to rest, cover my beer belly. Father, let the hangover go, don't be so cruel tomorrow!",
     "category": "drinking",
@@ -3432,7 +3367,7 @@
     "notes": null
   },
   {
-    "id": 373,
+    "id": 366,
     "type": "toast",
     "text": "He who sows hops will reap beer.",
     "category": "drinking",
@@ -3441,25 +3376,7 @@
     "notes": null
   },
   {
-    "id": 374,
-    "type": "toast",
-    "text": "Ex and hopp – in the head!",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Source fragment, meaning unclear — verify"
-  },
-  {
-    "id": 375,
-    "type": "toast",
-    "text": "It's all lost!",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Source fragment, meaning unclear — verify"
-  },
-  {
-    "id": 376,
+    "id": 367,
     "type": "toast",
     "text": "Get me a bottle of beer, or I'll strike out!",
     "category": "drinking",
@@ -3468,7 +3385,7 @@
     "notes": null
   },
   {
-    "id": 377,
+    "id": 368,
     "type": "toast",
     "text": "When I touch your neck, when I bring your mouth to mine – oh, how I long for you, beloved bottle of beer!",
     "category": "drinking",
@@ -3477,7 +3394,7 @@
     "notes": null
   },
   {
-    "id": 378,
+    "id": 369,
     "type": "toast",
     "text": "Don't be shabby – raise your mug!",
     "category": "drinking",
@@ -3486,7 +3403,7 @@
     "notes": null
   },
   {
-    "id": 379,
+    "id": 370,
     "type": "toast",
     "text": "Beer belly? I can do that too!",
     "category": "drinking",
@@ -3495,7 +3412,7 @@
     "notes": null
   },
   {
-    "id": 380,
+    "id": 371,
     "type": "toast",
     "text": "A beer always goes well with liver and kidneys!",
     "category": "drinking",
@@ -3504,7 +3421,7 @@
     "notes": null
   },
   {
-    "id": 381,
+    "id": 372,
     "type": "toast",
     "text": "A beer in the morning drives away sorrow and worries.",
     "category": "drinking",
@@ -3513,16 +3430,15 @@
     "notes": null
   },
   {
-    "id": 382,
+    "id": 373,
     "type": "toast",
-    "text": "The rst beer of the day is like the sun – it rises and makes everything better.",
+    "text": "The first beer of the day is like the sun – it rises and makes everything better.",
     "category": "drinking",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('rst' = first) — verify"
+    "adult": false
   },
   {
-    "id": 383,
+    "id": 374,
     "type": "toast",
     "text": "No beer before four? Come on, it's always four somewhere!",
     "category": "drinking",
@@ -3531,7 +3447,7 @@
     "notes": null
   },
   {
-    "id": 384,
+    "id": 375,
     "type": "toast",
     "text": "Let's raise a glass in joy, and may our celebrant live. Free from worries and full of enjoyment—that's possible, no, it's a must!",
     "category": "birthday",
@@ -3540,7 +3456,7 @@
     "notes": null
   },
   {
-    "id": 385,
+    "id": 376,
     "type": "toast",
     "text": "Let the full glasses ring out, toast your friend. Fill your glasses again – drink to your friend's health!",
     "category": "birthday",
@@ -3549,7 +3465,7 @@
     "notes": null
   },
   {
-    "id": 386,
+    "id": 377,
     "type": "toast",
     "text": "When birthday joys beckon, it's okay to have a drink. There's truth in wine, as tradition says—so stick to it and do it!",
     "category": "birthday",
@@ -3558,7 +3474,7 @@
     "notes": null
   },
   {
-    "id": 387,
+    "id": 378,
     "type": "toast",
     "text": "You shall live 100 years, to that we raise a glass. Farewell, live it well – and it's best to stay drunk!",
     "category": "birthday",
@@ -3567,7 +3483,7 @@
     "notes": null
   },
   {
-    "id": 388,
+    "id": 379,
     "type": "toast",
     "text": "Cheers! May everyone now reach for a beer and our anniversary celebration matures for another year.",
     "category": "birthday",
@@ -3576,7 +3492,7 @@
     "notes": null
   },
   {
-    "id": 389,
+    "id": 380,
     "type": "toast",
     "text": "To the birthday child, raise a glass. A big toast – cheers to everyone!",
     "category": "birthday",
@@ -3585,16 +3501,15 @@
     "notes": null
   },
   {
-    "id": 390,
+    "id": 381,
     "type": "toast",
     "text": "We raise our glasses and drink to you – and do good, certainly.",
     "category": "birthday",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source — verify"
+    "adult": false
   },
   {
-    "id": 391,
+    "id": 382,
     "type": "toast",
     "text": "I'm giving you the greatest gift by thinking of you with every sip. Cheers and all the best!",
     "category": "birthday",
@@ -3603,7 +3518,7 @@
     "notes": null
   },
   {
-    "id": 392,
+    "id": 383,
     "type": "toast",
     "text": "The years pass, the wine matures – oh, if only every day could be my birthday!",
     "category": "birthday",
@@ -3612,7 +3527,7 @@
     "notes": null
   },
   {
-    "id": 393,
+    "id": 384,
     "type": "toast",
     "text": "Fully drunk, we raise a glass to you, another year gone by – and you're less fresh.",
     "category": "birthday",
@@ -3621,7 +3536,7 @@
     "notes": null
   },
   {
-    "id": 394,
+    "id": 385,
     "type": "toast",
     "text": "Instead of many words and big speeches – let's raise a glass!",
     "category": "birthday",
@@ -3630,7 +3545,7 @@
     "notes": null
   },
   {
-    "id": 395,
+    "id": 386,
     "type": "toast",
     "text": "To your health, to your life, may you give us many more rounds!",
     "category": "birthday",
@@ -3639,7 +3554,7 @@
     "notes": null
   },
   {
-    "id": 396,
+    "id": 387,
     "type": "toast",
     "text": "Here's to life, love, and a year full of happiness—and, of course, a cold beer!",
     "category": "birthday",
@@ -3648,7 +3563,7 @@
     "notes": null
   },
   {
-    "id": 397,
+    "id": 388,
     "type": "toast",
     "text": "A toast for every year, and a beer for every toast!",
     "category": "birthday",
@@ -3657,7 +3572,7 @@
     "notes": null
   },
   {
-    "id": 398,
+    "id": 389,
     "type": "toast",
     "text": "On your special day, we drink whatever the barrel can hold.",
     "category": "birthday",
@@ -3666,7 +3581,7 @@
     "notes": null
   },
   {
-    "id": 399,
+    "id": 390,
     "type": "toast",
     "text": "Birthdays are good for you. Statistics show: those who have more of them live longer – cheers to that!",
     "category": "birthday",
@@ -3675,7 +3590,7 @@
     "notes": null
   },
   {
-    "id": 400,
+    "id": 391,
     "type": "toast",
     "text": "Let's raise your glasses to cheers for the birthday child!",
     "category": "birthday",
@@ -3684,7 +3599,7 @@
     "notes": null
   },
   {
-    "id": 401,
+    "id": 392,
     "type": "toast",
     "text": "Whether I'll live tomorrow, I don't know. But if I live tomorrow, I know for sure that I'll drink tomorrow.",
     "category": "birthday",
@@ -3693,7 +3608,7 @@
     "notes": null
   },
   {
-    "id": 402,
+    "id": 393,
     "type": "toast",
     "text": "Cheers everyone!",
     "category": "drinking",
@@ -3702,7 +3617,7 @@
     "notes": null
   },
   {
-    "id": 403,
+    "id": 394,
     "type": "toast",
     "text": "Raise your glasses!",
     "category": "drinking",
@@ -3711,7 +3626,7 @@
     "notes": null
   },
   {
-    "id": 404,
+    "id": 395,
     "type": "toast",
     "text": "Cheers, you idiot!",
     "category": "drinking",
@@ -3720,43 +3635,7 @@
     "notes": null
   },
   {
-    "id": 405,
-    "type": "toast",
-    "text": "Prostate!",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Source garbled (German 'Prosit'?) — verify"
-  },
-  {
-    "id": 406,
-    "type": "toast",
-    "text": "Ex and hopp, into the head.",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Source fragment, meaning unclear — verify"
-  },
-  {
-    "id": 407,
-    "type": "toast",
-    "text": "One, two, three – Gsu a!",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Source garbled (German 'G's auf!') — verify"
-  },
-  {
-    "id": 408,
-    "type": "toast",
-    "text": "With that in mind – o into the gutter!",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Text garbled in source — verify"
-  },
-  {
-    "id": 409,
+    "id": 396,
     "type": "toast",
     "text": "Thirst comes with drinking.",
     "category": "drinking",
@@ -3765,7 +3644,7 @@
     "notes": null
   },
   {
-    "id": 410,
+    "id": 397,
     "type": "toast",
     "text": "We'll never be together again when we're that young.",
     "category": "drinking",
@@ -3774,16 +3653,7 @@
     "notes": null
   },
   {
-    "id": 411,
-    "type": "toast",
-    "text": "Adam, I'd love a Bavarian beer right now, otherwise dying will be di cult for me.",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('di cult' = difficult) — verify"
-  },
-  {
-    "id": 412,
+    "id": 398,
     "type": "toast",
     "text": "A toast, a toast – a bottle of beer, and we'll be in a good mood here!",
     "category": "drinking",
@@ -3792,7 +3662,7 @@
     "notes": null
   },
   {
-    "id": 413,
+    "id": 399,
     "type": "toast",
     "text": "To the women! Zack! Zack! Zack!",
     "category": "drinking",
@@ -3801,7 +3671,7 @@
     "notes": null
   },
   {
-    "id": 414,
+    "id": 400,
     "type": "toast",
     "text": "No more chatting, just get your head back!",
     "category": "drinking",
@@ -3810,7 +3680,7 @@
     "notes": null
   },
   {
-    "id": 415,
+    "id": 401,
     "type": "toast",
     "text": "This glass to the good spirit.",
     "category": "drinking",
@@ -3819,7 +3689,7 @@
     "notes": null
   },
   {
-    "id": 416,
+    "id": 402,
     "type": "toast",
     "text": "Eating takes, drinking gives enthusiasm.",
     "category": "drinking",
@@ -3828,7 +3698,7 @@
     "notes": null
   },
   {
-    "id": 417,
+    "id": 403,
     "type": "toast",
     "text": "The drink takes away our worries – but only until tomorrow.",
     "category": "drinking",
@@ -3837,7 +3707,7 @@
     "notes": null
   },
   {
-    "id": 418,
+    "id": 404,
     "type": "toast",
     "text": "Let's not die, we have a Bavarian beer! Here's to fun, to joy, to life and to death!",
     "category": "drinking",
@@ -3846,7 +3716,7 @@
     "notes": null
   },
   {
-    "id": 419,
+    "id": 405,
     "type": "toast",
     "text": "If you take your drop every day, your heart will always beat cheerfully, and in old age you will be like wine, always desirable and cheerful.",
     "category": "drinking",
@@ -3855,7 +3725,7 @@
     "notes": null
   },
   {
-    "id": 420,
+    "id": 406,
     "type": "toast",
     "text": "Water is the ox's strength, man drinks wine and barley juice. So I toast with beer and wine—who would want to be an ox?",
     "category": "drinking",
@@ -3864,25 +3734,23 @@
     "notes": null
   },
   {
-    "id": 421,
+    "id": 407,
     "type": "toast",
-    "text": "The good Lord did not want ne wine to spoil. Therefore, he added the necessary thirst to the juice of the vines.",
+    "text": "A true German can't stand the French, Yet willingly he drinks their wines.",
     "category": "drinking",
     "author": "Johann Wolfgang von Goethe",
-    "adult": false,
-    "notes": "Text garbled in source ('ne' = fine) — verify"
+    "adult": false
   },
   {
-    "id": 422,
+    "id": 408,
     "type": "toast",
     "text": "Where vines entwine with ardent growth – so my thoughts are: love everything here.",
     "category": "drinking",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source — verify"
+    "adult": false
   },
   {
-    "id": 423,
+    "id": 409,
     "type": "toast",
     "text": "We can do without many things – but hardly wine and handsome men (or ladies).",
     "category": "drinking",
@@ -3891,16 +3759,15 @@
     "notes": null
   },
   {
-    "id": 424,
+    "id": 410,
     "type": "toast",
-    "text": "The world is re ected in wine – but those who philosophize too much quickly forget it.",
+    "text": "The world is reflected in wine – but those who philosophize too much quickly forget it.",
     "category": "drinking",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('re ected' = reflected) — verify"
+    "adult": false
   },
   {
-    "id": 425,
+    "id": 411,
     "type": "toast",
     "text": "He who made the vines grow also knows that one must enjoy.",
     "category": "drinking",
@@ -3909,7 +3776,7 @@
     "notes": null
   },
   {
-    "id": 426,
+    "id": 412,
     "type": "toast",
     "text": "Life is too short to drink bad wine.",
     "category": "drinking",
@@ -3918,7 +3785,7 @@
     "notes": null
   },
   {
-    "id": 427,
+    "id": 413,
     "type": "toast",
     "text": "Vinum bonum deorum donum.",
     "category": "foreign-language",
@@ -3928,7 +3795,7 @@
     "notes": "Latin. Meaning: A good wine is a gift from the gods."
   },
   {
-    "id": 428,
+    "id": 414,
     "type": "toast",
     "text": "Whoever rejects you, O noble wine, is not worthy to be called a man.",
     "category": "drinking",
@@ -3937,16 +3804,15 @@
     "notes": null
   },
   {
-    "id": 429,
+    "id": 415,
     "type": "toast",
-    "text": "He who drinks should have a pure heart – wine is not to be tri ed with.",
+    "text": "He who drinks should have a pure heart – wine is not to be trifled with.",
     "category": "drinking",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('tri ed' = tried) — verify"
+    "adult": false
   },
   {
-    "id": 430,
+    "id": 416,
     "type": "toast",
     "text": "He who drinks wine sleeps well. He who sleeps well does not sin. He who does not sin will be blessed. He who drinks wine will therefore be blessed.",
     "category": "drinking",
@@ -3955,16 +3821,15 @@
     "notes": "Loosely adapted from Shakespeare, per source"
   },
   {
-    "id": 431,
+    "id": 417,
     "type": "toast",
-    "text": "If you want to nd the truth in wine, you must not give up after the rst glass.",
+    "text": "If you want to find the truth in wine, you must not give up after the first glass.",
     "category": "drinking",
     "author": "Werner Mitsch",
-    "adult": false,
-    "notes": "Text garbled in source ('nd' = find, 'rst' = first) — verify"
+    "adult": false
   },
   {
-    "id": 432,
+    "id": 418,
     "type": "toast",
     "text": "Happy holidays and beautiful days – a wine from the best location.",
     "category": "drinking",
@@ -3973,16 +3838,15 @@
     "notes": null
   },
   {
-    "id": 433,
+    "id": 419,
     "type": "toast",
-    "text": "In wine lies truth, joy and comfort – so ll your glasses and let's say: Cheers!",
+    "text": "In wine lies truth, joy and comfort – so fill your glasses and let's say: Cheers!",
     "category": "drinking",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('ll' = fill) — verify"
+    "adult": false
   },
   {
-    "id": 434,
+    "id": 420,
     "type": "toast",
     "text": "We must all be drunk! Youth is drunkenness without wine. If age drinks itself back to youth, it is a wonderful virtue.",
     "category": "drinking",
@@ -3991,7 +3855,7 @@
     "notes": null
   },
   {
-    "id": 435,
+    "id": 421,
     "type": "toast",
     "text": "Rain makes the grass grow, wine makes the conversation.",
     "category": "drinking",
@@ -4000,7 +3864,7 @@
     "notes": null
   },
   {
-    "id": 436,
+    "id": 422,
     "type": "toast",
     "text": "Let's raise a glass – long may the bride and groom live!",
     "category": "wedding",
@@ -4009,7 +3873,7 @@
     "notes": null
   },
   {
-    "id": 437,
+    "id": 423,
     "type": "toast",
     "text": "Because my opinion is not exaggerated: He who cannot drink should not love. But you drinkers should not think yourselves better – If you can't love, you shouldn't drink!",
     "category": "wedding",
@@ -4018,7 +3882,7 @@
     "notes": null
   },
   {
-    "id": 438,
+    "id": 424,
     "type": "toast",
     "text": "You are now one, both of you – and we are one with you. Drink a glass of good wine to celebrate your joy!",
     "category": "wedding",
@@ -4027,7 +3891,7 @@
     "notes": null
   },
   {
-    "id": 439,
+    "id": 425,
     "type": "toast",
     "text": "Be happy here and there, be blessed because you are praised – you who are called bride and groom today. Be husband and wife tomorrow, be parents throughout the year – So you have attained what was to be attained.",
     "category": "wedding",
@@ -4036,16 +3900,15 @@
     "notes": null
   },
   {
-    "id": 440,
+    "id": 426,
     "type": "toast",
-    "text": "I ll my glass with alcohol at home – I congratulate the newlyweds and drink to their health!",
+    "text": "I fill my glass with alcohol at home – I congratulate the newlyweds and drink to their health!",
     "category": "wedding",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('I ll' = I fill) — verify"
+    "adult": false
   },
   {
-    "id": 441,
+    "id": 427,
     "type": "toast",
     "text": "Do not ask what fate will decide tomorrow – The moment is ours, let's enjoy it!",
     "category": "wedding",
@@ -4054,7 +3917,7 @@
     "notes": null
   },
   {
-    "id": 442,
+    "id": 428,
     "type": "toast",
     "text": "Great love stories start with champagne – and end with herbal tea.",
     "category": "wedding",
@@ -4063,7 +3926,7 @@
     "notes": null
   },
   {
-    "id": 443,
+    "id": 429,
     "type": "toast",
     "text": "A good bite deserves a good drink. If you eat well, you should also drink well.",
     "category": "wedding",
@@ -4072,16 +3935,15 @@
     "notes": null
   },
   {
-    "id": 444,
+    "id": 430,
     "type": "toast",
-    "text": "Love, when it is new, e ervesces like a young wine – The older she gets, the clearer and quieter she will be.",
+    "text": "Love, when it is new, effervesces like a young wine – The older she gets, the clearer and quieter she will be.",
     "category": "wedding",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('e ervesces' = effervesces) — verify"
+    "adult": false
   },
   {
-    "id": 445,
+    "id": 431,
     "type": "toast",
     "text": "And remain turned towards one another at all times – May strife and discord never disturb your union.",
     "category": "wedding",
@@ -4090,7 +3952,7 @@
     "notes": null
   },
   {
-    "id": 446,
+    "id": 432,
     "type": "toast",
     "text": "Cheers to the couple getting married today – May love and wine never spoil you.",
     "category": "wedding",
@@ -4099,7 +3961,7 @@
     "notes": null
   },
   {
-    "id": 447,
+    "id": 433,
     "type": "toast",
     "text": "Love and wine – the two best reasons to never get married sober.",
     "category": "wedding",
@@ -4108,7 +3970,7 @@
     "notes": null
   },
   {
-    "id": 448,
+    "id": 434,
     "type": "toast",
     "text": "Two glasses in hand – better than cold feet at the altar!",
     "category": "wedding",
@@ -4117,75 +3979,63 @@
     "notes": null
   },
   {
-    "id": 449,
+    "id": 435,
     "type": "toast",
-    "text": "Connected in love, united in ecstasy – to what life still has to o er you!",
+    "text": "Connected in love, united in ecstasy – to what life still has to offer you!",
     "category": "wedding",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('o er' = offer) — verify"
+    "adult": false
   },
   {
-    "id": 450,
+    "id": 436,
     "type": "toast",
-    "text": "Jámas",
+    "text": "yah-MAHS",
     "category": "global",
-    "native": "Jámas",
+    "native": "Στην υγεια! (Yamas)",
     "author": null,
     "adult": false,
-    "notes": "Greece (from source list; overlaps existing Greek entry — verify)"
+    "notes": "Greek for \"to your health\" — Etiquette: take a sip immediately after toasting to show appreciation."
   },
   {
-    "id": 451,
+    "id": 437,
     "type": "toast",
-    "text": "Well Zdrowie",
+    "text": "ZAH pyee-enk-knee pan-nyay",
     "category": "global",
-    "native": "Na Zdrowie",
+    "native": "Za piękne panie",
     "author": null,
     "adult": false,
-    "notes": "Poland (from source list; overlaps existing 'Na zdrowie' — verify)"
+    "notes": "Polish for \"to beautiful women\""
   },
   {
-    "id": 452,
+    "id": 438,
     "type": "toast",
-    "text": "Na Zdorov'ye",
+    "text": "Naz-DROH-vee-ay",
     "category": "global",
-    "native": "За ваше здоровье",
+    "native": "За ваше здоровье (Na Zdorov'ye)",
     "author": null,
     "adult": false,
-    "notes": "Russia (from source list; overlaps existing Russian entry — verify)"
+    "notes": "Russia"
   },
   {
-    "id": 453,
-    "type": "toast",
-    "text": "Gānbēi",
-    "category": "global",
-    "native": "干杯",
-    "author": null,
-    "adult": false,
-    "notes": "China (from source list; overlaps existing Chinese entry — verify)"
-  },
-  {
-    "id": 454,
+    "id": 439,
     "type": "toast",
     "text": "Kanpai",
     "category": "global",
     "native": "乾杯",
     "author": null,
     "adult": false,
-    "notes": "Japan (from source list; overlaps existing '乾杯' — verify)"
+    "notes": "Japan for \"cheers\""
   },
   {
-    "id": 455,
+    "id": 440,
     "type": "toast",
-    "text": "Make new friends, yes\nBut don't forget the old\nFor the rst are silver\nAnd the second, gold.",
+    "text": "Make new friends, yes\nBut don't forget the old\nFor the first are silver\nAnd the second, gold.",
     "category": "friendship",
     "author": null,
-    "adult": false,
-    "notes": "Text garbled in source ('rst' = first) — verify"
+    "adult": false
   },
   {
-    "id": 456,
+    "id": 441,
     "type": "toast",
     "text": "May we live respected and die regretted.",
     "category": "friendship",
@@ -4194,7 +4044,7 @@
     "notes": null
   },
   {
-    "id": 457,
+    "id": 442,
     "type": "toast",
     "text": "May we live to learn well, and learn to live well.",
     "category": "friendship",
@@ -4203,7 +4053,7 @@
     "notes": null
   },
   {
-    "id": 458,
+    "id": 443,
     "type": "toast",
     "text": "To the men I've loved\nTo the men I've kissed\nMy heartfelt apologies\nTo the men I've missed.",
     "category": "romance",
@@ -4212,7 +4062,7 @@
     "notes": null
   },
   {
-    "id": 459,
+    "id": 444,
     "type": "toast",
     "text": "All of our guests make us happy.\nSome by coming,\nOthers by going.",
     "category": "overnight-guests",
@@ -4221,7 +4071,7 @@
     "notes": null
   },
   {
-    "id": 460,
+    "id": 445,
     "type": "toast",
     "text": "May the clouds in your life form only a background for a lovely sunset.",
     "category": "everyday",
@@ -4230,7 +4080,7 @@
     "notes": null
   },
   {
-    "id": 461,
+    "id": 446,
     "type": "toast",
     "text": "To the old, long life and treasure;\nTo the young, all health and pleasure.",
     "category": "everyday",
@@ -4239,7 +4089,7 @@
     "notes": null
   },
   {
-    "id": 462,
+    "id": 447,
     "type": "toast",
     "text": "You're not as young as you used to be\nbut you're not as old as you are going to be.",
     "category": "everyday",
@@ -4248,7 +4098,7 @@
     "notes": null
   },
   {
-    "id": 463,
+    "id": 448,
     "type": "toast",
     "text": "The great secret of a successful marriage is to treat all disasters as incidents\nand none of the incidents as disasters.",
     "category": "anniversary",
@@ -4257,7 +4107,7 @@
     "notes": null
   },
   {
-    "id": 464,
+    "id": 449,
     "type": "toast",
     "text": "Politics doesn't make strange bedfellows, marriage does.",
     "category": "celebrity",
@@ -4266,7 +4116,7 @@
     "notes": null
   },
   {
-    "id": 465,
+    "id": 450,
     "type": "toast",
     "text": "A successful marriage requires falling in love many times,\nalways with the same person.",
     "category": "anniversary",
@@ -4275,7 +4125,7 @@
     "notes": null
   },
   {
-    "id": 466,
+    "id": 451,
     "type": "toast",
     "text": "Happiness is not having what you want, but wanting what you have.",
     "category": "everyday",
@@ -4284,7 +4134,7 @@
     "notes": null
   },
   {
-    "id": 467,
+    "id": 452,
     "type": "toast",
     "text": "A good marriage is like a casserole,\nonly those responsible for it really know what goes in it.",
     "category": "anniversary",
@@ -4293,7 +4143,7 @@
     "notes": null
   },
   {
-    "id": 468,
+    "id": 453,
     "type": "toast",
     "text": "Love does not consist in gazing at each other,\nbut in looking outward together in the same direction.",
     "category": "romance",
@@ -4302,7 +4152,7 @@
     "notes": null
   },
   {
-    "id": 469,
+    "id": 454,
     "type": "toast",
     "text": "To keep your marriage brimming with love in the wedding cup,\nwhenever you're wrong, admit it;\nwhenever you're right, shut up.",
     "category": "anniversary",
@@ -4311,7 +4161,7 @@
     "notes": null
   },
   {
-    "id": 470,
+    "id": 455,
     "type": "toast",
     "text": "To your coming anniversaries—may they be outnumbered only by your coming pleasures.",
     "category": "anniversary",
@@ -4320,7 +4170,7 @@
     "notes": null
   },
   {
-    "id": 471,
+    "id": 456,
     "type": "toast",
     "text": "May the warmth of our affections survive the frosts of age.",
     "category": "anniversary",
@@ -4329,16 +4179,15 @@
     "notes": null
   },
   {
-    "id": 472,
+    "id": 457,
     "type": "toast",
-    "text": "Some take their gold in minted mold,\nAnd some in harps hereafter,\nBut give me mine\nIn bubbles ne\nAnd keep the change in laughter.",
+    "text": "Some take their gold in minted mold,\nAnd some in harps hereafter,\nBut give me mine\nIn bubbles fine\nAnd keep the change in laughter.",
     "category": "everyday",
     "author": "Mignon McLaughlin",
-    "adult": false,
-    "notes": "Text garbled in source ('ne' = fine) — verify"
+    "adult": false
   },
   {
-    "id": 473,
+    "id": 458,
     "type": "toast",
     "text": "Call frequently,\nDrink moderately,\nPark friendly,\nPay today, trust tomorrow.",
     "category": "everyday",
@@ -4347,7 +4196,7 @@
     "notes": null
   },
   {
-    "id": 474,
+    "id": 459,
     "type": "toast",
     "text": "Good day, good health, good cheer, good night!",
     "category": "everyday",
@@ -4356,7 +4205,7 @@
     "notes": null
   },
   {
-    "id": 475,
+    "id": 460,
     "type": "toast",
     "text": "You shall and you shan't, you will and you won't\nYou're condemned if you do,\nAnd you're damned if you don't.",
     "category": "everyday",
@@ -4365,7 +4214,7 @@
     "notes": null
   },
   {
-    "id": 476,
+    "id": 461,
     "type": "toast",
     "text": "May the morning of prosperity shine on the evening of adversity.",
     "category": "everyday",
@@ -4374,7 +4223,7 @@
     "notes": null
   },
   {
-    "id": 477,
+    "id": 462,
     "type": "toast",
     "text": "Better remorse, than regret.",
     "category": "everyday",
@@ -4383,7 +4232,7 @@
     "notes": null
   },
   {
-    "id": 478,
+    "id": 463,
     "type": "toast",
     "text": "Please remember to forget\nAll your worries–and regret\nLive while you have life to live\nLive while you have love to give.",
     "category": "everyday",
@@ -4392,12 +4241,340 @@
     "notes": null
   },
   {
-    "id": 479,
+    "id": 464,
     "type": "toast",
     "text": "Here's to our hostess, considerate and sweet;\nHer wit is endless, but when do we eat?",
     "category": "everyday",
     "author": null,
     "adult": false,
     "notes": null
+  },
+  {
+    "type": "phrase",
+    "text": "JOY",
+    "category": "global",
+    "native": "জয় (joy)",
+    "author": null,
+    "adult": false,
+    "notes": "India (Bengali) — for \"to victory\"",
+    "id": 465
+  },
+  {
+    "type": "phrase",
+    "text": "ah-ro-GYAH-lah",
+    "category": "global",
+    "native": "आरोग्याला (aarogyala)",
+    "author": null,
+    "adult": false,
+    "notes": "India (Marathi) — for \"to health\"",
+    "id": 466
+  },
+  {
+    "type": "phrase",
+    "text": "ah-ro-GYAH mah-TAY",
+    "category": "global",
+    "native": "આરોગ્ય માટે (aarogya mate)",
+    "author": null,
+    "adult": false,
+    "notes": "India (Gujarati) — for \"to health\"",
+    "id": 467
+  },
+  {
+    "type": "phrase",
+    "text": "ah-ro-GYA-nee-kee",
+    "category": "global",
+    "native": "ఆరోగ్యానికి (aarogyāniki)",
+    "author": null,
+    "adult": false,
+    "notes": "India (Telugu) — for \"to health\"",
+    "id": 468
+  },
+  {
+    "type": "phrase",
+    "text": "ah-ro-kia-thir-koo",
+    "category": "global",
+    "native": "ஆரோக்கியத்திற்கு (ārokiyaththirku)",
+    "author": null,
+    "adult": false,
+    "notes": "India (Tamil) — for \"to health\"",
+    "id": 469
+  },
+  {
+    "type": "phrase",
+    "text": "ah-ro-GYA-keh",
+    "category": "global",
+    "native": "ಆರೋಗ್ಯಕ್ಕೆ (aarogyakke)",
+    "author": null,
+    "adult": false,
+    "notes": "India (Kannada) — for \"to health\"",
+    "id": 470
+  },
+  {
+    "type": "phrase",
+    "text": "ah-ro-gyah-thih-NAH-yih",
+    "category": "global",
+    "native": "ആരോഗ്യത്തിനായി (ārogyaththināyai)",
+    "author": null,
+    "adult": false,
+    "notes": "India (Malayalam) — for \"to health\"",
+    "id": 471
+  },
+  {
+    "type": "phrase",
+    "text": "jee-OH",
+    "category": "global",
+    "native": "ਜੀਉ (jio)",
+    "author": null,
+    "adult": false,
+    "notes": "India (Punjabi) — for \"live long\"",
+    "id": 472
+  },
+  {
+    "type": "phrase",
+    "text": "Pee-lah",
+    "category": "global",
+    "native": "Phila",
+    "author": null,
+    "adult": false,
+    "notes": "South Africa (Zulu) for \"health\" — Etiquette: make eye contact when clinking glasses to show sincerity, especially in formal settings.",
+    "id": 473
+  },
+  {
+    "type": "phrase",
+    "text": "Ah-fee-yah",
+    "category": "global",
+    "native": "Afya",
+    "author": null,
+    "adult": false,
+    "notes": "East Africa (Swahili) for \"health\" — Etiquette: keep it light and inclusive — make sure everyone has a drink before raising your glass.",
+    "id": 474
+  },
+  {
+    "type": "toast",
+    "text": "Life is too short to drink bad wine.",
+    "category": "drinking",
+    "author": "Johann Wolfgang von Goethe",
+    "adult": false,
+    "id": 475
+  },
+  {
+    "type": "phrase",
+    "text": "ji-YO",
+    "category": "global",
+    "native": "जीयो (jiyo)",
+    "author": null,
+    "adult": false,
+    "notes": "India (Hindi) — for \"live long\"",
+    "id": 476
+  },
+  {
+    "type": "phrase",
+    "text": "Zhee-vi-lee",
+    "category": "global",
+    "native": "Živjeli",
+    "author": null,
+    "adult": false,
+    "notes": "Bosnia",
+    "id": 477
+  },
+  {
+    "type": "phrase",
+    "text": "Zhee-ve-lee",
+    "category": "global",
+    "native": "živeli",
+    "author": null,
+    "adult": false,
+    "notes": "Serbia",
+    "id": 478
+  },
+  {
+    "type": "phrase",
+    "text": "Naz-dra-vey",
+    "category": "global",
+    "native": "На здраве",
+    "author": null,
+    "adult": false,
+    "notes": "Bulgaria",
+    "id": 479
+  },
+  {
+    "type": "phrase",
+    "text": "Au-ng my-in par say",
+    "category": "global",
+    "native": "Aung myin par say",
+    "author": null,
+    "adult": false,
+    "notes": "Burma",
+    "id": 480
+  },
+  {
+    "type": "phrase",
+    "text": "Sah-lut",
+    "category": "global",
+    "native": "Salut",
+    "author": null,
+    "adult": false,
+    "notes": "Catalonia",
+    "id": 481
+  },
+  {
+    "type": "phrase",
+    "text": "Bih-bah",
+    "category": "global",
+    "native": "Biba",
+    "author": null,
+    "adult": false,
+    "notes": "Chamorro (Guam)",
+    "id": 482
+  },
+  {
+    "type": "phrase",
+    "text": "poora veeda",
+    "category": "global",
+    "native": "Pura vida",
+    "author": null,
+    "adult": false,
+    "notes": "Costa Rica — Etiquette: “Pura vida” reflects the laid-back vibe — savor the moment and life to the fullest.",
+    "id": 483
+  },
+  {
+    "type": "phrase",
+    "text": "Bot-ums up",
+    "category": "global",
+    "native": "Bottoms up",
+    "author": null,
+    "adult": false,
+    "notes": "United States — Etiquette: keep toasts short and meaningful; avoid overly personal or controversial topics in formal settings.",
+    "id": 484
+  },
+  {
+    "type": "phrase",
+    "text": "TSOOM-vohl",
+    "category": "global",
+    "native": "Zum Wohl",
+    "author": null,
+    "adult": false,
+    "notes": "Germany — \"to your well-being\" — Etiquette: maintain direct eye contact while toasting — it’s a sign of sincerity and respect.",
+    "id": 485
+  },
+  {
+    "type": "phrase",
+    "text": "Sk-owl",
+    "category": "global",
+    "native": "Skál",
+    "author": null,
+    "adult": false,
+    "notes": "Iceland — Etiquette: gently touch rims at eye level, and after a sip look back to nod or smile — looking away or being boisterous is impolite.",
+    "id": 486
+  },
+  {
+    "type": "phrase",
+    "text": "prho",
+    "category": "global",
+    "native": "Pro",
+    "author": null,
+    "adult": false,
+    "notes": "Indonesia",
+    "id": 487
+  },
+  {
+    "type": "phrase",
+    "text": "chin chin",
+    "category": "global",
+    "native": "Cin Cin",
+    "author": null,
+    "adult": false,
+    "notes": "Italy — Etiquette: never toast with water — it’s considered bad luck.",
+    "id": 488
+  },
+  {
+    "type": "phrase",
+    "text": "mee-tah-koo-yay oh-yah-seen",
+    "category": "global",
+    "native": "Mitákuye Oyás'iŋ",
+    "author": null,
+    "adult": false,
+    "notes": "Lakota — \"all my relations\"",
+    "id": 489
+  },
+  {
+    "type": "phrase",
+    "text": "Na zdravye",
+    "category": "global",
+    "native": "На здравје",
+    "author": null,
+    "adult": false,
+    "notes": "Macedonia",
+    "id": 490
+  },
+  {
+    "type": "phrase",
+    "text": "Er-uhl meh-deen toh-loo",
+    "category": "global",
+    "native": "Эрүүл мэндийн төлөө",
+    "author": null,
+    "adult": false,
+    "notes": "Mongolia",
+    "id": 491
+  },
+  {
+    "type": "phrase",
+    "text": "ah-HEH-heh",
+    "category": "global",
+    "native": "Ahéheeʼ",
+    "author": null,
+    "adult": false,
+    "notes": "Navajo — \"thank you\"",
+    "id": 492
+  },
+  {
+    "type": "phrase",
+    "text": "Naz-drah-vee",
+    "category": "global",
+    "native": "Na zdravje",
+    "author": null,
+    "adult": false,
+    "notes": "Slovenia",
+    "id": 493
+  },
+  {
+    "type": "phrase",
+    "text": "Budem zdorovi",
+    "category": "global",
+    "native": "Будем здоровы",
+    "author": null,
+    "adult": false,
+    "notes": "Russia",
+    "id": 494
+  },
+  {
+    "type": "phrase",
+    "text": "chay yo",
+    "category": "global",
+    "native": "Chai yo",
+    "author": null,
+    "adult": false,
+    "notes": "Thailand",
+    "id": 495
+  },
+  {
+    "type": "phrase",
+    "text": "MO-ah hee bah, yo",
+    "category": "global",
+    "native": "Một hai ba, yo",
+    "author": null,
+    "adult": false,
+    "notes": "Vietnam — \"one, two, three, yo\" — Etiquette: join in the group’s toast chant enthusiastically to keep the celebratory energy lively.",
+    "id": 496
+  },
+  {
+    "type": "phrase",
+    "text": "Say geh-sun",
+    "category": "global",
+    "native": "Sei gesund",
+    "author": null,
+    "adult": false,
+    "notes": "Yiddish",
+    "id": 497
   }
 ]
