@@ -40,18 +40,9 @@
     "type": "toast",
     "text": "In water one sees one's own face;\nBut in wine one beholds the heart of another.",
     "category": "drinking",
-    "author": "French Proverb",
-    "adult": false,
-    "notes": null
-  },
-  {
-    "id": 6,
-    "type": "toast",
-    "text": "Ye killed me mother;\nYe killed me father;\nAh, sweet revenge!",
-    "category": "drinking",
     "author": null,
     "adult": false,
-    "notes": "From a fine old Scottish gentleman from 'The Black Isle,' who passed away years ago. Traditionally delivered while holding his dram and staring it in the eye."
+    "notes": "French Proverb (no named author)"
   },
   {
     "id": 7,
@@ -391,9 +382,9 @@
     "type": "toast",
     "text": "Let no man thirst for lack of Real Ale.",
     "category": "drinking",
-    "author": "Commonwealth Brewing Co., Boston",
+    "author": null,
     "adult": false,
-    "notes": null
+    "notes": "Source: Commonwealth Brewing Co., Boston (advertisement)"
   },
   {
     "id": 45,
@@ -1038,7 +1029,7 @@
     "id": 116,
     "type": "toast",
     "text": "I drink Martinis.\nTwo at the very most.\nThree I'm under the table.\nFour I'm under the host",
-    "category": "celebrity",
+    "category": "drinking",
     "author": "Dorothy Parker",
     "adult": false,
     "notes": null
@@ -1047,7 +1038,7 @@
     "id": 117,
     "type": "toast",
     "text": "I drink to your charm,\nYour beauty and your brains,\nWhich gives you a rough idea\nof how hard up I am for a drink.",
-    "category": "celebrity",
+    "category": "drinking",
     "author": "Groucho Marx",
     "adult": false,
     "notes": null
@@ -1056,7 +1047,7 @@
     "id": 118,
     "type": "toast",
     "text": "Everybody has to believe in something, I believe I'll have another drink.",
-    "category": "celebrity",
+    "category": "drinking",
     "author": "W.C. Fields",
     "adult": false,
     "notes": null
@@ -1096,15 +1087,6 @@
     "author": null,
     "adult": false,
     "notes": null
-  },
-  {
-    "id": 123,
-    "type": "toast",
-    "text": "Here's mud in your eye",
-    "category": "luck",
-    "author": null,
-    "adult": false,
-    "notes": "It's said this toast came from World War II as a wish of good fortune to farmers. Another story has it from the mud kicked in a winner's face at the racetrack."
   },
   {
     "id": 124,
@@ -1563,15 +1545,6 @@
     "id": 171,
     "type": "toast",
     "text": "May you live to be a hundred years,\nwith one extra year to repent.",
-    "category": "birthday",
-    "author": null,
-    "adult": false,
-    "notes": null
-  },
-  {
-    "id": 172,
-    "type": "toast",
-    "text": "We drink to your coffin.\nMay it be built from the wood of a hundred year old oak tree that I shall plant tomorrow.",
     "category": "birthday",
     "author": null,
     "adult": false,
@@ -2857,15 +2830,6 @@
     "notes": null
   },
   {
-    "id": 309,
-    "type": "toast",
-    "text": "From the middle to the tits to the balls, zack, zack!",
-    "category": "drinking",
-    "author": null,
-    "adult": true,
-    "notes": null
-  },
-  {
     "id": 310,
     "type": "toast",
     "text": "Caipi Beck's and Jägermeister, these are our spirits.",
@@ -2914,15 +2878,6 @@
     "id": 315,
     "type": "toast",
     "text": "Alcohol isn't the answer, but at least you forget the question.",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": null
-  },
-  {
-    "id": 316,
-    "type": "toast",
-    "text": "From the cradle to the grave, booze is the only thing that matters.",
     "category": "drinking",
     "author": null,
     "adult": false,
@@ -3002,7 +2957,7 @@
   {
     "id": 325,
     "type": "toast",
-    "text": "“Eating is a need of the stomach, drinking is a need of the soul.”",
+    "text": "Eating is a need of the stomach, drinking is a need of the soul.",
     "category": "drinking",
     "author": "Claude Tillier",
     "adult": false,
@@ -3343,15 +3298,6 @@
     "id": 363,
     "type": "toast",
     "text": "Beer is delicious, beer is great – I prefer to be drunk!",
-    "category": "drinking",
-    "author": null,
-    "adult": false,
-    "notes": null
-  },
-  {
-    "id": 364,
-    "type": "toast",
-    "text": "Anyone who gives away beer will be hanged!",
     "category": "drinking",
     "author": null,
     "adult": false,
@@ -4110,7 +4056,7 @@
     "id": 449,
     "type": "toast",
     "text": "Politics doesn't make strange bedfellows, marriage does.",
-    "category": "celebrity",
+    "category": "wedding",
     "author": "Groucho Marx",
     "adult": false,
     "notes": null
@@ -4439,16 +4385,6 @@
   },
   {
     "type": "phrase",
-    "text": "Bot-ums up",
-    "category": "global",
-    "native": "Bottoms up",
-    "author": null,
-    "adult": false,
-    "notes": "United States — Etiquette: keep toasts short and meaningful; avoid overly personal or controversial topics in formal settings.",
-    "id": 484
-  },
-  {
-    "type": "phrase",
     "text": "TSOOM-vohl",
     "category": "global",
     "native": "Zum Wohl",
@@ -4576,5 +4512,2102 @@
     "adult": false,
     "notes": "Yiddish",
     "id": 497
+  },
+  {
+    "id": 498,
+    "type": "toast",
+    "text": "May your birthday be the start of a year filled with good luck, good health, and much happiness.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 499,
+    "type": "toast",
+    "text": "As you raise your glass to celebrate another year, I wish you a year of success and new achievements.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 500,
+    "type": "toast",
+    "text": "Here's to a good life that's long, and a young heart that's forever young. Happy birthday!",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 501,
+    "type": "toast",
+    "text": "Wishing you a birthday as wonderful as you are, and a year that treats you as kindly as you treat everyone else.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 502,
+    "type": "toast",
+    "text": "Here's to another lap around the sun - may this one be your best yet.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 503,
+    "type": "toast",
+    "text": "May this coming year exceed all your expectations, your heart's hopes, and your wildest dreams.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional blessing, sometimes labeled Irish; no specific author found. Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14)"
+  },
+  {
+    "id": 504,
+    "type": "toast",
+    "text": "Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!",
+    "category": "birthday",
+    "author": "Dixie Willson",
+    "adult": false,
+    "notes": "Widely circulated anonymously; often attributed to Dixie Willson (1920s children's author, per quote aggregators). Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14)"
+  },
+  {
+    "id": 505,
+    "type": "toast",
+    "text": "May your love be modern enough to survive the times but old-fashioned enough to last forever.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Circulates on wedding blogs without attribution. Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14)"
+  },
+  {
+    "id": 506,
+    "type": "toast",
+    "text": "Here's to the happy couple: may your arguments be short, your laughter be long, and your love keep growing.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Best Wedding Toasts"
+  },
+  {
+    "id": 507,
+    "type": "toast",
+    "text": "To the bride and groom: may your life be full of love, your home full of laughter, and your hearts full of joy.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Best Wedding Toasts"
+  },
+  {
+    "id": 508,
+    "type": "toast",
+    "text": "Here's to marriage: may you always snore on opposite sides of the bed.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Best Wedding Toasts"
+  },
+  {
+    "id": 509,
+    "type": "toast",
+    "text": "May your marriage be like a good fiddle: sweeter the more it's played.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional Irish"
+  },
+  {
+    "id": 510,
+    "type": "toast",
+    "text": "Here's to love that lasts, laughter that echoes, and a home that's always full.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Best Wedding Toasts"
+  },
+  {
+    "id": 511,
+    "type": "toast",
+    "text": "May you always have reasons to raise a glass together: small wins, long weekends, and each other.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Best Wedding Toasts"
+  },
+  {
+    "id": 512,
+    "type": "toast",
+    "text": "May today be the beginning of a long happiness - a love story the two of you will love to tell.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Best Wedding Toasts"
+  },
+  {
+    "id": 513,
+    "type": "toast",
+    "text": "Wine is constant proof that God loves us and loves to see us happy.",
+    "category": "drinking",
+    "author": "Benjamin Franklin",
+    "adult": false,
+    "notes": "Attributed quotation"
+  },
+  {
+    "id": 514,
+    "type": "toast",
+    "text": "In wine there is wisdom, in beer there is freedom, in water there is bacteria.",
+    "category": "drinking",
+    "author": "Terry Pratchett",
+    "adult": false,
+    "notes": "Attributed quotation"
+  },
+  {
+    "id": 515,
+    "type": "toast",
+    "text": "Here's to the memories we made tonight and the ones we'll forget by morning.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 516,
+    "type": "toast",
+    "text": "May your glass be ever full, your heart ever light, and your friends ever near.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional"
+  },
+  {
+    "id": 517,
+    "type": "toast",
+    "text": "May you drink coffee at cafes, wine at parties, and champagne on the beach - for the rest of your life.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "No earlier source found for this wording. Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14)"
+  },
+  {
+    "id": 518,
+    "type": "toast",
+    "text": "May your sins be forgiven, your tires be full of air, and your mother think you're handsome.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Modern humorous toast"
+  },
+  {
+    "id": 519,
+    "type": "toast",
+    "text": "Here's to the old days, before they became the good old days.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "No earlier print source found for this wording. Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14)"
+  },
+  {
+    "id": 520,
+    "type": "toast",
+    "text": "To the world: may we see it before we go. And to our friends: may they all be here, because if they're not, that would be weird.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Modern humorous toast"
+  },
+  {
+    "id": 521,
+    "type": "toast",
+    "text": "Here's a wish that can't be beat: may good friends, good spirits, and good times always meet.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional"
+  },
+  {
+    "id": 522,
+    "type": "toast",
+    "text": "May you be in heaven a full half-hour before the devil knows you're dead.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional Irish"
+  },
+  {
+    "id": 523,
+    "type": "toast",
+    "text": "Dance as though no one is watching you, love as though you've never been hurt, and drink as though the bar were free.",
+    "category": "drinking",
+    "author": "Alfred D. Souza",
+    "adult": false,
+    "notes": "Extended quote usually attributed to Alfred D. Souza (also credited to William Purkey). Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14)"
+  },
+  {
+    "id": 524,
+    "type": "toast",
+    "text": "May we never be too old for adventure, and may the bar always be open.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 525,
+    "type": "toast",
+    "text": "Here's to the ones we love dearest and most: near or far, we raise a glass to you.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Drinking Toasts"
+  },
+  {
+    "id": 526,
+    "type": "toast",
+    "text": "To a good heart, an easy conscience, and a bottle worth sharing.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Drinking Toasts"
+  },
+  {
+    "id": 527,
+    "type": "toast",
+    "text": "May our cups never run dry and our stories never run out.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Drinking Toasts"
+  },
+  {
+    "id": 528,
+    "type": "toast",
+    "text": "May you always have milk in the fridge, cookies in the jar, and mugs made for dipping.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 529,
+    "type": "toast",
+    "text": "May you always be the person your dog thinks you are.",
+    "category": "everyday",
+    "author": "John W. Stephens",
+    "adult": false,
+    "notes": "Circulated anonymously; often attributed to John W. Stephens (per quote aggregators). Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14)"
+  },
+  {
+    "id": 530,
+    "type": "toast",
+    "text": "May your days be many and your troubles be few.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional"
+  },
+  {
+    "id": 531,
+    "type": "toast",
+    "text": "To new beginnings: may the pages of this chapter be the best ones yet.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 532,
+    "type": "toast",
+    "text": "May your choices reflect your hopes, not your fears.",
+    "category": "everyday",
+    "author": "Nelson Mandela",
+    "adult": false,
+    "notes": "Attributed quotation"
+  },
+  {
+    "id": 533,
+    "type": "toast",
+    "text": "May you never be too old to set another goal or to dream a new dream.",
+    "category": "everyday",
+    "author": "C.S. Lewis",
+    "adult": false,
+    "notes": "Attributed quotation"
+  },
+  {
+    "id": 534,
+    "type": "toast",
+    "text": "Here's to doing our best, giving ourselves a break, and beginning again tomorrow.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 535,
+    "type": "toast",
+    "text": "May the coffee be strong and the Monday be short.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": "Modern humorous toast"
+  },
+  {
+    "id": 536,
+    "type": "toast",
+    "text": "Here's to the girls: the only men we trust to take our breath away and not our last name.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 537,
+    "type": "toast",
+    "text": "Here's to the friends who knew me then and love me still.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 538,
+    "type": "toast",
+    "text": "Good friends are like stars: you don't always see them, but you know they're always there.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional"
+  },
+  {
+    "id": 539,
+    "type": "toast",
+    "text": "Here's to our friends far away and the ones we get to hug - what a blessing to have known you and to call you friend.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 540,
+    "type": "toast",
+    "text": "To friends: may distance never keep us apart, and may every reunion feel like no time has passed.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 541,
+    "type": "toast",
+    "text": "To the friends who feel like family: thank you for the memories we've made and the ones still to come.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 542,
+    "type": "toast",
+    "text": "May we never have to say goodbye, only 'see you again.'",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 543,
+    "type": "toast",
+    "text": "May the luck of the Irish be with you at all times, and may heaven's full be before you arrive.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional Irish"
+  },
+  {
+    "id": 544,
+    "type": "toast",
+    "text": "May the best of yesterday be the worst of tomorrow.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional"
+  },
+  {
+    "id": 545,
+    "type": "toast",
+    "text": "May every road lead you to a new adventure, and may luck find you around every corner.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 546,
+    "type": "toast",
+    "text": "May you have what you need and want what you have - for that is enough.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 547,
+    "type": "toast",
+    "text": "May fortune smile on you, and may you be ready when she does.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 548,
+    "type": "toast",
+    "text": "Here's to the perfect match - may your love be forever and ever.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 549,
+    "type": "toast",
+    "text": "May the two of you always find in each other what the world never could.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 550,
+    "type": "toast",
+    "text": "Here's to the years behind you and the lifetime ahead: may your love only grow deeper.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 551,
+    "type": "toast",
+    "text": "To another year of inside jokes, shared meals, and loving each other through it all.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 552,
+    "type": "toast",
+    "text": "May your love story never get old - here's to the chapters still to come.",
+    "category": "anniversary",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 553,
+    "type": "toast",
+    "text": "Here's to the one who holds my heart: you are my today and all of my tomorrows.",
+    "category": "romance",
+    "author": "Leo Christopher",
+    "adult": false,
+    "notes": "Attributed quotation"
+  },
+  {
+    "id": 554,
+    "type": "toast",
+    "text": "To my better half: life is simply better with you at my side.",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 555,
+    "type": "toast",
+    "text": "In your arms, I found the home I was searching for all along.",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Best Wedding Toasts"
+  },
+  {
+    "id": 556,
+    "type": "toast",
+    "text": "Here's to love - the kind that feels like coming home.",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 557,
+    "type": "toast",
+    "text": "Here's to being naughty and saving Santa a trip.",
+    "category": "holidays",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 558,
+    "type": "toast",
+    "text": "May your holidays be merry and bright, and may the new year be everything you hope for.",
+    "category": "holidays",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 559,
+    "type": "toast",
+    "text": "To good tidings and better company: may this season warm your heart as much as it fills your glass.",
+    "category": "holidays",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 560,
+    "type": "toast",
+    "text": "May you grow up strong, may you grow up kind, and may you always know how loved you are.",
+    "category": "babies",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 561,
+    "type": "toast",
+    "text": "To this little one: may your life be full of magic and your dreams bigger than the stars.",
+    "category": "babies",
+    "author": null,
+    "adult": false,
+    "notes": "Source: rd.com '100 Best Toasts for Every Occasion', compiled by Charlotte Hilton Andersen (published 2023-03-14); no independent attribution found - appears to be RD editorial"
+  },
+  {
+    "id": 562,
+    "type": "toast",
+    "text": "To the confusion of our enemies.",
+    "category": "celebrity",
+    "author": "J. Robert Oppenheimer",
+    "adult": false,
+    "notes": "Source: ListCaboodle, 100+ Famous Toasts in History and Literature (1940s)"
+  },
+  {
+    "id": 563,
+    "type": "toast",
+    "text": "Here's to 1942, here's to a year of toil - a year of struggle and peril, and a long step forward towards victory.",
+    "category": "celebrity",
+    "author": "Winston Churchill",
+    "adult": false,
+    "notes": "Source: ListCaboodle, 100+ Famous Toasts; New Year's toast, January 1, 1942"
+  },
+  {
+    "id": 564,
+    "type": "toast",
+    "text": "May this kind understanding between our countries grow ever closer, and may our friendship prosper.",
+    "category": "friendship",
+    "author": "Franklin D. Roosevelt",
+    "adult": false,
+    "notes": "Source: ListCaboodle, 100+ Famous Toasts; toast to the King of the United Kingdom, White House dinner, 1939"
+  },
+  {
+    "id": 565,
+    "type": "toast",
+    "text": "Our federal Union: it must be preserved!",
+    "category": "celebrity",
+    "author": "Andrew Jackson",
+    "adult": false,
+    "notes": "Source: ListCaboodle, 100+ Famous Toasts; toast at Thomas Jefferson's birthday celebration, April 1830"
+  },
+  {
+    "id": 566,
+    "type": "toast",
+    "text": "The law: it has honored us; may we honor it.",
+    "category": "celebrity",
+    "author": "Daniel Webster",
+    "adult": false,
+    "notes": "Source: ListCaboodle, 100+ Famous Toasts; Charleston Bar Dinner, May 1847"
+  },
+  {
+    "id": 567,
+    "type": "toast",
+    "text": "With a heart full of love and gratitude I now take leave of you.",
+    "category": "celebrity",
+    "author": "George Washington",
+    "adult": false,
+    "notes": "Source: ListCaboodle, 100+ Famous Toasts; farewell toast at his officers' dinner, 1783"
+  },
+  {
+    "id": 568,
+    "type": "toast",
+    "text": "Too much of anything is bad, but too much good whiskey is barely enough.",
+    "category": "drinking",
+    "author": "Mark Twain",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts"
+  },
+  {
+    "id": 569,
+    "type": "toast",
+    "text": "'Tis a pity wine should be so deleterious, for tea and coffee leave us much more serious.",
+    "category": "drinking",
+    "author": "Lord Byron",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts"
+  },
+  {
+    "id": 570,
+    "type": "toast",
+    "text": "Here's to alcohol, the rose-colored glasses of life.",
+    "category": "drinking",
+    "author": "F. Scott Fitzgerald",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts"
+  },
+  {
+    "id": 571,
+    "type": "toast",
+    "text": "Ho, ho, ho! To the bottle I go, to heal my heart and drown my woe. Rain may fall, and wind may blow, and many miles remain to go.",
+    "category": "drinking",
+    "author": "J.R.R. Tolkien",
+    "adult": false,
+    "notes": "From The Lord of the Rings (Tom Bombadil's drinking song)"
+  },
+  {
+    "id": 572,
+    "type": "toast",
+    "text": "Better belly burst than good liquor be lost.",
+    "category": "drinking",
+    "author": "Jonathan Swift",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts"
+  },
+  {
+    "id": 573,
+    "type": "toast",
+    "text": "Too much of anything is bad, but too much champagne is just right.",
+    "category": "drinking",
+    "author": "Anita Loos",
+    "adult": false,
+    "notes": "From Gentlemen Prefer Blondes, 1925"
+  },
+  {
+    "id": 574,
+    "type": "toast",
+    "text": "Love makes the world go round? Not at all. Whiskey makes it go round twice as fast.",
+    "category": "drinking",
+    "author": "Compton MacKenzie",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts"
+  },
+  {
+    "id": 575,
+    "type": "toast",
+    "text": "Within this goblet, rich and deep, I cradle all my woes to sleep.",
+    "category": "drinking",
+    "author": "Thomas Moore",
+    "adult": false,
+    "notes": "Source: ListCaboodle, 100+ Famous Toasts"
+  },
+  {
+    "id": 576,
+    "type": "toast",
+    "text": "Fill the bumper fair; every drop we sprinkle o'er the brow of care smooths away a wrinkle.",
+    "category": "drinking",
+    "author": "Thomas Moore",
+    "adult": false,
+    "notes": "Source: ListCaboodle, 100+ Famous Toasts"
+  },
+  {
+    "id": 577,
+    "type": "toast",
+    "text": "The man that isn't jolly after drinking is just a driveling idiot, to my thinking.",
+    "category": "drinking",
+    "author": "Euripides",
+    "adult": false,
+    "notes": "Adapted quotation; Source: ListCaboodle, 100+ Famous Toasts"
+  },
+  {
+    "id": 578,
+    "type": "toast",
+    "text": "Come, come, good wine is a good familiar creature, if it be well used.",
+    "category": "drinking",
+    "author": "William Shakespeare",
+    "adult": false,
+    "notes": "From Othello, Act II, Scene 3"
+  },
+  {
+    "id": 579,
+    "type": "toast",
+    "text": "Here's to today! For tomorrow we may be radioactive.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, 100+ Famous Toasts (1950s toast)"
+  },
+  {
+    "id": 580,
+    "type": "toast",
+    "text": "To the enemies of our country: may they have cobweb breeches, a porcupine saddle, a hard-trotting horse, and a road that never ends.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Classic toast to enemies; Source: ListCaboodle, 100+ Famous Toasts"
+  },
+  {
+    "id": 581,
+    "type": "toast",
+    "text": "May your lips never blister and your glass never be empty.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 582,
+    "type": "toast",
+    "text": "Here's to staying positive and testing negative.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 583,
+    "type": "toast",
+    "text": "May all your ups and downs be between the sheets.",
+    "category": "drinking",
+    "author": null,
+    "adult": true,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 584,
+    "type": "toast",
+    "text": "May we live long enough to regret nothing, or at least remember nothing.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 585,
+    "type": "toast",
+    "text": "Here's to making good decisions - and ignoring them tonight.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 586,
+    "type": "toast",
+    "text": "Here's to alcohol, the cause and solution to all of life's problems.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Widely circulated; Source: TheWriteGreeting, Toasts to Friends"
+  },
+  {
+    "id": 587,
+    "type": "toast",
+    "text": "Here's to them that wish us well, and all the rest can go to hell!",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional; Source: TheWriteGreeting, Toasts to Friends"
+  },
+  {
+    "id": 588,
+    "type": "toast",
+    "text": "Heaven give you many, many merry days.",
+    "category": "everyday",
+    "author": "William Shakespeare",
+    "adult": false,
+    "notes": "From The Merry Wives of Windsor"
+  },
+  {
+    "id": 589,
+    "type": "toast",
+    "text": "I wish you all the joy you can wish.",
+    "category": "everyday",
+    "author": "William Shakespeare",
+    "adult": false,
+    "notes": "From The Merchant of Venice"
+  },
+  {
+    "id": 590,
+    "type": "toast",
+    "text": "Lack nothing: be merry.",
+    "category": "everyday",
+    "author": "William Shakespeare",
+    "adult": false,
+    "notes": "From Henry IV"
+  },
+  {
+    "id": 591,
+    "type": "toast",
+    "text": "Fair thought and happy hours attend you.",
+    "category": "everyday",
+    "author": "William Shakespeare",
+    "adult": false,
+    "notes": "From The Merchant of Venice"
+  },
+  {
+    "id": 592,
+    "type": "toast",
+    "text": "All days of glory, joy and happiness.",
+    "category": "everyday",
+    "author": "William Shakespeare",
+    "adult": false,
+    "notes": "From King John"
+  },
+  {
+    "id": 593,
+    "type": "toast",
+    "text": "To your health, your wealth, and the time to enjoy them both!",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional; Source: ListCaboodle, Birthday Toasts"
+  },
+  {
+    "id": 594,
+    "type": "toast",
+    "text": "May your birthday be as bright as your smile and as sweet as this cake.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Birthday Toasts"
+  },
+  {
+    "id": 595,
+    "type": "toast",
+    "text": "Here's to another year of making memories we will probably forget.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Birthday Toasts"
+  },
+  {
+    "id": 596,
+    "type": "toast",
+    "text": "To the person who knows all my secrets and still likes me.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Birthday Toasts"
+  },
+  {
+    "id": 597,
+    "type": "toast",
+    "text": "Cheers to a year of fewer whys and more why nots.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Birthday Toasts"
+  },
+  {
+    "id": 598,
+    "type": "toast",
+    "text": "To the person who makes every room brighter just by walking in.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Birthday Toasts"
+  },
+  {
+    "id": 599,
+    "type": "toast",
+    "text": "May your birthday be the least exciting day of your upcoming year.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Birthday Toasts"
+  },
+  {
+    "id": 600,
+    "type": "toast",
+    "text": "To the birthday star: may your sparkle never fade.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Birthday Toasts"
+  },
+  {
+    "id": 601,
+    "type": "toast",
+    "text": "Cheers to the best thing that ever happened to this family - our guest of honor.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Birthday Toasts"
+  },
+  {
+    "id": 602,
+    "type": "toast",
+    "text": "To another year of laughter, lessons, and unforgettable nights.",
+    "category": "birthday",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 603,
+    "type": "toast",
+    "text": "To good friends and even better memories.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 604,
+    "type": "toast",
+    "text": "Here's to us: few in number, strong in spirit.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 605,
+    "type": "toast",
+    "text": "May we always have each other's backs when it matters most.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 606,
+    "type": "toast",
+    "text": "Here's to those who've seen us at our worst and still love us.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: TheWriteGreeting, Toasts to Friends"
+  },
+  {
+    "id": 607,
+    "type": "toast",
+    "text": "Here's to the friends who make us feel like we can conquer the world - or at least the next round.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Source: TheWriteGreeting, Toasts to Friends"
+  },
+  {
+    "id": 608,
+    "type": "toast",
+    "text": "May your joys be as deep as the ocean and your troubles as light as foam.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 609,
+    "type": "toast",
+    "text": "May we live long, laugh often, and love deeply.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 610,
+    "type": "toast",
+    "text": "To health, happiness, and everything in between.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 611,
+    "type": "toast",
+    "text": "Cheers to today, because it won't come again.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 612,
+    "type": "toast",
+    "text": "May your heart be light and your step be quick, may you find love and never be sick.",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional; Source: TheWriteGreeting, Toasts to Friends"
+  },
+  {
+    "id": 613,
+    "type": "toast",
+    "text": "Here's to love, laughter, and happily ever after.",
+    "category": "romance",
+    "author": null,
+    "adult": false,
+    "notes": "Source: ListCaboodle, Short Toasts"
+  },
+  {
+    "id": 614,
+    "type": "toast",
+    "text": "Wine it is the milk of Venus, And the poet's horse accounted: Ply it and you all are mounted.",
+    "category": "drinking",
+    "author": "Ben Jonson",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 615,
+    "type": "toast",
+    "text": "But that which most doth take my muse and me, Is a pure cup of rich Canary wine, Which is the mermaid's now, but shall be mine.",
+    "category": "drinking",
+    "author": "Ben Jonson",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 616,
+    "type": "toast",
+    "text": "Sparkling and bright, in liquid light, Does the wine our goblets gleam in; With hue as red as the rosy bed Which a bee would choose to dream in.",
+    "category": "drinking",
+    "author": "Charles Fenno Hoffman",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 617,
+    "type": "toast",
+    "text": "Men to whom wine had brought death long before lay by springs of wine and drank still, too stupefied to know their lives were past.",
+    "category": "drinking",
+    "author": "Gene Wolfe",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 618,
+    "type": "toast",
+    "text": "You cannot know wine by the barrel.",
+    "category": "drinking",
+    "author": "George Herbert",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 619,
+    "type": "toast",
+    "text": "Wine makes all sorts of creatures at table.",
+    "category": "drinking",
+    "author": "George Herbert",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 620,
+    "type": "toast",
+    "text": "The wine in the bottle does not quench thirst.",
+    "category": "drinking",
+    "author": "George Herbert",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 621,
+    "type": "toast",
+    "text": "To me wine is just so much spoiled fruit juice.",
+    "category": "drinking",
+    "author": "Glen Cook",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 622,
+    "type": "toast",
+    "text": "If all be true that I do think, There are five reasons we should drink: Good wine, a friend, or being dry, Or lest we should be by and by, Or any other reason why.",
+    "category": "drinking",
+    "author": "Henry Aldrich",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 623,
+    "type": "toast",
+    "text": "Filled with the wine Of the vine Benign That flames so red in Sansavine.",
+    "category": "drinking",
+    "author": "Henry Wadsworth Longfellow",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 624,
+    "type": "toast",
+    "text": "And wine can of their wits the wise beguile, Make the sage frolic, and the serious smile.",
+    "category": "drinking",
+    "author": "Homer",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 625,
+    "type": "toast",
+    "text": "He has had a smack of every sort of wine, from humble port to Imperial Tokay.",
+    "category": "drinking",
+    "author": "James Townley",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 626,
+    "type": "toast",
+    "text": "Things of greatest profit are set forth with least price. Where the wine is neat there needeth no ivy bush.",
+    "category": "drinking",
+    "author": "John Lyly",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 627,
+    "type": "toast",
+    "text": "The Grape that can with Logic absolute The Two-and-Seventy jarring Sects confute: The sovereign Alchemist that in a trice Life's leaden metal into Gold transmute.",
+    "category": "drinking",
+    "author": "Omar Khayyam",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 628,
+    "type": "toast",
+    "text": "It has become quite a common proverb that in wine there is truth.",
+    "category": "drinking",
+    "author": "Pliny the Elder",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 629,
+    "type": "toast",
+    "text": "Day and night my thoughts incline To the blandishments of wine, Jars were made to drain, I think; Wine, I know, was made to drink.",
+    "category": "drinking",
+    "author": "Richard Henry Stoddard",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 630,
+    "type": "toast",
+    "text": "Claret is the liquor for boys; port for men; but he who aspires to be a hero must drink brandy.",
+    "category": "drinking",
+    "author": "Samuel Johnson",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 631,
+    "type": "toast",
+    "text": "They say wine will kill you slowly.” He nodded his head solemnly. “But that’s all right, we’re in no hurry.",
+    "category": "drinking",
+    "author": "Sean Russell",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 632,
+    "type": "toast",
+    "text": "For when the wine is in, the wit is out.",
+    "category": "drinking",
+    "author": "Thomas Becon",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 633,
+    "type": "toast",
+    "text": "I was in love with a beautiful blonde once. She drove me to drink; that's the one thing I'm indebted to her for.",
+    "category": "drinking",
+    "author": "W. C. Fields",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 634,
+    "type": "toast",
+    "text": "Give me a bowl of wine; In this I bury all unkindness.",
+    "category": "drinking",
+    "author": "William Shakespeare",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 635,
+    "type": "toast",
+    "text": "A cup of hot wine with not a drop of allaying Tiber in 't.",
+    "category": "drinking",
+    "author": "William Shakespeare",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Wine page"
+  },
+  {
+    "id": 636,
+    "type": "toast",
+    "text": "Here With my beer I sit, While golden moments flit: Alas! They pass Unheeded by: And as they fly, I, Being dry, Sit, idly sipping here My beer.",
+    "category": "drinking",
+    "author": "George Arnold",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Beer page"
+  },
+  {
+    "id": 637,
+    "type": "toast",
+    "text": "They who drink beer will think beer.",
+    "category": "drinking",
+    "author": "Washington Irving",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Beer page"
+  },
+  {
+    "id": 638,
+    "type": "toast",
+    "text": "The better part of one's life consists of his friendships.",
+    "category": "friendship",
+    "author": "Abraham Lincoln",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 639,
+    "type": "toast",
+    "text": "Trust not yourself; but your defects to know, Make use of ev'ry friend—and ev'ry foe.",
+    "category": "friendship",
+    "author": "Alexander Pope",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 640,
+    "type": "toast",
+    "text": "Absent or dead, still let a friend be dear, (A sigh the absent claims, the dead a tear.)",
+    "category": "friendship",
+    "author": "Alexander Pope",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 641,
+    "type": "toast",
+    "text": "Ah, friend! to dazzle let the vain design; To raise the thought and touch the heart be thine.",
+    "category": "friendship",
+    "author": "Alexander Pope",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 642,
+    "type": "toast",
+    "text": "Then came your new friend: you began to change— I saw it and grieved.",
+    "category": "friendship",
+    "author": "Alfred Tennyson",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 643,
+    "type": "toast",
+    "text": "O friendship, equal-poised control, O heart, with kindliest motion warm, O sacred essence, other form, O solemn ghost, O crowned soul!",
+    "category": "friendship",
+    "author": "Alfred Tennyson",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 644,
+    "type": "toast",
+    "text": "Stay is a charming word in a friend's vocabulary.",
+    "category": "friendship",
+    "author": "Amos Bronson Alcott",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 645,
+    "type": "toast",
+    "text": "Misfortune shows those who are not really friends.",
+    "category": "friendship",
+    "author": "Aristotle",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 646,
+    "type": "toast",
+    "text": "Piety requires us to honor truth above our friends.",
+    "category": "friendship",
+    "author": "Aristotle",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 647,
+    "type": "toast",
+    "text": "Without friends no one would choose to live, though he had all other goods.",
+    "category": "friendship",
+    "author": "Aristotle",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 648,
+    "type": "toast",
+    "text": "Friend, of my infinite dreams Little enough endures; Little howe'er it seems, It is yours, all yours.",
+    "category": "friendship",
+    "author": "Arthur Benson",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 649,
+    "type": "toast",
+    "text": "No friend's a friend till [he shall] prove a friend.",
+    "category": "friendship",
+    "author": "Beaumont and Fletcher",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 650,
+    "type": "toast",
+    "text": "There are three faithful friends: an old wife, an old dog, and ready money.",
+    "category": "friendship",
+    "author": "Benjamin Franklin",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 651,
+    "type": "toast",
+    "text": "Thou canst not joke an Enemy into a Friend; but thou may'st a Friend into an Enemy.",
+    "category": "friendship",
+    "author": "Benjamin Franklin",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 652,
+    "type": "toast",
+    "text": "'Tis great Confidence in a Friend to tell him your Faults, greater to tell him his.",
+    "category": "friendship",
+    "author": "Benjamin Franklin",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 653,
+    "type": "toast",
+    "text": "It is better to avenge a friend than to mourn for him.",
+    "category": "friendship",
+    "author": "Beowulf",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 654,
+    "type": "toast",
+    "text": "True friendship is like sound health; the value of it is seldom known until it be lost.",
+    "category": "friendship",
+    "author": "Charles Caleb Colton",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 655,
+    "type": "toast",
+    "text": "Friends I have made, whom Envy must commend, But not one foe whom I would wish a friend.",
+    "category": "friendship",
+    "author": "Charles Churchill",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 656,
+    "type": "toast",
+    "text": "Greatly his foes he dreads, but more his friends, He hurts me most who lavishly commends.",
+    "category": "friendship",
+    "author": "Charles Churchill",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 657,
+    "type": "toast",
+    "text": "The pain of parting is nothing to the joy of meeting again.",
+    "category": "friendship",
+    "author": "Charles Dickens",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 658,
+    "type": "toast",
+    "text": "Fan the sinking flame of hilarity with the wing of friendship; and pass the rosy wine.",
+    "category": "friendship",
+    "author": "Charles Dickens",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 659,
+    "type": "toast",
+    "text": "Friendship is a cadence of divine melody melting through the heart.",
+    "category": "friendship",
+    "author": "Charles Mildway",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 660,
+    "type": "toast",
+    "text": "You must therefore love me, myself, and not my circumstances, if we are to be real friends.",
+    "category": "friendship",
+    "author": "Cicero",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 661,
+    "type": "toast",
+    "text": "God save me from my friends, I can protect myself from my enemies.",
+    "category": "friendship",
+    "author": "Claude Louis Hector de Villars",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 662,
+    "type": "toast",
+    "text": "Friends are like the autumn; every year they leaving.",
+    "category": "friendship",
+    "author": "DaBaby",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 663,
+    "type": "toast",
+    "text": "Other dogs bite only their enemies, whereas I bite also my friends in order to save them.",
+    "category": "friendship",
+    "author": "Diogenes of Sinope",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 664,
+    "type": "toast",
+    "text": "There is no man so friendless but what he can find a friend sincere enough to tell him disagreeable truths.",
+    "category": "friendship",
+    "author": "Edward Bulwer-Lytton",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 665,
+    "type": "toast",
+    "text": "A friend is worth all hazards we can run.",
+    "category": "friendship",
+    "author": "Edward Young",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 666,
+    "type": "toast",
+    "text": "And friend received with thumps upon the back.",
+    "category": "friendship",
+    "author": "Edward Young",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 667,
+    "type": "toast",
+    "text": "A foe to God was ne'er true friend to man, Some sinister intent taints all he does.",
+    "category": "friendship",
+    "author": "Edward Young",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Friendship page"
+  },
+  {
+    "id": 668,
+    "type": "toast",
+    "text": "A mighty pain to love it is, And 'tis a pain that pain to miss; But, of all pains, the greatest pain Is to love, but love in vain.",
+    "category": "romance",
+    "author": "Abraham Cowley",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 669,
+    "type": "toast",
+    "text": "Love can create universes. Love and Wisdom are equal.",
+    "category": "romance",
+    "author": "Agni Yoga",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 670,
+    "type": "toast",
+    "text": "There is not love of life without despair about life.",
+    "category": "romance",
+    "author": "Albert Camus",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 671,
+    "type": "toast",
+    "text": "There can be no true goodness, nor true love, without the utmost clear-sightedness.",
+    "category": "romance",
+    "author": "Albert Camus",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 672,
+    "type": "toast",
+    "text": "In Oran, as elsewhere, for want of time and thought, people have to love one another without knowing it.",
+    "category": "romance",
+    "author": "Albert Camus",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 673,
+    "type": "toast",
+    "text": "Falling in love is not at all the most stupid thing that people do — but gravitation cannot be held responsible for it.",
+    "category": "romance",
+    "author": "Albert Einstein",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 674,
+    "type": "toast",
+    "text": "I believe that we don't need to worry about what happens after this life, as long as we do our duty here—to love and to serve.",
+    "category": "romance",
+    "author": "Albert Einstein",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 676,
+    "type": "toast",
+    "text": "The ethic of Reverence for Life is the ethic of Love widened into universality.",
+    "category": "romance",
+    "author": "Albert Schweitzer",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 677,
+    "type": "toast",
+    "text": "The is so often driven to write about love because he has not got enough material from other walks of life.",
+    "category": "romance",
+    "author": "Alec Waugh",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 678,
+    "type": "toast",
+    "text": "Love will begin when the world ends.",
+    "category": "romance",
+    "author": "Aleksandr Dugin",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 679,
+    "type": "toast",
+    "text": "A heart can no more be forced to love than a stomach can be forced to digest food by persuasion.",
+    "category": "romance",
+    "author": "Alfred Nobel",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 680,
+    "type": "toast",
+    "text": "God gives us love. Something to love He lends us; but when love is grown To ripeness, that on which it throve Falls off, and love is left alone.",
+    "category": "romance",
+    "author": "Alfred Tennyson",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 681,
+    "type": "toast",
+    "text": "Our way is where God knows And Love knows where: We are in Love’s hand to-day.",
+    "category": "romance",
+    "author": "Algernon Charles Swinburne",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 682,
+    "type": "toast",
+    "text": "If love were what the rose is, And I were like the leaf, Our lives would grow together In sad or singing weather.",
+    "category": "romance",
+    "author": "Algernon Charles Swinburne",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 684,
+    "type": "toast",
+    "text": "Let love be the keynote in all relationships, for the power which must salvage the world is the precipitation of love.",
+    "category": "romance",
+    "author": "Alice Bailey",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 685,
+    "type": "toast",
+    "text": "Arrest each unloving thought; stamp out each critical action, and teach yourself to love all beings - not in theory but in deed and in truth.",
+    "category": "romance",
+    "author": "Alice Bailey",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 686,
+    "type": "toast",
+    "text": "Our souls are brought together so that we could love each other.",
+    "category": "romance",
+    "author": "Alicia Keys",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 687,
+    "type": "toast",
+    "text": "Love makes you do the wacky.",
+    "category": "romance",
+    "author": "Alyson Hannigan",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 688,
+    "type": "toast",
+    "text": "Love rules without rules.",
+    "category": "romance",
+    "author": "Amor",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 689,
+    "type": "toast",
+    "text": "One can give without loving, but one cannot love without giving",
+    "category": "romance",
+    "author": "Amy Carmichael",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 690,
+    "type": "toast",
+    "text": "Protesting is an act of love. It is born of a deeply held conviction that the world can be a better, kinder place.",
+    "category": "romance",
+    "author": "Amy Goodman",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 691,
+    "type": "toast",
+    "text": "We’ve loved these people since the day we arrived. When you love something, you protect it.",
+    "category": "romance",
+    "author": "Angelina Jolie",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 692,
+    "type": "toast",
+    "text": "The first sigh of love is the last of wisdom.",
+    "category": "romance",
+    "author": "Antoine Bret",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 693,
+    "type": "toast",
+    "text": "Love is an egotism of two.",
+    "category": "romance",
+    "author": "Antoine de Salle",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 694,
+    "type": "toast",
+    "text": "Love, like reputation, once fled, never returns more.",
+    "category": "romance",
+    "author": "Aphra Behn",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 695,
+    "type": "toast",
+    "text": "One hour of right-down love is worth an age of dully living on.",
+    "category": "romance",
+    "author": "Aphra Behn",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 696,
+    "type": "toast",
+    "text": "I am bewildered by the death of love. And my responsibility for it.",
+    "category": "romance",
+    "author": "Arthur Miller",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 697,
+    "type": "toast",
+    "text": "What love will make you do All the things that we accept Be the things that we regret.",
+    "category": "romance",
+    "author": "Ashanti",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Love page"
+  },
+  {
+    "id": 698,
+    "type": "toast",
+    "text": "Today is a special day, it’s my birthday with my life partner",
+    "category": "birthday",
+    "author": "Abdelnasser Abdelfattah",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Birthday page"
+  },
+  {
+    "id": 699,
+    "type": "toast",
+    "text": "Happy and blessed birthday to every lover, and may love bring us together, and may the world hear us.",
+    "category": "birthday",
+    "author": "Abdelnasser Abdelfattah",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Birthday page"
+  },
+  {
+    "id": 700,
+    "type": "toast",
+    "text": "A birthday:—and now a day that rose With much of hope, with meaning rife— A thoughtful day from dawn to close: The middle day of human life.",
+    "category": "birthday",
+    "author": "Jean Ingelow",
+    "adult": false,
+    "notes": "Attributed quotation; Source: Wikiquote, Birthday page"
+  },
+  {
+    "id": 701,
+    "type": "toast",
+    "text": "Here’s to the new radio— Here’s to our neighbor’s loudspeaker So loud we need none of our own May its volume never grow weaker.",
+    "category": "everyday",
+    "author": null,
+    "adult": false,
+    "notes": "1930s toast (no named author); Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 702,
+    "type": "toast",
+    "text": "Ring out the old, ring in the new, Ring, happy bells, across the snow: The year is going, let him go; Ring out the false, ring in the true.",
+    "category": "holidays",
+    "author": "Alfred Lord Tennyson",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 704,
+    "type": "toast",
+    "text": "Fill up the goblet, let it swim In foam, that overlooks the brim; He that drinks deepest, here’s to him.",
+    "category": "drinking",
+    "author": "Charles Cotton",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 705,
+    "type": "toast",
+    "text": "Mystery and disappointment are not absolutely indispensable to the growth of love, but they are often very powerful auxiliaries.",
+    "category": "romance",
+    "author": "Charles Dickens",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature; From Nicholas Nickleby"
+  },
+  {
+    "id": 706,
+    "type": "toast",
+    "text": "May the hinges of friendship never rust, or the wings of love lose a feather.",
+    "category": "friendship",
+    "author": "Edward Bannerman Ramsay",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 707,
+    "type": "toast",
+    "text": "The love you give away is the only love you keep.",
+    "category": "romance",
+    "author": "Elbert Hubbard",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 708,
+    "type": "toast",
+    "text": "You only get married for the second time once.",
+    "category": "wedding",
+    "author": "Garrison Keillor",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 709,
+    "type": "toast",
+    "text": "Ireland, sir, for good or evil, is like no other place under heaven, and no man can touch its sod or breathe its air without becoming better or worse.",
+    "category": "celebrity",
+    "author": "George Bernard Shaw",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 710,
+    "type": "toast",
+    "text": "One sip of this will bathe the drooping spirits in delight beyond the bliss of dreams.",
+    "category": "drinking",
+    "author": "John Milton",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 711,
+    "type": "toast",
+    "text": "I wish for you four animals: a mink on the shoulders, a Jaguar in the garage, a tiger in the bedroom, and a jackass to pay for it all. To you!.",
+    "category": "luck",
+    "author": "John Oldale",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 712,
+    "type": "toast",
+    "text": "May you live all the days of your life.",
+    "category": "birthday",
+    "author": "Jonathan Swift",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 713,
+    "type": "toast",
+    "text": "Let us have wine and women, mirth and laughter, We will not ask her name.",
+    "category": "drinking",
+    "author": "Lord Byron",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 714,
+    "type": "toast",
+    "text": "Were it the last drink in the well, As I gasped upon the brink, ‘Ere my fainting spirit fell, ’Tis to thee that I would drink.",
+    "category": "drinking",
+    "author": "Lord Byron",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 715,
+    "type": "toast",
+    "text": "Laugh at all things, Great and small things, Sick or well, at sea or shore; While we’re quaffing, Let’s have laughing— Who the devil cares for more?.",
+    "category": "drinking",
+    "author": "Lord Byron",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 716,
+    "type": "toast",
+    "text": "When the husband drinks to the wife, all would be well; when the wife drinks to the husband, all is.",
+    "category": "wedding",
+    "author": null,
+    "adult": false,
+    "notes": "Old English proverb (no named author); Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 717,
+    "type": "toast",
+    "text": "May good fortune follow you all your days (And never catch up with you.).",
+    "category": "luck",
+    "author": null,
+    "adult": false,
+    "notes": "Old Irish toast (no named author); Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 718,
+    "type": "toast",
+    "text": "It’s the best wine that goeth down sweetly, causing the lips whoso drinketh to murmur in praise.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Old proverb (no named author); Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 719,
+    "type": "toast",
+    "text": "But fill me with the old familiar juice, Methinks I might recover bye and bye.",
+    "category": "drinking",
+    "author": "Omar Khayyam",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 720,
+    "type": "toast",
+    "text": "The old believe everything, the middle-aged suspect everything, the young know everything.",
+    "category": "celebrity",
+    "author": "Oscar Wilde",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 721,
+    "type": "toast",
+    "text": "Here’s to Prohibition, The devil take it! They’ve stolen our wine, So now we make it.",
+    "category": "drinking",
+    "author": null,
+    "adult": false,
+    "notes": "Prohibition toast (no named author); Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 722,
+    "type": "toast",
+    "text": "Here’s to the happy man: All the world loves a lover.",
+    "category": "romance",
+    "author": "Ralph Waldo Emerson",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 723,
+    "type": "toast",
+    "text": "Eere’s to your goot healdth, und your family’s goot healdth, Und may you live long und brosper.",
+    "category": "drinking",
+    "author": "Rip Van Winkle",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 725,
+    "type": "toast",
+    "text": "All the world’s a stage and most of us are desperately unrehearsed.",
+    "category": "celebrity",
+    "author": "Sean O’Casey",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 726,
+    "type": "toast",
+    "text": "It is not a sin not to be Irish, but it is a great shame.",
+    "category": "celebrity",
+    "author": "Sean O’Huiginn",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 727,
+    "type": "toast",
+    "text": "For last year’s words belong to last year’s language. And next year’s words await another voice. And to make an end is to make a beginning.",
+    "category": "celebrity",
+    "author": "T.S. Eliot",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 728,
+    "type": "toast",
+    "text": "Heaven send thee good fortune.",
+    "category": "luck",
+    "author": "William Shakespeare",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature; From The Merry Wives of Windsor"
+  },
+  {
+    "id": 729,
+    "type": "toast",
+    "text": "As half in shade and half in sun This world along its path advances, May that side the sun’s upon Be all that e’er shall meet they glances!.",
+    "category": "luck",
+    "author": "Thomas Moore",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 730,
+    "type": "toast",
+    "text": "Friends may come, friends may go, Friends may peter out, oh you know. But we’ll be friends through thick and thin, So long as this bar doesn’t run out of gin.",
+    "category": "friendship",
+    "author": null,
+    "adult": false,
+    "notes": "Traditional English toast (no named author); Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 731,
+    "type": "toast",
+    "text": "Think where man’s glory most begins and ends, and say my glory was I had such friends.",
+    "category": "friendship",
+    "author": "William Butler Yeats",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 732,
+    "type": "toast",
+    "text": "Cast your mind on other days That we in coming days may be Still the indomitable Irishry.",
+    "category": "celebrity",
+    "author": "William Butler Yeats",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
+  },
+  {
+    "id": 733,
+    "type": "toast",
+    "text": "Gentlemen, I believe your victories were won on water.",
+    "category": "celebrity",
+    "author": "William Jennings Bryan",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature; Toast, 1908"
+  },
+  {
+    "id": 734,
+    "type": "toast",
+    "text": "I drink it as the Fates ordain it, Come, fill it, and have done with rhymes; Fill up the lonely glass, and drain it In memory of dear old times.",
+    "category": "drinking",
+    "author": "William Makepeace Thackeray",
+    "adult": false,
+    "notes": "Attributed quotation; Source: ListCaboodle, 100+ Famous Toasts in History and Literature"
   }
 ]
